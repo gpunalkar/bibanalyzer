@@ -1,0 +1,3035 @@
+BOR <isPunctOrUpper> 
+&nbsp; 
+Kohn 
+&nbsp; 
+LT <isPunctOrUpper> 
+, 
+&nbsp; 
+Corrigan 
+&nbsp; 
+JM <isPunctOrUpper> 
+, 
+&nbsp; 
+Donaldson 
+&nbsp; 
+MS <isPunctOrUpper> 
+&nbsp; 
+( 
+eds 
+) 
+&nbsp; 
+( 
+2000  <isYear> 
+) 
+&nbsp; 
+To 
+&nbsp; 
+err 
+&nbsp; 
+is 
+&nbsp; 
+human 
+: 
+&nbsp; 
+building 
+&nbsp; 
+a 
+&nbsp; 
+safer 
+&nbsp; 
+health 
+&nbsp; 
+system 
+. <isPunctOrUpper> 
+&nbsp; 
+National 
+&nbsp; 
+Academy 
+&nbsp; 
+Press 
+, 
+&nbsp; 
+Washington 
+&nbsp; 
+DC <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Lilford 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Mohammed 
+&nbsp; 
+MA <isPunctOrUpper> 
+, 
+&nbsp; 
+Spiegelhalter 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Thomson 
+&nbsp; 
+R <isPunctOrUpper> 
+&nbsp; 
+( 
+2004  <isYear> 
+) 
+&nbsp; 
+Use 
+&nbsp; 
+and 
+&nbsp; 
+misuse 
+&nbsp; 
+of 
+&nbsp; 
+process 
+&nbsp; 
+and 
+&nbsp; 
+outcome 
+&nbsp; 
+data 
+&nbsp; 
+in 
+&nbsp; 
+managing 
+&nbsp; 
+performance 
+&nbsp; 
+of 
+&nbsp; 
+acute 
+&nbsp; 
+medical 
+&nbsp; 
+care 
+: 
+&nbsp; 
+avoiding 
+&nbsp; 
+institutional 
+&nbsp; 
+stigma 
+. <isPunctOrUpper> 
+&nbsp; 
+Lancet 
+&nbsp; 
+363 
+: 
+1147 
+– 
+1154 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Blendon 
+&nbsp; 
+RJ <isPunctOrUpper> 
+, 
+&nbsp; 
+DesRoches 
+&nbsp; 
+CM <isPunctOrUpper> 
+, 
+&nbsp; 
+Brodie 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Jm 
+&nbsp; 
+Benson 
+, 
+&nbsp; 
+Rosen 
+&nbsp; 
+AB <isPunctOrUpper> 
+, 
+&nbsp; 
+Schneider 
+&nbsp; 
+EC <isPunctOrUpper> 
+, 
+&nbsp; 
+Altman 
+&nbsp; 
+DE <isPunctOrUpper> 
+, 
+&nbsp; 
+Zapert 
+&nbsp; 
+K <isPunctOrUpper> 
+, 
+&nbsp; 
+Herrmann 
+&nbsp; 
+NL <isPunctOrUpper> 
+, 
+&nbsp; 
+Steffenson 
+&nbsp; 
+AE <isPunctOrUpper> 
+&nbsp; 
+( 
+2002  <isYear> 
+) 
+&nbsp; 
+Views 
+&nbsp; 
+of 
+&nbsp; 
+practicing 
+&nbsp; 
+physicians 
+&nbsp; 
+and 
+&nbsp; 
+the 
+&nbsp; 
+public 
+&nbsp; 
+on 
+&nbsp; 
+medical 
+&nbsp; 
+errors 
+. <isPunctOrUpper> 
+&nbsp; 
+N <isPunctOrUpper> 
+&nbsp; 
+Engl 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Med 
+&nbsp; 
+347 
+: 
+1933  <isYear> 
+– 
+1939  <isYear> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Altman 
+&nbsp; 
+DE <isPunctOrUpper> 
+, 
+&nbsp; 
+Clancy 
+&nbsp; 
+C <isPunctOrUpper> 
+, 
+&nbsp; 
+Blendon 
+&nbsp; 
+RJ <isPunctOrUpper> 
+&nbsp; 
+( 
+2004  <isYear> 
+) 
+&nbsp; 
+Improving 
+&nbsp; 
+patient 
+&nbsp; 
+safety—five 
+&nbsp; 
+years 
+&nbsp; 
+after 
+&nbsp; 
+the 
+&nbsp; 
+IOM <isPunctOrUpper> 
+&nbsp; 
+report 
+. <isPunctOrUpper> 
+&nbsp; 
+N <isPunctOrUpper> 
+&nbsp; 
+Engl 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Med 
+&nbsp; 
+351 
+: 
+2041  <isYear> 
+– 
+2043  <isYear> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Donabedian 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+( 
+1990  <isYear> 
+) 
+&nbsp; 
+The 
+&nbsp; 
+seven 
+&nbsp; 
+pillars 
+&nbsp; 
+of 
+&nbsp; 
+quality 
+. <isPunctOrUpper> 
+&nbsp; 
+Arch 
+&nbsp; 
+Pathol 
+&nbsp; 
+Lab 
+&nbsp; 
+Med 
+&nbsp; 
+114 
+: 
+1115 
+– 
+1118 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Haynes 
+&nbsp; 
+B <isPunctOrUpper> 
+&nbsp; 
+( 
+1999  <isYear> 
+) 
+&nbsp; 
+Can 
+&nbsp; 
+it 
+&nbsp; 
+work? 
+&nbsp; 
+Does 
+&nbsp; 
+it 
+&nbsp; 
+work? 
+&nbsp; 
+Is 
+&nbsp; 
+it 
+&nbsp; 
+worth 
+&nbsp; 
+it? 
+&nbsp; 
+Br 
+&nbsp; 
+Med 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+319 
+: 
+652 
+– 
+653 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Deans 
+&nbsp; 
+KJ <isPunctOrUpper> 
+, 
+&nbsp; 
+Minneci 
+&nbsp; 
+PC <isPunctOrUpper> 
+, 
+&nbsp; 
+Suffredini 
+&nbsp; 
+AF <isPunctOrUpper> 
+, 
+&nbsp; 
+Danner 
+&nbsp; 
+RL <isPunctOrUpper> 
+, 
+&nbsp; 
+Hoffman 
+&nbsp; 
+WD <isPunctOrUpper> 
+, 
+&nbsp; 
+Ciu 
+&nbsp; 
+X <isPunctOrUpper> 
+, 
+&nbsp; 
+Klein 
+&nbsp; 
+HG <isPunctOrUpper> 
+, 
+&nbsp; 
+Schechter 
+&nbsp; 
+AN <isPunctOrUpper> 
+, 
+&nbsp; 
+Banks 
+&nbsp; 
+SM <isPunctOrUpper> 
+, 
+&nbsp; 
+Eichacker 
+&nbsp; 
+PQ <isPunctOrUpper> 
+, 
+&nbsp; 
+Natanson 
+&nbsp; 
+C <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+Randomization 
+&nbsp; 
+in 
+&nbsp; 
+clinical 
+&nbsp; 
+trials 
+&nbsp; 
+of 
+&nbsp; 
+titrated 
+&nbsp; 
+therapies 
+: 
+&nbsp; 
+unintended 
+&nbsp; 
+consequences 
+&nbsp; 
+of 
+&nbsp; 
+using 
+&nbsp; 
+fixed 
+&nbsp; 
+treatment 
+&nbsp; 
+protocols 
+. <isPunctOrUpper> 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+35 
+: 
+1509 
+– 
+1516 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Hopewell 
+&nbsp; 
+S <isPunctOrUpper> 
+, 
+&nbsp; 
+Clarke 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Moher 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Wager 
+&nbsp; 
+E <isPunctOrUpper> 
+, 
+&nbsp; 
+Middleton 
+&nbsp; 
+P <isPunctOrUpper> 
+, 
+&nbsp; 
+Altman 
+&nbsp; 
+DG <isPunctOrUpper> 
+, 
+&nbsp; 
+Schulz 
+&nbsp; 
+KF <isPunctOrUpper> 
+, 
+&nbsp; 
+the 
+&nbsp; 
+CONSORT <isPunctOrUpper> 
+&nbsp; 
+Group 
+&nbsp; 
+( 
+2008  <isYear> 
+) 
+&nbsp; 
+CONSORT <isPunctOrUpper> 
+&nbsp; 
+for 
+&nbsp; 
+reporting 
+&nbsp; 
+randomized 
+&nbsp; 
+controlled 
+&nbsp; 
+trials 
+&nbsp; 
+in 
+&nbsp; 
+journal 
+&nbsp; 
+and 
+&nbsp; 
+conference 
+&nbsp; 
+abstracts 
+: 
+&nbsp; 
+explanation 
+&nbsp; 
+and 
+&nbsp; 
+elaboration 
+. <isPunctOrUpper> 
+&nbsp; 
+PLOS <isPunctOrUpper> 
+&nbsp; 
+Med 
+&nbsp; 
+5 
+: 
+e20 
+. <isPunctOrUpper> 
+&nbsp; 
+doi 
+: 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+10 
+. <isPunctOrUpper> 
+1371 
+/ 
+journal 
+. <isPunctOrUpper> 
+pmed 
+. <isPunctOrUpper> 
+0050020 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+GRADE <isPunctOrUpper> 
+&nbsp; 
+working 
+&nbsp; 
+group 
+&nbsp; 
+( 
+2004  <isYear> 
+) 
+&nbsp; 
+Grading 
+&nbsp; 
+quality 
+&nbsp; 
+of 
+&nbsp; 
+evidence 
+&nbsp; 
+and 
+&nbsp; 
+strength 
+&nbsp; 
+of 
+&nbsp; 
+recommendations 
+. <isPunctOrUpper> 
+&nbsp; 
+Br 
+&nbsp; 
+Med 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+328 
+: 
+1 
+– 
+8 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Tinetti 
+&nbsp; 
+ME <isPunctOrUpper> 
+&nbsp; 
+( 
+2008  <isYear> 
+) 
+&nbsp; 
+Over 
+- 
+the 
+- 
+counter 
+&nbsp; 
+sales 
+&nbsp; 
+of 
+&nbsp; 
+statins 
+&nbsp; 
+and 
+&nbsp; 
+other 
+&nbsp; 
+drugs 
+&nbsp; 
+for 
+&nbsp; 
+asymptomatic 
+&nbsp; 
+conditions 
+. <isPunctOrUpper> 
+&nbsp; 
+N <isPunctOrUpper> 
+&nbsp; 
+Engl 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Med 
+&nbsp; 
+358 
+: 
+2728 
+– 
+2732 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Armitage 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+The 
+&nbsp; 
+safety 
+&nbsp; 
+of 
+&nbsp; 
+statins 
+&nbsp; 
+in 
+&nbsp; 
+clinical 
+&nbsp; 
+practice 
+. <isPunctOrUpper> 
+&nbsp; 
+Lancet 
+&nbsp; 
+370 
+: 
+1890 
+– 
+1891 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Grol 
+&nbsp; 
+R <isPunctOrUpper> 
+&nbsp; 
+( 
+1997  <isYear> 
+) 
+&nbsp; 
+Beliefs 
+&nbsp; 
+and 
+&nbsp; 
+evidence 
+&nbsp; 
+in 
+&nbsp; 
+changing 
+&nbsp; 
+clinical 
+&nbsp; 
+practice 
+. <isPunctOrUpper> 
+&nbsp; 
+Br 
+&nbsp; 
+Med 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+315 
+: 
+418 
+– 
+421 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Garrow 
+&nbsp; 
+JS <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+What 
+&nbsp; 
+to 
+&nbsp; 
+do 
+&nbsp; 
+about 
+&nbsp; 
+CAM <isPunctOrUpper> 
+: 
+&nbsp; 
+how 
+&nbsp; 
+much 
+&nbsp; 
+of 
+&nbsp; 
+orthodox 
+&nbsp; 
+medicine 
+&nbsp; 
+is 
+&nbsp; 
+evidence 
+&nbsp; 
+based? 
+&nbsp; 
+Br 
+&nbsp; 
+Med 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+335 
+: 
+951 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Aronson 
+&nbsp; 
+JK <isPunctOrUpper> 
+&nbsp; 
+( 
+2003  <isYear> 
+) 
+&nbsp; 
+Anecdotes 
+&nbsp; 
+as 
+&nbsp; 
+evidence 
+. <isPunctOrUpper> 
+&nbsp; 
+We 
+&nbsp; 
+need 
+&nbsp; 
+guidelines 
+&nbsp; 
+for 
+&nbsp; 
+reporting 
+&nbsp; 
+anecdotes 
+&nbsp; 
+of 
+&nbsp; 
+suspected 
+&nbsp; 
+adverse 
+&nbsp; 
+drug 
+&nbsp; 
+reactions 
+. <isPunctOrUpper> 
+&nbsp; 
+Br 
+&nbsp; 
+Med 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+326 
+: 
+1346 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Kelley 
+&nbsp; 
+MA <isPunctOrUpper> 
+, 
+&nbsp; 
+Angus 
+&nbsp; 
+DC <isPunctOrUpper> 
+, 
+&nbsp; 
+Chalfin 
+&nbsp; 
+DB <isPunctOrUpper> 
+, 
+&nbsp; 
+Crandall 
+&nbsp; 
+ED <isPunctOrUpper> 
+, 
+&nbsp; 
+Ingbar 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Johanson 
+&nbsp; 
+W <isPunctOrUpper> 
+, 
+&nbsp; 
+Medina 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+Sessler 
+&nbsp; 
+CN <isPunctOrUpper> 
+, 
+&nbsp; 
+Vender 
+&nbsp; 
+JS <isPunctOrUpper> 
+&nbsp; 
+( 
+2004  <isYear> 
+) 
+&nbsp; 
+The 
+&nbsp; 
+critical 
+&nbsp; 
+care 
+&nbsp; 
+crisis 
+&nbsp; 
+in 
+&nbsp; 
+the 
+&nbsp; 
+United 
+&nbsp; 
+States 
+: 
+&nbsp; 
+a 
+&nbsp; 
+report 
+&nbsp; 
+from 
+&nbsp; 
+the 
+&nbsp; 
+profession 
+. <isPunctOrUpper> 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+32 
+: 
+1219 
+– 
+1222 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Pronovost 
+&nbsp; 
+PJ <isPunctOrUpper> 
+, 
+&nbsp; 
+KJenckes 
+&nbsp; 
+MW <isPunctOrUpper> 
+, 
+&nbsp; 
+Dorman 
+&nbsp; 
+T <isPunctOrUpper> 
+, 
+&nbsp; 
+Garrett 
+&nbsp; 
+E <isPunctOrUpper> 
+, 
+&nbsp; 
+Breslow 
+&nbsp; 
+MJ <isPunctOrUpper> 
+, 
+&nbsp; 
+Rosenfeld 
+&nbsp; 
+BA <isPunctOrUpper> 
+, 
+&nbsp; 
+Lipsett 
+&nbsp; 
+PA <isPunctOrUpper> 
+, 
+&nbsp; 
+Bass 
+&nbsp; 
+E <isPunctOrUpper> 
+&nbsp; 
+( 
+1999  <isYear> 
+) 
+&nbsp; 
+Organizational 
+&nbsp; 
+characteristics 
+&nbsp; 
+of 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+units 
+&nbsp; 
+related 
+&nbsp; 
+to 
+&nbsp; 
+outcomes 
+&nbsp; 
+of 
+&nbsp; 
+abdominal 
+&nbsp; 
+aortic 
+&nbsp; 
+surgery 
+. <isPunctOrUpper> 
+&nbsp; 
+JAMA <isPunctOrUpper> 
+&nbsp; 
+281 
+: 
+1310 
+– 
+1317 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Pronovost 
+&nbsp; 
+P <isPunctOrUpper> 
+, 
+&nbsp; 
+Angus 
+&nbsp; 
+DC <isPunctOrUpper> 
+, 
+&nbsp; 
+Dorman 
+&nbsp; 
+T <isPunctOrUpper> 
+, 
+&nbsp; 
+Robinson 
+&nbsp; 
+KA <isPunctOrUpper> 
+, 
+&nbsp; 
+Dremsizov 
+&nbsp; 
+TT <isPunctOrUpper> 
+, 
+&nbsp; 
+Young 
+&nbsp; 
+TL <isPunctOrUpper> 
+&nbsp; 
+( 
+2002  <isYear> 
+) 
+&nbsp; 
+Physician 
+&nbsp; 
+staffing 
+&nbsp; 
+patterns 
+&nbsp; 
+and 
+&nbsp; 
+clinical 
+&nbsp; 
+outcomes 
+&nbsp; 
+in 
+&nbsp; 
+critically 
+&nbsp; 
+ill 
+&nbsp; 
+patients 
+. <isPunctOrUpper> 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+systematic 
+&nbsp; 
+review 
+. <isPunctOrUpper> 
+&nbsp; 
+JAMA <isPunctOrUpper> 
+&nbsp; 
+288 
+: 
+2151 
+– 
+2162 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Amaravadi 
+&nbsp; 
+RK <isPunctOrUpper> 
+, 
+&nbsp; 
+Dimick 
+&nbsp; 
+JB <isPunctOrUpper> 
+, 
+&nbsp; 
+Pronovost 
+&nbsp; 
+PJ <isPunctOrUpper> 
+, 
+&nbsp; 
+Lipsett 
+&nbsp; 
+PA <isPunctOrUpper> 
+&nbsp; 
+( 
+2000  <isYear> 
+) 
+&nbsp; 
+ICU <isPunctOrUpper> 
+&nbsp; 
+nurse 
+- 
+to 
+- 
+patient 
+&nbsp; 
+ratio 
+&nbsp; 
+is 
+&nbsp; 
+associated 
+&nbsp; 
+with 
+&nbsp; 
+complications 
+&nbsp; 
+and 
+&nbsp; 
+resource 
+&nbsp; 
+use 
+&nbsp; 
+after 
+&nbsp; 
+esophagectomy 
+. <isPunctOrUpper> 
+&nbsp; 
+Intensive 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+26 
+: 
+1857 
+– 
+1862 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Valentin 
+&nbsp; 
+A <isPunctOrUpper> 
+, 
+&nbsp; 
+Capuzzo 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Guidet 
+&nbsp; 
+B <isPunctOrUpper> 
+, 
+&nbsp; 
+Moreno 
+&nbsp; 
+RP <isPunctOrUpper> 
+, 
+&nbsp; 
+Dolanski 
+&nbsp; 
+L <isPunctOrUpper> 
+, 
+&nbsp; 
+Bauer 
+&nbsp; 
+P <isPunctOrUpper> 
+, 
+&nbsp; 
+Metnitz 
+&nbsp; 
+PG <isPunctOrUpper> 
+&nbsp; 
+( 
+2006  <isYear> 
+) 
+&nbsp; 
+Patient 
+&nbsp; 
+safety 
+&nbsp; 
+in 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+: 
+&nbsp; 
+results 
+&nbsp; 
+from 
+&nbsp; 
+the 
+&nbsp; 
+multinational 
+&nbsp; 
+sentinel 
+&nbsp; 
+events 
+&nbsp; 
+evaluation 
+&nbsp; 
+( 
+SEE <isPunctOrUpper> 
+) 
+&nbsp; 
+study 
+. <isPunctOrUpper> 
+&nbsp; 
+Intensive 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+32 
+: 
+1591 
+– 
+1598 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Valentin 
+&nbsp; 
+A <isPunctOrUpper> 
+, 
+&nbsp; 
+Capuzzo 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Guidet 
+&nbsp; 
+B <isPunctOrUpper> 
+, 
+&nbsp; 
+Moreno 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Metnitz 
+&nbsp; 
+B <isPunctOrUpper> 
+, 
+&nbsp; 
+Bauer 
+&nbsp; 
+P <isPunctOrUpper> 
+, 
+&nbsp; 
+Metnitz 
+&nbsp; 
+P <isPunctOrUpper> 
+, 
+&nbsp; 
+Research 
+&nbsp; 
+group 
+&nbsp; 
+on 
+&nbsp; 
+quality 
+&nbsp; 
+improvement 
+&nbsp; 
+of 
+&nbsp; 
+the 
+&nbsp; 
+European 
+&nbsp; 
+Society 
+&nbsp; 
+of 
+&nbsp; 
+Intensive 
+&nbsp; 
+Care 
+&nbsp; 
+Medicine 
+&nbsp; 
+( 
+ESICM <isPunctOrUpper> 
+) 
+; 
+&nbsp; 
+Sentinel 
+&nbsp; 
+Events 
+&nbsp; 
+Evaluation 
+&nbsp; 
+( 
+SEE <isPunctOrUpper> 
+) 
+&nbsp; 
+Study 
+&nbsp; 
+Investigators 
+&nbsp; 
+( 
+2009  <isYear> 
+) 
+&nbsp; 
+Errors 
+&nbsp; 
+in 
+&nbsp; 
+the 
+&nbsp; 
+administration 
+&nbsp; 
+of 
+&nbsp; 
+parenteral 
+&nbsp; 
+drugs—an 
+&nbsp; 
+urgent 
+&nbsp; 
+safety 
+&nbsp; 
+issue 
+&nbsp; 
+in 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+units 
+. <isPunctOrUpper> 
+&nbsp; 
+Results 
+&nbsp; 
+from 
+&nbsp; 
+a 
+&nbsp; 
+multinational 
+, 
+&nbsp; 
+prospective 
+&nbsp; 
+study 
+. <isPunctOrUpper> 
+&nbsp; 
+Br 
+&nbsp; 
+Med 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+338 
+: 
+b814 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Kumar 
+&nbsp; 
+A <isPunctOrUpper> 
+, 
+&nbsp; 
+Roberts 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Wood 
+&nbsp; 
+KE <isPunctOrUpper> 
+, 
+&nbsp; 
+Light 
+&nbsp; 
+B <isPunctOrUpper> 
+, 
+&nbsp; 
+Parrillo 
+&nbsp; 
+JE <isPunctOrUpper> 
+, 
+&nbsp; 
+Sharma 
+&nbsp; 
+S <isPunctOrUpper> 
+, 
+&nbsp; 
+Suppes 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Feinstein 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Zanotti 
+&nbsp; 
+S <isPunctOrUpper> 
+, 
+&nbsp; 
+Taiberg 
+&nbsp; 
+L <isPunctOrUpper> 
+, 
+&nbsp; 
+Gurka 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Kumar 
+&nbsp; 
+A <isPunctOrUpper> 
+, 
+&nbsp; 
+Cheang 
+&nbsp; 
+M <isPunctOrUpper> 
+&nbsp; 
+( 
+2006  <isYear> 
+) 
+&nbsp; 
+Duration 
+&nbsp; 
+of 
+&nbsp; 
+hypotension 
+&nbsp; 
+before 
+&nbsp; 
+initiation 
+&nbsp; 
+of 
+&nbsp; 
+effective 
+&nbsp; 
+antimicrobial 
+&nbsp; 
+therapy 
+&nbsp; 
+is 
+&nbsp; 
+the 
+&nbsp; 
+critical 
+&nbsp; 
+determinant 
+&nbsp; 
+of 
+&nbsp; 
+survival 
+&nbsp; 
+in 
+&nbsp; 
+human 
+&nbsp; 
+septic 
+&nbsp; 
+shock 
+. <isPunctOrUpper> 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+34 
+: 
+1589 
+– 
+1596 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Garnacho 
+- 
+Montero 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+Ortiz 
+- 
+Leyba 
+&nbsp; 
+C <isPunctOrUpper> 
+, 
+&nbsp; 
+Herrera 
+- 
+Melero 
+&nbsp; 
+I <isPunctOrUpper> 
+, 
+&nbsp; 
+Aldabó 
+- 
+Pallá 
+&nbsp; 
+T <isPunctOrUpper> 
+, 
+&nbsp; 
+Cayuela 
+- 
+Dominguez 
+&nbsp; 
+A <isPunctOrUpper> 
+, 
+&nbsp; 
+Marquez 
+- 
+Vacaro 
+&nbsp; 
+JA <isPunctOrUpper> 
+, 
+&nbsp; 
+Carbajal 
+- 
+Guerrero 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+Garcia 
+- 
+Garmendia 
+&nbsp; 
+JL <isPunctOrUpper> 
+&nbsp; 
+( 
+2008  <isYear> 
+) 
+&nbsp; 
+Mortality 
+&nbsp; 
+and 
+&nbsp; 
+morbidity 
+&nbsp; 
+attributable 
+&nbsp; 
+to 
+&nbsp; 
+inadequate 
+&nbsp; 
+empirical 
+&nbsp; 
+antimicrobial 
+&nbsp; 
+therapy 
+&nbsp; 
+in 
+&nbsp; 
+patients 
+&nbsp; 
+admitted 
+&nbsp; 
+to 
+&nbsp; 
+the 
+&nbsp; 
+ICU <isPunctOrUpper> 
+&nbsp; 
+with 
+&nbsp; 
+sepsis 
+: 
+&nbsp; 
+a 
+&nbsp; 
+matched 
+&nbsp; 
+cohort 
+&nbsp; 
+study 
+. <isPunctOrUpper> 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Antimicrob 
+&nbsp; 
+Chemother 
+&nbsp; 
+61 
+: 
+436 
+– 
+441 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Jones 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+Rowan 
+&nbsp; 
+K <isPunctOrUpper> 
+&nbsp; 
+( 
+1995  <isYear> 
+) 
+&nbsp; 
+Is 
+&nbsp; 
+there 
+&nbsp; 
+a 
+&nbsp; 
+relationship 
+&nbsp; 
+between 
+&nbsp; 
+the 
+&nbsp; 
+volume 
+&nbsp; 
+of 
+&nbsp; 
+work 
+&nbsp; 
+carried 
+&nbsp; 
+out 
+&nbsp; 
+in 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+and 
+&nbsp; 
+its 
+&nbsp; 
+outcome? 
+&nbsp; 
+Int 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Technol 
+&nbsp; 
+Assess 
+&nbsp; 
+Health 
+&nbsp; 
+Care 
+&nbsp; 
+11 
+: 
+762 
+– 
+769 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Luft 
+&nbsp; 
+HS <isPunctOrUpper> 
+, 
+&nbsp; 
+Bunker 
+&nbsp; 
+JP <isPunctOrUpper> 
+, 
+&nbsp; 
+Enthoven 
+&nbsp; 
+AC <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+Should 
+&nbsp; 
+operations 
+&nbsp; 
+be 
+&nbsp; 
+regionalized? 
+&nbsp; 
+The 
+&nbsp; 
+empirical 
+&nbsp; 
+relation 
+&nbsp; 
+between 
+&nbsp; 
+surgical 
+&nbsp; 
+volume 
+&nbsp; 
+and 
+&nbsp; 
+mortality 
+. <isPunctOrUpper> 
+&nbsp; 
+1979  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+Clin 
+&nbsp; 
+Orthop 
+&nbsp; 
+Relat 
+&nbsp; 
+Res 
+&nbsp; 
+457 
+: 
+3 
+– 
+9 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Stockwell 
+&nbsp; 
+DC <isPunctOrUpper> 
+, 
+&nbsp; 
+Slonim 
+&nbsp; 
+AD <isPunctOrUpper> 
+&nbsp; 
+( 
+2006  <isYear> 
+) 
+&nbsp; 
+Volume 
+- 
+outcome 
+&nbsp; 
+relationships 
+: 
+&nbsp; 
+is 
+&nbsp; 
+it 
+&nbsp; 
+the 
+&nbsp; 
+individual 
+&nbsp; 
+or 
+&nbsp; 
+the 
+&nbsp; 
+team? 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+34 
+: 
+2495 
+– 
+2497 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Hugonnet 
+&nbsp; 
+S <isPunctOrUpper> 
+, 
+&nbsp; 
+Chevrolet 
+&nbsp; 
+J <isPunctOrUpper> 
+- 
+C <isPunctOrUpper> 
+, 
+&nbsp; 
+Pittet 
+&nbsp; 
+D <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+The 
+&nbsp; 
+effect 
+&nbsp; 
+of 
+&nbsp; 
+workload 
+&nbsp; 
+on 
+&nbsp; 
+infection 
+&nbsp; 
+risk 
+&nbsp; 
+in 
+&nbsp; 
+critically 
+&nbsp; 
+ill 
+&nbsp; 
+patients 
+. <isPunctOrUpper> 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+35 
+: 
+76 
+– 
+81 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Needleman 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+Buerhaus 
+&nbsp; 
+P <isPunctOrUpper> 
+, 
+&nbsp; 
+Mattke 
+&nbsp; 
+S <isPunctOrUpper> 
+, 
+&nbsp; 
+Stewart 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Zelevinsky 
+&nbsp; 
+K <isPunctOrUpper> 
+&nbsp; 
+( 
+2002  <isYear> 
+) 
+&nbsp; 
+Nurse 
+- 
+staffing 
+&nbsp; 
+levels 
+&nbsp; 
+and 
+&nbsp; 
+the 
+&nbsp; 
+quality 
+&nbsp; 
+of 
+&nbsp; 
+care 
+&nbsp; 
+in 
+&nbsp; 
+hospital 
+. <isPunctOrUpper> 
+&nbsp; 
+N <isPunctOrUpper> 
+&nbsp; 
+Engl 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Med 
+&nbsp; 
+346 
+: 
+1715 
+– 
+1722 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Vandijck 
+&nbsp; 
+DM <isPunctOrUpper> 
+, 
+&nbsp; 
+Blot 
+&nbsp; 
+SI <isPunctOrUpper> 
+&nbsp; 
+( 
+2008  <isYear> 
+) 
+&nbsp; 
+High 
+&nbsp; 
+acuity 
+&nbsp; 
+nurse 
+&nbsp; 
+patient 
+&nbsp; 
+ratio—is 
+&nbsp; 
+it 
+&nbsp; 
+cost 
+- 
+effective? 
+&nbsp; 
+In 
+: 
+&nbsp; 
+Kuhlen 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Moreno 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Ranieri 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Rhodes 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+( 
+eds 
+) 
+&nbsp; 
+Controversies 
+&nbsp; 
+in 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+medicine 
+. <isPunctOrUpper> 
+&nbsp; 
+Medizinisch 
+&nbsp; 
+Wissenschaftiche 
+&nbsp; 
+Verlagsgesellschaft 
+, 
+&nbsp; 
+Berlin 
+, 
+&nbsp; 
+pp 
+&nbsp; 
+393 
+– 
+405 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Needleman 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+Buerhaus 
+&nbsp; 
+P <isPunctOrUpper> 
+&nbsp; 
+( 
+2003  <isYear> 
+) 
+&nbsp; 
+Nurse 
+&nbsp; 
+staffing 
+&nbsp; 
+and 
+&nbsp; 
+patient 
+&nbsp; 
+safety 
+: 
+&nbsp; 
+current 
+&nbsp; 
+knowledge 
+&nbsp; 
+and 
+&nbsp; 
+implications 
+&nbsp; 
+for 
+&nbsp; 
+action 
+. <isPunctOrUpper> 
+&nbsp; 
+Int 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Qual 
+&nbsp; 
+Health 
+&nbsp; 
+Care 
+&nbsp; 
+15 
+: 
+275 
+– 
+277 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Miranda 
+&nbsp; 
+DR <isPunctOrUpper> 
+, 
+&nbsp; 
+Ryan 
+&nbsp; 
+DW <isPunctOrUpper> 
+, 
+&nbsp; 
+Schaufeli 
+&nbsp; 
+WB <isPunctOrUpper> 
+, 
+&nbsp; 
+Fidler 
+&nbsp; 
+V <isPunctOrUpper> 
+&nbsp; 
+( 
+eds 
+) 
+&nbsp; 
+( 
+1997  <isYear> 
+) 
+&nbsp; 
+Organization 
+&nbsp; 
+and 
+&nbsp; 
+management 
+&nbsp; 
+of 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+: 
+&nbsp; 
+a 
+&nbsp; 
+prospective 
+&nbsp; 
+study 
+&nbsp; 
+in 
+&nbsp; 
+12 
+&nbsp; 
+European 
+&nbsp; 
+countries 
+. <isPunctOrUpper> 
+&nbsp; 
+Springer 
+, 
+&nbsp; 
+Berlin 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Miranda 
+&nbsp; 
+DR <isPunctOrUpper> 
+, 
+&nbsp; 
+Rivera 
+- 
+Fernández 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Nap 
+&nbsp; 
+RE <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+Critical 
+&nbsp; 
+care 
+&nbsp; 
+medicine 
+&nbsp; 
+in 
+&nbsp; 
+the 
+&nbsp; 
+hospital 
+: 
+&nbsp; 
+lessons 
+&nbsp; 
+from 
+&nbsp; 
+the 
+&nbsp; 
+EURICUS <isPunctOrUpper> 
+- 
+studies 
+. <isPunctOrUpper> 
+&nbsp; 
+Med 
+&nbsp; 
+Intensiva 
+&nbsp; 
+31 
+: 
+194 
+– 
+203 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Jain 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Miller 
+&nbsp; 
+L <isPunctOrUpper> 
+, 
+&nbsp; 
+Belt 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+King 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Berwick 
+&nbsp; 
+DM <isPunctOrUpper> 
+&nbsp; 
+( 
+2006  <isYear> 
+) 
+&nbsp; 
+Decline 
+&nbsp; 
+in 
+&nbsp; 
+ICU <isPunctOrUpper> 
+&nbsp; 
+adverse 
+&nbsp; 
+events 
+, 
+&nbsp; 
+nosocomial 
+&nbsp; 
+infections 
+&nbsp; 
+and 
+&nbsp; 
+cost 
+&nbsp; 
+through 
+&nbsp; 
+a 
+&nbsp; 
+quality 
+&nbsp; 
+improvement 
+&nbsp; 
+initiative 
+&nbsp; 
+focusing 
+&nbsp; 
+on 
+&nbsp; 
+teamwork 
+&nbsp; 
+and 
+&nbsp; 
+culture 
+&nbsp; 
+change 
+. <isPunctOrUpper> 
+&nbsp; 
+Qual 
+&nbsp; 
+Saf 
+&nbsp; 
+Health 
+&nbsp; 
+Care 
+&nbsp; 
+15 
+: 
+235 
+– 
+239 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Baggs 
+&nbsp; 
+JG <isPunctOrUpper> 
+&nbsp; 
+( 
+1989  <isYear> 
+) 
+&nbsp; 
+Intensive 
+&nbsp; 
+care 
+&nbsp; 
+unit 
+&nbsp; 
+use 
+&nbsp; 
+and 
+&nbsp; 
+collaboration 
+&nbsp; 
+between 
+&nbsp; 
+nurses 
+&nbsp; 
+and 
+&nbsp; 
+physicians 
+. <isPunctOrUpper> 
+&nbsp; 
+Heart 
+&nbsp; 
+Lung 
+&nbsp; 
+18 
+: 
+332 
+– 
+338 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Baggs 
+&nbsp; 
+JG <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+Nurse 
+– 
+physician 
+&nbsp; 
+collaboration 
+&nbsp; 
+in 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+units 
+. <isPunctOrUpper> 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+35 
+: 
+641 
+– 
+642 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Prescott 
+&nbsp; 
+PA <isPunctOrUpper> 
+, 
+&nbsp; 
+Bowen 
+&nbsp; 
+SA <isPunctOrUpper> 
+&nbsp; 
+( 
+1985  <isYear> 
+) 
+&nbsp; 
+Physician 
+– 
+nurse 
+&nbsp; 
+relationships 
+. <isPunctOrUpper> 
+&nbsp; 
+Ann 
+&nbsp; 
+Intern 
+&nbsp; 
+Med 
+&nbsp; 
+103 
+: 
+127 
+– 
+133 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Philpin 
+&nbsp; 
+S <isPunctOrUpper> 
+&nbsp; 
+( 
+2006  <isYear> 
+) 
+&nbsp; 
+‘Handing 
+&nbsp; 
+Over’ 
+: 
+&nbsp; 
+transmission 
+&nbsp; 
+of 
+&nbsp; 
+information 
+&nbsp; 
+between 
+&nbsp; 
+nurses 
+&nbsp; 
+in 
+&nbsp; 
+an 
+&nbsp; 
+intensive 
+&nbsp; 
+therapy 
+&nbsp; 
+unit 
+. <isPunctOrUpper> 
+&nbsp; 
+Nurs 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+2006  <isYear> 
+( 
+11 
+) 
+: 
+86 
+– 
+93 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Donchin 
+&nbsp; 
+Y <isPunctOrUpper> 
+, 
+&nbsp; 
+Gopher 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Olin 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Badihi 
+&nbsp; 
+Y <isPunctOrUpper> 
+, 
+&nbsp; 
+Biesky 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Sprung 
+&nbsp; 
+CL <isPunctOrUpper> 
+, 
+&nbsp; 
+Pizov 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Cotev 
+&nbsp; 
+S <isPunctOrUpper> 
+&nbsp; 
+( 
+1995  <isYear> 
+) 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+look 
+&nbsp; 
+into 
+&nbsp; 
+the 
+&nbsp; 
+nature 
+&nbsp; 
+and 
+&nbsp; 
+causes 
+&nbsp; 
+of 
+&nbsp; 
+human 
+&nbsp; 
+errors 
+&nbsp; 
+in 
+&nbsp; 
+the 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+unit 
+. <isPunctOrUpper> 
+&nbsp; 
+Crit 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+23 
+: 
+294 
+– 
+300 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Le 
+&nbsp; 
+Blanc 
+&nbsp; 
+PM <isPunctOrUpper> 
+, 
+&nbsp; 
+de 
+&nbsp; 
+Jonge 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+de 
+&nbsp; 
+Rijk 
+&nbsp; 
+AE <isPunctOrUpper> 
+, 
+&nbsp; 
+Schaufeli 
+&nbsp; 
+WE <isPunctOrUpper> 
+&nbsp; 
+( 
+2001  <isYear> 
+) 
+&nbsp; 
+Well 
+- 
+being 
+&nbsp; 
+of 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+nurses 
+&nbsp; 
+( 
+WEBIC <isPunctOrUpper> 
+) 
+: 
+&nbsp; 
+a 
+&nbsp; 
+job 
+&nbsp; 
+analytic 
+&nbsp; 
+approach 
+. <isPunctOrUpper> 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Adv 
+&nbsp; 
+Nurs 
+&nbsp; 
+36 
+: 
+460 
+– 
+470 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Katona 
+&nbsp; 
+BG <isPunctOrUpper> 
+, 
+&nbsp; 
+Ayd 
+&nbsp; 
+PR <isPunctOrUpper> 
+, 
+&nbsp; 
+Walters 
+&nbsp; 
+JK <isPunctOrUpper> 
+, 
+&nbsp; 
+Caspi 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Finkelstein 
+&nbsp; 
+BW <isPunctOrUpper> 
+&nbsp; 
+( 
+1989  <isYear> 
+) 
+&nbsp; 
+Effect 
+&nbsp; 
+of 
+&nbsp; 
+a 
+&nbsp; 
+pharmacist’s 
+&nbsp; 
+and 
+&nbsp; 
+a 
+&nbsp; 
+nurse’s 
+&nbsp; 
+interventions 
+&nbsp; 
+on 
+&nbsp; 
+cost 
+&nbsp; 
+of 
+&nbsp; 
+drug 
+&nbsp; 
+therapy 
+&nbsp; 
+in 
+&nbsp; 
+a 
+&nbsp; 
+medical 
+&nbsp; 
+intensive 
+- 
+care 
+&nbsp; 
+unit 
+. <isPunctOrUpper> 
+&nbsp; 
+Am 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+Hosp 
+&nbsp; 
+Pharm 
+&nbsp; 
+46 
+: 
+119 
+– 
+1182 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Leape 
+&nbsp; 
+LL <isPunctOrUpper> 
+, 
+&nbsp; 
+Cullen 
+&nbsp; 
+DJ <isPunctOrUpper> 
+, 
+&nbsp; 
+Clapp 
+&nbsp; 
+MD <isPunctOrUpper> 
+, 
+&nbsp; 
+Burdick 
+&nbsp; 
+E <isPunctOrUpper> 
+, 
+&nbsp; 
+Demonaco 
+&nbsp; 
+HJ <isPunctOrUpper> 
+, 
+&nbsp; 
+Erickson 
+&nbsp; 
+JI <isPunctOrUpper> 
+, 
+&nbsp; 
+Bates 
+&nbsp; 
+DW <isPunctOrUpper> 
+&nbsp; 
+( 
+2000  <isYear> 
+) 
+&nbsp; 
+Pharmacist 
+&nbsp; 
+participation 
+&nbsp; 
+on 
+&nbsp; 
+physician 
+&nbsp; 
+rounds 
+&nbsp; 
+and 
+&nbsp; 
+adverse 
+&nbsp; 
+drug 
+&nbsp; 
+events 
+&nbsp; 
+in 
+&nbsp; 
+the 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+unit 
+. <isPunctOrUpper> 
+&nbsp; 
+JAMA <isPunctOrUpper> 
+&nbsp; 
+282 
+: 
+267 
+– 
+270 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Kane 
+&nbsp; 
+SL <isPunctOrUpper> 
+, 
+&nbsp; 
+Weber 
+&nbsp; 
+RJ <isPunctOrUpper> 
+, 
+&nbsp; 
+Dasta 
+&nbsp; 
+JF <isPunctOrUpper> 
+&nbsp; 
+( 
+2003  <isYear> 
+) 
+&nbsp; 
+The 
+&nbsp; 
+impact 
+&nbsp; 
+of 
+&nbsp; 
+critical 
+&nbsp; 
+care 
+&nbsp; 
+pharmacists 
+&nbsp; 
+on 
+&nbsp; 
+enhancing 
+&nbsp; 
+patient 
+&nbsp; 
+outcomes 
+. <isPunctOrUpper> 
+&nbsp; 
+Intensive 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+29 
+: 
+691 
+– 
+698 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Rothen 
+&nbsp; 
+HU <isPunctOrUpper> 
+, 
+&nbsp; 
+Stricker 
+&nbsp; 
+K <isPunctOrUpper> 
+, 
+&nbsp; 
+Einfalt 
+&nbsp; 
+J <isPunctOrUpper> 
+, 
+&nbsp; 
+Bauer 
+&nbsp; 
+P <isPunctOrUpper> 
+, 
+&nbsp; 
+Metnitz 
+&nbsp; 
+PGH <isPunctOrUpper> 
+, 
+&nbsp; 
+Moreno 
+&nbsp; 
+RP <isPunctOrUpper> 
+, 
+&nbsp; 
+Takala 
+&nbsp; 
+J <isPunctOrUpper> 
+&nbsp; 
+( 
+2007  <isYear> 
+) 
+&nbsp; 
+Variability 
+&nbsp; 
+in 
+&nbsp; 
+outcome 
+&nbsp; 
+and 
+&nbsp; 
+resource 
+&nbsp; 
+use 
+&nbsp; 
+in 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+units 
+. <isPunctOrUpper> 
+&nbsp; 
+Intensive 
+&nbsp; 
+Care 
+&nbsp; 
+Med 
+&nbsp; 
+33 
+: 
+1329 
+– 
+1336 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Donchin 
+&nbsp; 
+Y <isPunctOrUpper> 
+, 
+&nbsp; 
+Gopher 
+&nbsp; 
+D <isPunctOrUpper> 
+, 
+&nbsp; 
+Olin 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Badihi 
+&nbsp; 
+Y <isPunctOrUpper> 
+, 
+&nbsp; 
+Biesky 
+&nbsp; 
+M <isPunctOrUpper> 
+, 
+&nbsp; 
+Sprung 
+&nbsp; 
+CL <isPunctOrUpper> 
+, 
+&nbsp; 
+Pizov 
+&nbsp; 
+R <isPunctOrUpper> 
+, 
+&nbsp; 
+Cotev 
+&nbsp; 
+S <isPunctOrUpper> 
+&nbsp; 
+( 
+2003  <isYear> 
+) 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+look 
+&nbsp; 
+into 
+&nbsp; 
+the 
+&nbsp; 
+nature 
+&nbsp; 
+and 
+&nbsp; 
+causes 
+&nbsp; 
+of 
+&nbsp; 
+human 
+&nbsp; 
+errors 
+&nbsp; 
+in 
+&nbsp; 
+the 
+&nbsp; 
+intensive 
+&nbsp; 
+care 
+&nbsp; 
+unit 
+. <isPunctOrUpper> 
+&nbsp; 
+Qual 
+&nbsp; 
+Saf 
+&nbsp; 
+Health 
+&nbsp; 
+Care 
+&nbsp; 
+12 
+: 
+143 
+– 
+148 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+This 
+&nbsp; 
+is 
+&nbsp; 
+the 
+&nbsp; 
+end 
+&nbsp; 
+of 
+&nbsp; 
+the 
+&nbsp; 
+reference 
+&nbsp; 
+list 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
