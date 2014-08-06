@@ -6,12 +6,12 @@ Bibliographic reference analysis / Bibtype and bibfield classification
 Version of August 5th, 2014
 ------------------------
 
-Copyright (c) 2014 by Christian Chiarcos, Niko Schenk 
-Goethe-Universität Frankfurt am Main
-Applied Computational Linguistics Lab (ACoLi)
-http://acoli.cs.uni-frankfurt.de/en.html
-Robert-Mayer-Straße 10
-60325 Frankfurt am Main
+Copyright (c) 2014 by Christian Chiarcos, Niko Schenk <br>
+Goethe-Universität Frankfurt am Main <br>
+Applied Computational Linguistics Lab (ACoLi) <br>
+http://acoli.cs.uni-frankfurt.de/en.html <br>
+Robert-Mayer-Straße 10 <br>
+60325 Frankfurt am Main <br>
 
 ------------------------
 
@@ -97,24 +97,24 @@ This is a simplified procedure of the basic steps that the program performs in o
 - data/ (contains various files which are being generated during the analysis)
     
       a++/ (generated Springer A++ data formats)
-	      combined/ (based on the bibtype prediction for each reference, one combined analysis for the DBLP model and one           for the Springer model)
-	      per_model/ (A++ export format for each of the six separate models)
+	      combined/ (based on the bibtype prediction for each reference, one combined analysis for the DBLP model and one for the Springer model)
+	      per_model/ (A++ export format for each of the six separate models) 
 	
       bibtypes/ (various data files resulting from bib type classification)
-	      bibtypes_predicted.txt (contains the final predicted bibtypes -- 1, 0, -1 / BibArticle, BibBook, BibChapter for           each of the single plaint input references)
+	      bibtypes_predicted.txt (contains the final predicted bibtypes -- 1, 0, -1 / BibArticle, BibBook, BibChapter for each of the single plaint input references)
 	
       tagged/ (various data files resulting from bib field classification)
 	      combined/
-	        (based on the bibtype prediction for each reference, a combined analysis for the DBLP model and one for the             Springer model)
+	        (based on the bibtype prediction for each reference, a combined analysis for the DBLP model and one for the Springer model) <br>
 	      combined_visualized/
-	        (HTML visualization of the combined/ outputs)
+	        (HTML visualization of the combined/ outputs) 
 	     per_model/
-	      DBLP (per DBLP model token-label analysis of the input)
-	      SPRINGER (per Springer model token-label analysis of the input)
+	      DBLP (per DBLP model token-label analysis of the input) 
+	      SPRINGER (per Springer model token-label analysis of the input) 
 	     per_model_visualized/
 	      (separate HTML visualizations for each of the per_model/ analyses)
       
-      tokenized/ (intermediate representations of plaintext references - including feature augmented tokens)
+      tokenized/ (intermediate representations of plaintext references - including feature augmented tokens) <br>
 	  input_tok.txt
 	    (The input in custom tokenized one-token-per-line format)
 	  feature_augmented_DBLP/
