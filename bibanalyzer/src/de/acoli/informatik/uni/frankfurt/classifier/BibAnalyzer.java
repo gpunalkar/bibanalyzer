@@ -74,8 +74,8 @@ import de.acoli.informatik.uni.frankfurt.visualization.CRFVisualizer;
  */
 public class BibAnalyzer {
 
-    public static final String INPUT_FILE_NAME = "input_plaintext_springer.txt";
-    //public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
+    //public static final String INPUT_FILE_NAME = "input_plaintext_springer.txt";
+    public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
 
     public static final String PATH_TO_PLAINTEXT_INPUT = "input/plaintext_references/";
 

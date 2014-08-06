@@ -1,3014 +1,1021 @@
 BOR <isPunctOrUpper> 
 &nbsp; 
-Kohn 
-&nbsp; 
-LT <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Corrigan 
-&nbsp; 
-JM <isPunctOrUpper> 
-, 
-&nbsp; 
-Donaldson 
-&nbsp; 
-MS <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-eds <inDict> 
-) 
-&nbsp; 
-( 
-2000 <isYear> 
-) 
-&nbsp; 
-To <inDict> 
-&nbsp; 
-err <inDict> 
-&nbsp; 
-is <inDict> 
-&nbsp; 
-human <inDict> 
-: 
-&nbsp; 
-building <inDict> 
-&nbsp; 
-a 
-&nbsp; 
-safer <inDict> 
-&nbsp; 
-health <inDict> 
-&nbsp; 
-system <inDict> 
+K <isPunctOrUpper> 
 . <isPunctOrUpper> 
 &nbsp; 
-National <inDict> 
-&nbsp; 
-Academy <inDict> 
-&nbsp; 
-Press <inDict> 
+Marti 
 , 
 &nbsp; 
-Washington <inDict> 
+Advances <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+in <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Engineering <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Software <inDict> <isDBLPJournalTitle> 
 &nbsp; 
-DC <inDict> <isPunctOrUpper> 
+46 
+( 
+1 
+) 
+, 
+&nbsp; 
+43 
+&nbsp; 
+( 
+2012 <isYear> 
+) 
 &nbsp; 
 EOR <isPunctOrUpper> 
 
 BOR <isPunctOrUpper> 
-&nbsp; 
-Lilford 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Mohammed 
-&nbsp; 
-MA <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Spiegelhalter 
 &nbsp; 
 D <isPunctOrUpper> 
-, 
-&nbsp; 
-Thomson 
-&nbsp; 
-R <isPunctOrUpper> 
-&nbsp; 
-( 
-2004 <isYear> 
-) 
-&nbsp; 
-Use <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-misuse <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-process <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-outcome <inDict> 
-&nbsp; 
-data <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-managing <inDict> 
-&nbsp; 
-performance <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-acute <inDict> 
-&nbsp; 
-medical <inDict> 
-&nbsp; 
-care <inDict> 
-: 
-&nbsp; 
-avoiding <inDict> 
-&nbsp; 
-institutional <inDict> 
-&nbsp; 
-stigma <inDict> 
 . <isPunctOrUpper> 
 &nbsp; 
-Lancet 
-&nbsp; 
-363 
-: 
-1147 
-– 
-1154 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Blendon 
-&nbsp; 
-RJ <isPunctOrUpper> 
-, 
-&nbsp; 
-DesRoches 
-&nbsp; 
-CM <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Brodie 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Jm 
-&nbsp; 
-Benson 
-, 
-&nbsp; 
-Rosen 
-&nbsp; 
-AB <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Schneider 
-&nbsp; 
-EC <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Altman 
-&nbsp; 
-DE <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Zapert 
-&nbsp; 
-K <isPunctOrUpper> 
-, 
+B <isPunctOrUpper> 
+. <isPunctOrUpper> 
 &nbsp; 
 Herrmann 
-&nbsp; 
-NL <inDict> <isPunctOrUpper> 
 , 
 &nbsp; 
-Steffenson 
-&nbsp; 
-AE <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2002 <isYear> 
-) 
-&nbsp; 
-Views <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-practicing <inDict> 
-&nbsp; 
-physicians <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-public <inDict> 
-&nbsp; 
-on <inDict> 
-&nbsp; 
-medical <inDict> 
-&nbsp; 
-errors <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-N <isPunctOrUpper> 
-&nbsp; 
-Engl 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-347 
-: 
-1933 <isYear> 
-– 
-1939 <isYear> 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Altman 
-&nbsp; 
-DE <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Clancy 
-&nbsp; 
-C <isPunctOrUpper> 
-, 
-&nbsp; 
-Blendon 
-&nbsp; 
-RJ <isPunctOrUpper> 
-&nbsp; 
-( 
-2004 <isYear> 
-) 
-&nbsp; 
-Improving <inDict> 
-&nbsp; 
-patient <inDict> 
-&nbsp; 
-safety—five 
-&nbsp; 
-years <inDict> 
-&nbsp; 
-after <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-IOM <isPunctOrUpper> 
-&nbsp; 
-report <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-N <isPunctOrUpper> 
-&nbsp; 
-Engl 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-351 
-: 
-2041 <isYear> 
-– 
-2043 <isYear> 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Donabedian 
-&nbsp; 
-A <isPunctOrUpper> 
-&nbsp; 
-( 
-1990 <isYear> 
-) 
-&nbsp; 
-The <inDict> 
-&nbsp; 
-seven <inDict> 
-&nbsp; 
-pillars <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-quality <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Arch <inDict> 
-&nbsp; 
-Pathol 
-&nbsp; 
-Lab <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-114 
-: 
-1115 
-– 
-1118 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Haynes 
-&nbsp; 
-B <isPunctOrUpper> 
-&nbsp; 
-( 
-1999 <isYear> 
-) 
-&nbsp; 
-Can <inDict> 
-&nbsp; 
-it <inDict> 
-&nbsp; 
-work? 
-&nbsp; 
-Does <inDict> 
-&nbsp; 
-it <inDict> 
-&nbsp; 
-work? 
-&nbsp; 
-Is <inDict> 
-&nbsp; 
-it <inDict> 
-&nbsp; 
-worth <inDict> 
-&nbsp; 
-it? 
-&nbsp; 
-Br <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-319 
-: 
-652 
-– 
-653 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Deans <inDict> 
-&nbsp; 
-KJ <isPunctOrUpper> 
-, 
-&nbsp; 
-Minneci 
-&nbsp; 
-PC <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Suffredini 
-&nbsp; 
-AF <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Danner 
-&nbsp; 
-RL <isPunctOrUpper> 
-, 
-&nbsp; 
-Hoffman <inDict> 
-&nbsp; 
-WD <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Ciu 
-&nbsp; 
-X <isPunctOrUpper> 
-, 
-&nbsp; 
-Klein <inDict> 
-&nbsp; 
-HG <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Schechter 
-&nbsp; 
-AN <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Banks <inDict> 
-&nbsp; 
-SM <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Eichacker 
-&nbsp; 
-PQ <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Natanson 
-&nbsp; 
-C <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-Randomization <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-clinical <inDict> 
-&nbsp; 
-trials <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-titrated <inDict> 
-&nbsp; 
-therapies <inDict> 
-: 
-&nbsp; 
-unintended <inDict> 
-&nbsp; 
-consequences <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-using <inDict> 
-&nbsp; 
-fixed <inDict> 
-&nbsp; 
-treatment <inDict> 
-&nbsp; 
-protocols <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-35 
-: 
-1509 
-– 
-1516 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Hopewell 
-&nbsp; 
-S <isPunctOrUpper> 
-, 
-&nbsp; 
-Clarke <inDict> 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Moher 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-Wager <inDict> 
-&nbsp; 
-E <isPunctOrUpper> 
-, 
-&nbsp; 
-Middleton 
-&nbsp; 
-P <isPunctOrUpper> 
-, 
-&nbsp; 
-Altman 
-&nbsp; 
-DG <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Schulz 
-&nbsp; 
-KF <isPunctOrUpper> 
-, 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-CONSORT <isPunctOrUpper> 
-&nbsp; 
-Group <inDict> 
-&nbsp; 
-( 
-2008 <isYear> 
-) 
-&nbsp; 
-CONSORT <isPunctOrUpper> 
-&nbsp; 
-for <inDict> 
-&nbsp; 
-reporting <inDict> 
-&nbsp; 
-randomized <inDict> 
-&nbsp; 
-controlled <inDict> 
-&nbsp; 
-trials <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-journal <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-conference <inDict> 
-&nbsp; 
-abstracts <inDict> 
-: 
-&nbsp; 
-explanation <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-elaboration <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-PLOS <isPunctOrUpper> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-5 
-: 
-e20 
-. <isPunctOrUpper> 
-&nbsp; 
-doi <inDict> 
-: 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-10 
-. <isPunctOrUpper> 
-1371 
-/ 
-journal <inDict> 
-. <isPunctOrUpper> 
-pmed 
-. <isPunctOrUpper> 
-0050020 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-GRADE <inDict> <isPunctOrUpper> 
-&nbsp; 
-working <inDict> 
-&nbsp; 
-group <inDict> 
-&nbsp; 
-( 
-2004 <isYear> 
-) 
-&nbsp; 
-Grading <inDict> 
-&nbsp; 
-quality <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-evidence <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-strength <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-recommendations <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Br <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-328 
-: 
-1 
-– 
-8 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Tinetti 
-&nbsp; 
-ME <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2008 <isYear> 
-) 
-&nbsp; 
-Over <inDict> 
-- 
-the <inDict> 
-- 
-counter <inDict> 
-&nbsp; 
-sales <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-statins <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-other <inDict> 
-&nbsp; 
-drugs <inDict> 
-&nbsp; 
-for <inDict> 
-&nbsp; 
-asymptomatic <inDict> 
-&nbsp; 
-conditions <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-N <isPunctOrUpper> 
-&nbsp; 
-Engl 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-358 
-: 
-2728 
-– 
-2732 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Armitage 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-The <inDict> 
-&nbsp; 
-safety <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-statins <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-clinical <inDict> 
-&nbsp; 
-practice <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Lancet 
-&nbsp; 
-370 
-: 
-1890 
-– 
-1891 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Grol 
-&nbsp; 
-R <isPunctOrUpper> 
-&nbsp; 
-( 
-1997 <isYear> 
-) 
-&nbsp; 
-Beliefs <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-evidence <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-changing <inDict> 
-&nbsp; 
-clinical <inDict> 
-&nbsp; 
-practice <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Br <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-315 
-: 
-418 
-– 
-421 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Garrow 
-&nbsp; 
-JS <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-What <inDict> 
-&nbsp; 
-to <inDict> 
-&nbsp; 
-do <inDict> 
-&nbsp; 
-about <inDict> 
-&nbsp; 
-CAM <inDict> <isPunctOrUpper> 
-: 
-&nbsp; 
-how <inDict> 
-&nbsp; 
-much <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-orthodox <inDict> 
-&nbsp; 
-medicine <inDict> 
-&nbsp; 
-is <inDict> 
-&nbsp; 
-evidence <inDict> 
-&nbsp; 
-based? 
-&nbsp; 
-Br <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-335 
-: 
-951 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Aronson 
-&nbsp; 
-JK <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2003 <isYear> 
-) 
-&nbsp; 
-Anecdotes 
-&nbsp; 
-as <inDict> 
-&nbsp; 
-evidence <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-We <inDict> 
-&nbsp; 
-need <inDict> 
-&nbsp; 
-guidelines <inDict> 
-&nbsp; 
-for <inDict> 
-&nbsp; 
-reporting <inDict> 
-&nbsp; 
-anecdotes 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-suspected <inDict> 
-&nbsp; 
-adverse <inDict> 
-&nbsp; 
-drug <inDict> 
-&nbsp; 
-reactions <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Br <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-326 
-: 
-1346 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Kelley 
-&nbsp; 
-MA <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Angus 
-&nbsp; 
-DC <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Chalfin 
-&nbsp; 
-DB <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Crandall 
-&nbsp; 
-ED <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Ingbar 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-Johanson 
-&nbsp; 
-W <isPunctOrUpper> 
-, 
-&nbsp; 
-Medina 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-Sessler 
-&nbsp; 
-CN <isPunctOrUpper> 
-, 
-&nbsp; 
-Vender <inDict> 
-&nbsp; 
-JS <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2004 <isYear> 
-) 
-&nbsp; 
-The <inDict> 
-&nbsp; 
-critical <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-crisis <inDict> 
+“ 
+Astronomy <inDict> 
 &nbsp; 
 in <inDict> 
 &nbsp; 
 the <inDict> 
 &nbsp; 
-United <inDict> 
+twentieth <inDict> 
 &nbsp; 
-States <inDict> 
-: 
+century <inDict> 
+. <isPunctOrUpper> 
+” 
 &nbsp; 
-a 
+Scientometrics <inDict> <isDBLPJournalTitle> 
+, 
 &nbsp; 
-report <inDict> 
-&nbsp; 
-from <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-profession <inDict> 
+vol <inDict> 
 . <isPunctOrUpper> 
 &nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-32 
-: 
-1219 
-– 
-1222 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Pronovost 
-&nbsp; 
-PJ <isPunctOrUpper> 
-, 
-&nbsp; 
-KJenckes 
-&nbsp; 
-MW <isPunctOrUpper> 
-, 
-&nbsp; 
-Dorman 
-&nbsp; 
-T <isPunctOrUpper> 
-, 
-&nbsp; 
-Garrett 
-&nbsp; 
-E <isPunctOrUpper> 
-, 
-&nbsp; 
-Breslow 
-&nbsp; 
-MJ <isPunctOrUpper> 
-, 
-&nbsp; 
-Rosenfeld 
-&nbsp; 
-BA <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Lipsett 
-&nbsp; 
-PA <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Bass <inDict> 
-&nbsp; 
-E <isPunctOrUpper> 
-&nbsp; 
-( 
-1999 <isYear> 
-) 
-&nbsp; 
-Organizational <inDict> 
-&nbsp; 
-characteristics <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-units <inDict> 
-&nbsp; 
-related <inDict> 
-&nbsp; 
-to <inDict> 
-&nbsp; 
-outcomes <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-abdominal <inDict> 
-&nbsp; 
-aortic <inDict> 
-&nbsp; 
-surgery <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-JAMA <isPunctOrUpper> 
-&nbsp; 
-281 
-: 
-1310 
-– 
-1317 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Pronovost 
-&nbsp; 
-P <isPunctOrUpper> 
-, 
-&nbsp; 
-Angus 
-&nbsp; 
-DC <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Dorman 
-&nbsp; 
-T <isPunctOrUpper> 
-, 
-&nbsp; 
-Robinson 
-&nbsp; 
-KA <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Dremsizov 
-&nbsp; 
-TT <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Young <inDict> 
-&nbsp; 
-TL <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2002 <isYear> 
-) 
-&nbsp; 
-Physician <inDict> 
-&nbsp; 
-staffing <inDict> 
-&nbsp; 
-patterns <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-clinical <inDict> 
-&nbsp; 
-outcomes <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-critically <inDict> 
-&nbsp; 
-ill <inDict> 
-&nbsp; 
-patients <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-A <isPunctOrUpper> 
-&nbsp; 
-systematic <inDict> 
-&nbsp; 
-review <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-JAMA <isPunctOrUpper> 
-&nbsp; 
-288 
-: 
-2151 
-– 
-2162 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Amaravadi 
-&nbsp; 
-RK <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Dimick 
-&nbsp; 
-JB <isPunctOrUpper> 
-, 
-&nbsp; 
-Pronovost 
-&nbsp; 
-PJ <isPunctOrUpper> 
-, 
-&nbsp; 
-Lipsett 
-&nbsp; 
-PA <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2000 <isYear> 
-) 
-&nbsp; 
-ICU <inDict> <isPunctOrUpper> 
-&nbsp; 
-nurse <inDict> 
-- 
-to <inDict> 
-- 
-patient <inDict> 
-&nbsp; 
-ratio <inDict> 
-&nbsp; 
-is <inDict> 
-&nbsp; 
-associated <inDict> 
-&nbsp; 
-with <inDict> 
-&nbsp; 
-complications <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-resource <inDict> 
-&nbsp; 
-use <inDict> 
-&nbsp; 
-after <inDict> 
-&nbsp; 
-esophagectomy 
-. <isPunctOrUpper> 
-&nbsp; 
-Intensive <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-26 
-: 
-1857 
-– 
-1862 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Valentin 
-&nbsp; 
-A <isPunctOrUpper> 
-, 
-&nbsp; 
-Capuzzo 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Guidet 
-&nbsp; 
-B <isPunctOrUpper> 
-, 
-&nbsp; 
-Moreno 
-&nbsp; 
-RP <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Dolanski 
-&nbsp; 
-L <isPunctOrUpper> 
-, 
-&nbsp; 
-Bauer 
-&nbsp; 
-P <isPunctOrUpper> 
-, 
-&nbsp; 
-Metnitz 
-&nbsp; 
-PG <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2006 <isYear> 
-) 
-&nbsp; 
-Patient <inDict> 
-&nbsp; 
-safety <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-: 
-&nbsp; 
-results <inDict> 
-&nbsp; 
-from <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-multinational <inDict> 
-&nbsp; 
-sentinel <inDict> 
-&nbsp; 
-events <inDict> 
-&nbsp; 
-evaluation <inDict> 
-&nbsp; 
-( 
-SEE <inDict> <isPunctOrUpper> 
-) 
-&nbsp; 
-study <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Intensive <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-32 
-: 
-1591 
-– 
-1598 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Valentin 
-&nbsp; 
-A <isPunctOrUpper> 
-, 
-&nbsp; 
-Capuzzo 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Guidet 
-&nbsp; 
-B <isPunctOrUpper> 
-, 
-&nbsp; 
-Moreno 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Metnitz 
-&nbsp; 
-B <isPunctOrUpper> 
-, 
-&nbsp; 
-Bauer 
-&nbsp; 
-P <isPunctOrUpper> 
-, 
-&nbsp; 
-Metnitz 
-&nbsp; 
-P <isPunctOrUpper> 
-, 
-&nbsp; 
-Research <inDict> 
-&nbsp; 
-group <inDict> 
-&nbsp; 
-on <inDict> 
-&nbsp; 
-quality <inDict> 
-&nbsp; 
-improvement <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-European <inDict> 
-&nbsp; 
-Society <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-Intensive <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Medicine <inDict> 
-&nbsp; 
-( 
-ESICM <isPunctOrUpper> 
-) 
-; 
-&nbsp; 
-Sentinel <inDict> 
-&nbsp; 
-Events <inDict> 
-&nbsp; 
-Evaluation <inDict> 
-&nbsp; 
-( 
-SEE <inDict> <isPunctOrUpper> 
-) 
-&nbsp; 
-Study <inDict> 
-&nbsp; 
-Investigators <inDict> 
-&nbsp; 
-( 
-2009 <isYear> 
-) 
-&nbsp; 
-Errors <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-administration <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-parenteral <inDict> 
-&nbsp; 
-drugs—an 
-&nbsp; 
-urgent <inDict> 
-&nbsp; 
-safety <inDict> 
-&nbsp; 
-issue <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-units <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Results <inDict> 
-&nbsp; 
-from <inDict> 
-&nbsp; 
-a 
-&nbsp; 
-multinational <inDict> 
-, 
-&nbsp; 
-prospective <inDict> 
-&nbsp; 
-study <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Br <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-338 
-: 
-b814 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Kumar 
-&nbsp; 
-A <isPunctOrUpper> 
-, 
-&nbsp; 
-Roberts <inDict> 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-Wood <inDict> 
-&nbsp; 
-KE <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Light <inDict> 
-&nbsp; 
-B <isPunctOrUpper> 
-, 
-&nbsp; 
-Parrillo 
-&nbsp; 
-JE <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Sharma 
-&nbsp; 
-S <isPunctOrUpper> 
-, 
-&nbsp; 
-Suppes 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Feinstein 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-Zanotti 
-&nbsp; 
-S <isPunctOrUpper> 
-, 
-&nbsp; 
-Taiberg 
-&nbsp; 
-L <isPunctOrUpper> 
-, 
-&nbsp; 
-Gurka 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-Kumar 
-&nbsp; 
-A <isPunctOrUpper> 
-, 
-&nbsp; 
-Cheang 
-&nbsp; 
-M <isPunctOrUpper> 
-&nbsp; 
-( 
-2006 <isYear> 
-) 
-&nbsp; 
-Duration <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-hypotension <inDict> 
-&nbsp; 
-before <inDict> 
-&nbsp; 
-initiation <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-effective <inDict> 
-&nbsp; 
-antimicrobial <inDict> 
-&nbsp; 
-therapy <inDict> 
-&nbsp; 
-is <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-critical <inDict> 
-&nbsp; 
-determinant <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-survival <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-human <inDict> 
-&nbsp; 
-septic <inDict> 
-&nbsp; 
-shock <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-34 
-: 
-1589 
-– 
-1596 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Garnacho 
-- 
-Montero 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-Ortiz 
-- 
-Leyba 
-&nbsp; 
-C <isPunctOrUpper> 
-, 
-&nbsp; 
-Herrera 
-- 
-Melero 
-&nbsp; 
-I <isPunctOrUpper> 
-, 
-&nbsp; 
-Aldabó 
-- 
-Pallá 
-&nbsp; 
-T <isPunctOrUpper> 
-, 
-&nbsp; 
-Cayuela 
-- 
-Dominguez 
-&nbsp; 
-A <isPunctOrUpper> 
-, 
-&nbsp; 
-Marquez 
-- 
-Vacaro 
-&nbsp; 
-JA <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Carbajal 
-- 
-Guerrero 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-Garcia 
-- 
-Garmendia 
-&nbsp; 
-JL <isPunctOrUpper> 
-&nbsp; 
-( 
-2008 <isYear> 
-) 
-&nbsp; 
-Mortality <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-morbidity <inDict> 
-&nbsp; 
-attributable <inDict> 
-&nbsp; 
-to <inDict> 
-&nbsp; 
-inadequate <inDict> 
-&nbsp; 
-empirical <inDict> 
-&nbsp; 
-antimicrobial <inDict> 
-&nbsp; 
-therapy <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-patients <inDict> 
-&nbsp; 
-admitted <inDict> 
-&nbsp; 
-to <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-ICU <inDict> <isPunctOrUpper> 
-&nbsp; 
-with <inDict> 
-&nbsp; 
-sepsis <inDict> 
-: 
-&nbsp; 
-a 
-&nbsp; 
-matched <inDict> 
-&nbsp; 
-cohort <inDict> 
-&nbsp; 
-study <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Antimicrob 
-&nbsp; 
-Chemother 
-&nbsp; 
-61 
-: 
-436 
-– 
-441 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Jones <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-Rowan 
-&nbsp; 
-K <isPunctOrUpper> 
-&nbsp; 
-( 
-1995 <isYear> 
-) 
-&nbsp; 
-Is <inDict> 
-&nbsp; 
-there <inDict> 
-&nbsp; 
-a 
-&nbsp; 
-relationship <inDict> 
-&nbsp; 
-between <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-volume <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-work <inDict> 
-&nbsp; 
-carried <inDict> 
-&nbsp; 
-out <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-its <inDict> 
-&nbsp; 
-outcome? 
-&nbsp; 
-Int <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Technol 
-&nbsp; 
-Assess <inDict> 
-&nbsp; 
-Health <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-11 
-: 
-762 
-– 
-769 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Luft 
-&nbsp; 
-HS <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Bunker <inDict> 
-&nbsp; 
-JP <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Enthoven 
-&nbsp; 
-AC <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-Should <inDict> 
-&nbsp; 
-operations <inDict> 
-&nbsp; 
-be <inDict> 
-&nbsp; 
-regionalized? 
-&nbsp; 
-The <inDict> 
-&nbsp; 
-empirical <inDict> 
-&nbsp; 
-relation <inDict> 
-&nbsp; 
-between <inDict> 
-&nbsp; 
-surgical <inDict> 
-&nbsp; 
-volume <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-mortality <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-1979 <isYear> 
-. <isPunctOrUpper> 
-&nbsp; 
-Clin 
-&nbsp; 
-Orthop 
-&nbsp; 
-Relat 
-&nbsp; 
-Res <inDict> 
-&nbsp; 
-457 
-: 
-3 
-– 
 9 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Stockwell 
-&nbsp; 
-DC <inDict> <isPunctOrUpper> 
 , 
 &nbsp; 
-Slonim 
-&nbsp; 
-AD <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2006 <isYear> 
-) 
-&nbsp; 
-Volume <inDict> 
-- 
-outcome <inDict> 
-&nbsp; 
-relationships <inDict> 
-: 
-&nbsp; 
-is <inDict> 
-&nbsp; 
-it <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-individual <inDict> 
-&nbsp; 
-or <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-team? 
-&nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-34 
-: 
-2495 
-– 
-2497 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Hugonnet 
-&nbsp; 
-S <isPunctOrUpper> 
-, 
-&nbsp; 
-Chevrolet 
-&nbsp; 
-J <isPunctOrUpper> 
-- 
-C <isPunctOrUpper> 
-, 
-&nbsp; 
-Pittet 
-&nbsp; 
-D <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-The <inDict> 
-&nbsp; 
-effect <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-workload <inDict> 
-&nbsp; 
-on <inDict> 
-&nbsp; 
-infection <inDict> 
-&nbsp; 
-risk <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-critically <inDict> 
-&nbsp; 
-ill <inDict> 
-&nbsp; 
-patients <inDict> 
+no <inDict> 
 . <isPunctOrUpper> 
 &nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-35 
-: 
-76 
-– 
-81 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Needleman 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-Buerhaus 
-&nbsp; 
-P <isPunctOrUpper> 
-, 
-&nbsp; 
-Mattke 
-&nbsp; 
-S <isPunctOrUpper> 
-, 
-&nbsp; 
-Stewart <inDict> 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Zelevinsky 
-&nbsp; 
-K <isPunctOrUpper> 
-&nbsp; 
-( 
-2002 <isYear> 
-) 
-&nbsp; 
-Nurse <inDict> 
+3 
 - 
-staffing <inDict> 
-&nbsp; 
-levels <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-quality <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-hospital <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-N <isPunctOrUpper> 
-&nbsp; 
-Engl 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-346 
-: 
-1715 
-– 
-1722 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Vandijck 
-&nbsp; 
-DM <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Blot <inDict> 
-&nbsp; 
-SI <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2008 <isYear> 
-) 
-&nbsp; 
-High <inDict> 
-&nbsp; 
-acuity <inDict> 
-&nbsp; 
-nurse <inDict> 
-&nbsp; 
-patient <inDict> 
-&nbsp; 
-ratio—is 
-&nbsp; 
-it <inDict> 
-&nbsp; 
-cost <inDict> 
-- 
-effective? 
-&nbsp; 
-In <inDict> 
-: 
-&nbsp; 
-Kuhlen 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Moreno 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Ranieri 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Rhodes <inDict> 
-&nbsp; 
-A <isPunctOrUpper> 
-&nbsp; 
-( 
-eds <inDict> 
-) 
-&nbsp; 
-Controversies <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-medicine <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Medizinisch <inDict> 
-&nbsp; 
-Wissenschaftiche 
-&nbsp; 
-Verlagsgesellschaft 
-, 
-&nbsp; 
-Berlin <inDict> 
+4 
 , 
 &nbsp; 
 pp <inDict> 
-&nbsp; 
-393 
-– 
-405 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Needleman 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-Buerhaus 
-&nbsp; 
-P <isPunctOrUpper> 
-&nbsp; 
-( 
-2003 <isYear> 
-) 
-&nbsp; 
-Nurse <inDict> 
-&nbsp; 
-staffing <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-patient <inDict> 
-&nbsp; 
-safety <inDict> 
-: 
-&nbsp; 
-current <inDict> 
-&nbsp; 
-knowledge <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-implications <inDict> 
-&nbsp; 
-for <inDict> 
-&nbsp; 
-action <inDict> 
 . <isPunctOrUpper> 
 &nbsp; 
-Int <inDict> 
+187 
+- 
+191 
+, 
 &nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Qual <inDict> 
-&nbsp; 
-Health <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-15 
-: 
-275 
-– 
-277 
+1986 <isYear> 
+. <isPunctOrUpper> 
 &nbsp; 
 EOR <isPunctOrUpper> 
 
 BOR <isPunctOrUpper> 
 &nbsp; 
-Miranda 
+Birger 
 &nbsp; 
-DR <inDict> <isPunctOrUpper> 
+Koblitz 
 , 
 &nbsp; 
-Ryan 
+Nuno 
 &nbsp; 
-DW <isPunctOrUpper> 
+Santos 
 , 
 &nbsp; 
-Schaufeli 
-&nbsp; 
-WB <isPunctOrUpper> 
-, 
-&nbsp; 
-Fidler 
+and <inDict> 
 &nbsp; 
 V <isPunctOrUpper> 
-&nbsp; 
-( 
-eds <inDict> 
-) 
-&nbsp; 
-( 
-1997 <isYear> 
-) 
-&nbsp; 
-Organization <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-management <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-: 
-&nbsp; 
-a 
-&nbsp; 
-prospective <inDict> 
-&nbsp; 
-study <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-12 
-&nbsp; 
-European <inDict> 
-&nbsp; 
-countries <inDict> 
 . <isPunctOrUpper> 
 &nbsp; 
-Springer <inDict> 
-, 
-&nbsp; 
-Berlin <inDict> 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Miranda 
-&nbsp; 
-DR <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Rivera 
-- 
-Fernández 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Nap <inDict> 
-&nbsp; 
-RE <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-Critical <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-medicine <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-hospital <inDict> 
-: 
-&nbsp; 
-lessons <inDict> 
-&nbsp; 
-from <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-EURICUS <isPunctOrUpper> 
-- 
-studies <inDict> 
+Pose <inDict> 
 . <isPunctOrUpper> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-Intensiva 
-&nbsp; 
-31 
-: 
-194 
-– 
-203 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Jain 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Miller <inDict> 
-&nbsp; 
-L <isPunctOrUpper> 
-, 
-&nbsp; 
-Belt <inDict> 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-King <inDict> 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-Berwick 
-&nbsp; 
-DM <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2006 <isYear> 
-) 
-&nbsp; 
-Decline <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-ICU <inDict> <isPunctOrUpper> 
-&nbsp; 
-adverse <inDict> 
-&nbsp; 
-events <inDict> 
-, 
-&nbsp; 
-nosocomial <inDict> 
-&nbsp; 
-infections <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-cost <inDict> 
-&nbsp; 
-through <inDict> 
-&nbsp; 
-a 
-&nbsp; 
-quality <inDict> 
-&nbsp; 
-improvement <inDict> 
-&nbsp; 
-initiative <inDict> 
-&nbsp; 
-focusing <inDict> 
-&nbsp; 
-on <inDict> 
-&nbsp; 
-teamwork <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-culture <inDict> 
-&nbsp; 
-change <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Qual <inDict> 
-&nbsp; 
-Saf 
-&nbsp; 
-Health <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-15 
-: 
-235 
-– 
-239 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Baggs 
-&nbsp; 
-JG <isPunctOrUpper> 
-&nbsp; 
-( 
-1989 <isYear> 
-) 
-&nbsp; 
-Intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-unit <inDict> 
-&nbsp; 
-use <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-collaboration <inDict> 
-&nbsp; 
-between <inDict> 
-&nbsp; 
-nurses <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-physicians <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Heart <inDict> 
-&nbsp; 
-Lung <inDict> 
-&nbsp; 
-18 
-: 
-332 
-– 
-338 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Baggs 
-&nbsp; 
-JG <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-Nurse <inDict> 
-– 
-physician <inDict> 
-&nbsp; 
-collaboration <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-units <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-35 
-: 
-641 
-– 
-642 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Prescott 
-&nbsp; 
-PA <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Bowen <inDict> 
-&nbsp; 
-SA <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-1985 <isYear> 
-) 
-&nbsp; 
-Physician <inDict> 
-– 
-nurse <inDict> 
-&nbsp; 
-relationships <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Ann <inDict> 
-&nbsp; 
-Intern <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-103 
-: 
-127 
-– 
-133 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Philpin 
-&nbsp; 
-S <isPunctOrUpper> 
-&nbsp; 
-( 
-2006 <isYear> 
-) 
-&nbsp; 
-‘Handing 
-&nbsp; 
-Over’ 
-: 
-&nbsp; 
-transmission <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-information <inDict> 
-&nbsp; 
-between <inDict> 
-&nbsp; 
-nurses <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-an <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-therapy <inDict> 
-&nbsp; 
-unit <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Nurs 
-&nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-2006 <isYear> 
-( 
-11 
-) 
-: 
-86 
-– 
-93 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Donchin 
-&nbsp; 
-Y <isPunctOrUpper> 
-, 
-&nbsp; 
-Gopher <inDict> 
-&nbsp; 
-D <isPunctOrUpper> 
-, 
-&nbsp; 
-Olin 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Badihi 
-&nbsp; 
-Y <isPunctOrUpper> 
-, 
-&nbsp; 
-Biesky 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Sprung 
-&nbsp; 
-CL <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Pizov 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Cotev 
-&nbsp; 
-S <isPunctOrUpper> 
-&nbsp; 
-( 
-1995 <isYear> 
-) 
-&nbsp; 
-A <isPunctOrUpper> 
-&nbsp; 
-look <inDict> 
-&nbsp; 
-into <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-nature <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-causes <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-human <inDict> 
-&nbsp; 
-errors <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-unit <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Crit <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-23 
-: 
-294 
-– 
-300 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Le <inDict> 
-&nbsp; 
-Blanc 
-&nbsp; 
-PM <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-de <inDict> 
-&nbsp; 
-Jonge 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-de <inDict> 
-&nbsp; 
-Rijk 
-&nbsp; 
-AE <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Schaufeli 
-&nbsp; 
-WE <inDict> <isPunctOrUpper> 
-&nbsp; 
-( 
-2001 <isYear> 
-) 
-&nbsp; 
-Well <inDict> 
-- 
-being <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-nurses <inDict> 
-&nbsp; 
-( 
-WEBIC <isPunctOrUpper> 
-) 
-: 
-&nbsp; 
-a 
-&nbsp; 
-job <inDict> 
-&nbsp; 
-analytic <inDict> 
-&nbsp; 
-approach <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Adv <inDict> 
-&nbsp; 
-Nurs 
-&nbsp; 
-36 
-: 
-460 
-– 
-470 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Katona <inDict> 
-&nbsp; 
-BG <isPunctOrUpper> 
-, 
-&nbsp; 
-Ayd 
-&nbsp; 
-PR <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Walters 
-&nbsp; 
-JK <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Caspi 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Finkelstein 
-&nbsp; 
-BW <isPunctOrUpper> 
-&nbsp; 
-( 
-1989 <isYear> 
-) 
-&nbsp; 
-Effect <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-a 
-&nbsp; 
-pharmacist’s 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-a 
-&nbsp; 
-nurse’s 
-&nbsp; 
-interventions <inDict> 
-&nbsp; 
-on <inDict> 
-&nbsp; 
-cost <inDict> 
-&nbsp; 
-of <inDict> 
-&nbsp; 
-drug <inDict> 
-&nbsp; 
-therapy <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-a 
-&nbsp; 
-medical <inDict> 
-&nbsp; 
-intensive <inDict> 
-- 
-care <inDict> 
-&nbsp; 
-unit <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Am <inDict> 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-Hosp 
-&nbsp; 
-Pharm 
-&nbsp; 
-46 
-: 
-119 
-– 
-1182 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Leape 
-&nbsp; 
-LL <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Cullen 
-&nbsp; 
-DJ <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Clapp 
-&nbsp; 
-MD <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Burdick 
-&nbsp; 
-E <isPunctOrUpper> 
-, 
-&nbsp; 
-Demonaco 
-&nbsp; 
-HJ <isPunctOrUpper> 
-, 
-&nbsp; 
-Erickson 
-&nbsp; 
-JI <isPunctOrUpper> 
-, 
-&nbsp; 
-Bates <inDict> 
-&nbsp; 
-DW <isPunctOrUpper> 
-&nbsp; 
-( 
-2000 <isYear> 
-) 
-&nbsp; 
-Pharmacist <inDict> 
-&nbsp; 
-participation <inDict> 
-&nbsp; 
-on <inDict> 
-&nbsp; 
-physician <inDict> 
-&nbsp; 
-rounds <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-adverse <inDict> 
-&nbsp; 
-drug <inDict> 
-&nbsp; 
-events <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-unit <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-JAMA <isPunctOrUpper> 
-&nbsp; 
-282 
-: 
-267 
-– 
-270 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Kane 
-&nbsp; 
-SL <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Weber <inDict> 
-&nbsp; 
-RJ <isPunctOrUpper> 
-, 
-&nbsp; 
-Dasta 
-&nbsp; 
-JF <isPunctOrUpper> 
-&nbsp; 
-( 
-2003 <isYear> 
-) 
 &nbsp; 
 The <inDict> 
 &nbsp; 
-impact <inDict> 
+AMGA <isPunctOrUpper> 
+&nbsp; 
+Metadata <inDict> 
+&nbsp; 
+Service <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+J <isPunctOrUpper> <isDBLPJournalTitle> 
+. <isPunctOrUpper> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Grid <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Comput <isDBLPJournalTitle> 
+. <isPunctOrUpper> <isDBLPJournalTitle> 
+, 
+&nbsp; 
+6 
+( 
+1 
+) 
+: 
+61 
+- 
+76 
+, 
+&nbsp; 
+2008 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+G <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+H <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Freeman <inDict> 
+, 
+&nbsp; 
+I <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+F <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Blake 
+, 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+W <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Mark <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Trellis <inDict> 
+&nbsp; 
+source <inDict> 
+&nbsp; 
+code <inDict> 
+&nbsp; 
+design <inDict> 
+&nbsp; 
+as <inDict> 
+&nbsp; 
+an <inDict> 
+&nbsp; 
+optimization <inDict> 
+&nbsp; 
+problem <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+IEEE <inDict> <isPunctOrUpper> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Transactions <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+on <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Information <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Theory <inDict> <isDBLPJournalTitle> 
+, 
+&nbsp; 
+34 
+( 
+5 
+) 
+: 
+1226 
+- 
+1241 
+, 
+&nbsp; 
+1988 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Toshiyuki 
+&nbsp; 
+Hama 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Hiroaki 
+&nbsp; 
+Etoh 
+. <isPunctOrUpper> 
+&nbsp; 
+Topological <inDict> 
+&nbsp; 
+routing <inDict> 
+&nbsp; 
+path <inDict> 
+&nbsp; 
+search <inDict> 
+&nbsp; 
+algorithm <inDict> 
+&nbsp; 
+with <inDict> 
+&nbsp; 
+incremental <inDict> 
+&nbsp; 
+routability <inDict> 
+&nbsp; 
+test <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+IEEE <inDict> <isPunctOrUpper> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Trans <inDict> <isDBLPJournalTitle> 
+. <isPunctOrUpper> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+on <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+CAD <inDict> <isPunctOrUpper> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+of <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Integrated <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Circuits <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+and <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Systems <inDict> <isDBLPJournalTitle> 
+, 
+&nbsp; 
+18 
+( 
+2 
+) 
+: 
+142 
+- 
+150 
+, 
+&nbsp; 
+1999 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Md <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Saidur 
+&nbsp; 
+Rahman 
+&nbsp; 
+0001 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Satoshi 
+&nbsp; 
+Fujita 
+, 
+&nbsp; 
+editors <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+WALCOM <isPunctOrUpper> 
+: 
+&nbsp; 
+Algorithms <inDict> <isDBLPJournalTitle> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Computation <inDict> <isDBLPJournalTitle> 
+, 
+&nbsp; 
+4th 
+&nbsp; 
+International <inDict> 
+&nbsp; 
+Workshop <inDict> 
+, 
+&nbsp; 
+WALCOM <isPunctOrUpper> 
+&nbsp; 
+2010 <isYear> 
+, 
+&nbsp; 
+Dhaka 
+, 
+&nbsp; 
+Bangladesh <inDict> 
+, 
+&nbsp; 
+February <inDict> 
+&nbsp; 
+10 
+- 
+12 
+, 
+&nbsp; 
+2010 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+Proceedings <inDict> 
+, 
+&nbsp; 
+volume <inDict> 
+&nbsp; 
+5942 
 &nbsp; 
 of <inDict> 
 &nbsp; 
-critical <inDict> 
+Lecture <inDict> 
 &nbsp; 
-care <inDict> 
+Notes <inDict> 
 &nbsp; 
-pharmacists <inDict> 
+in <inDict> 
+&nbsp; 
+Computer <inDict> 
+&nbsp; 
+Science <inDict> <isDBLPJournalTitle> 
+, 
+&nbsp; 
+2010 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+Springer <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+ISBN <inDict> <isPunctOrUpper> 
+&nbsp; 
+978 
+- 
+3 
+- 
+642 
+- 
+11439 
+- 
+7 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
+&nbsp; 
+db <inDict> 
+/ 
+conf <inDict> 
+/ 
+walcom 
+/ 
+walcom2010 
+. <isPunctOrUpper> 
+html <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Ethan 
+&nbsp; 
+L <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Miller <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Erez 
+&nbsp; 
+Zadok 
+, 
+&nbsp; 
+editors <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Proceedings <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+2006 <isYear> 
+&nbsp; 
+ACM <inDict> <isPunctOrUpper> 
+&nbsp; 
+Workshop <inDict> 
+&nbsp; 
+On <inDict> 
+&nbsp; 
+Storage <inDict> 
+&nbsp; 
+Security <inDict> 
+&nbsp; 
+And <inDict> 
+&nbsp; 
+Survivability <inDict> 
+, 
+&nbsp; 
+StorageSS 
+&nbsp; 
+2006 <isYear> 
+, 
+&nbsp; 
+Alexandria <inDict> 
+, 
+&nbsp; 
+VA <inDict> <isPunctOrUpper> 
+, 
+&nbsp; 
+USA <inDict> <isPunctOrUpper> 
+, 
+&nbsp; 
+October <inDict> 
+&nbsp; 
+30 
+, 
+&nbsp; 
+2006 <isYear> 
+, 
+&nbsp; 
+2006 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+ACM <inDict> <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+ISBN <inDict> <isPunctOrUpper> 
+&nbsp; 
+1 
+- 
+59593 
+- 
+552 
+- 
+5 
+. <isPunctOrUpper> 
+&nbsp; 
+db <inDict> 
+/ 
+conf <inDict> 
+/ 
+storagess 
+/ 
+storagess2006 
+. <isPunctOrUpper> 
+html <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Second <inDict> 
+&nbsp; 
+CYTED <isPunctOrUpper> 
+- 
+RITOS <isPunctOrUpper> 
+&nbsp; 
+International <inDict> 
+&nbsp; 
+Workshop <inDict> 
 &nbsp; 
 on <inDict> 
 &nbsp; 
-enhancing <inDict> 
+Groupware <inDict> 
+, 
 &nbsp; 
-patient <inDict> 
+CRIWG <isPunctOrUpper> 
 &nbsp; 
-outcomes <inDict> 
+' 
+96 
+, 
+&nbsp; 
+Puerto 
+&nbsp; 
+Varas 
+, 
+&nbsp; 
+Chile <inDict> 
+, 
+&nbsp; 
+September <inDict> 
+&nbsp; 
+25 
+- 
+27 
+, 
+&nbsp; 
+1996 <isYear> 
+, 
+&nbsp; 
+Proceedings <inDict> 
+, 
+&nbsp; 
+1996 <isYear> 
 . <isPunctOrUpper> 
-&nbsp; 
-Intensive <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-29 
-: 
-691 
-– 
-698 
 &nbsp; 
 EOR <isPunctOrUpper> 
 
 BOR <isPunctOrUpper> 
 &nbsp; 
-Rothen 
-&nbsp; 
-HU <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Stricker 
-&nbsp; 
-K <isPunctOrUpper> 
-, 
-&nbsp; 
-Einfalt 
-&nbsp; 
-J <isPunctOrUpper> 
-, 
-&nbsp; 
-Bauer 
-&nbsp; 
-P <isPunctOrUpper> 
-, 
-&nbsp; 
-Metnitz 
-&nbsp; 
-PGH <isPunctOrUpper> 
-, 
-&nbsp; 
-Moreno 
-&nbsp; 
-RP <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Takala 
-&nbsp; 
-J <isPunctOrUpper> 
-&nbsp; 
-( 
-2007 <isYear> 
-) 
-&nbsp; 
-Variability <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-outcome <inDict> 
-&nbsp; 
-and <inDict> 
-&nbsp; 
-resource <inDict> 
-&nbsp; 
-use <inDict> 
-&nbsp; 
-in <inDict> 
-&nbsp; 
-intensive <inDict> 
-&nbsp; 
-care <inDict> 
-&nbsp; 
-units <inDict> 
-. <isPunctOrUpper> 
-&nbsp; 
-Intensive <inDict> 
-&nbsp; 
-Care <inDict> 
-&nbsp; 
-Med <inDict> 
-&nbsp; 
-33 
-: 
-1329 
-– 
-1336 
-&nbsp; 
-EOR <isPunctOrUpper> 
-
-BOR <isPunctOrUpper> 
-&nbsp; 
-Donchin 
-&nbsp; 
-Y <isPunctOrUpper> 
-, 
-&nbsp; 
-Gopher <inDict> 
+Eckhard 
 &nbsp; 
 D <isPunctOrUpper> 
-, 
+. <isPunctOrUpper> 
 &nbsp; 
-Olin 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Badihi 
-&nbsp; 
-Y <isPunctOrUpper> 
-, 
-&nbsp; 
-Biesky 
-&nbsp; 
-M <isPunctOrUpper> 
-, 
-&nbsp; 
-Sprung 
-&nbsp; 
-CL <inDict> <isPunctOrUpper> 
-, 
-&nbsp; 
-Pizov 
-&nbsp; 
-R <isPunctOrUpper> 
-, 
-&nbsp; 
-Cotev 
-&nbsp; 
-S <isPunctOrUpper> 
-&nbsp; 
-( 
-2003 <isYear> 
-) 
-&nbsp; 
-A <isPunctOrUpper> 
-&nbsp; 
-look <inDict> 
-&nbsp; 
-into <inDict> 
-&nbsp; 
-the <inDict> 
-&nbsp; 
-nature <inDict> 
+Falkenberg 
 &nbsp; 
 and <inDict> 
 &nbsp; 
-causes <inDict> 
+Wolfgang 
+&nbsp; 
+Hesse 
+, 
+&nbsp; 
+editors <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Information <inDict> <isDBLPJournalTitle> 
+&nbsp; 
+System <inDict> 
+&nbsp; 
+Concepts <inDict> 
+: 
+&nbsp; 
+Towards <inDict> 
+&nbsp; 
+a 
+&nbsp; 
+consolidation <inDict> 
 &nbsp; 
 of <inDict> 
 &nbsp; 
-human <inDict> 
+views <inDict> 
+, 
 &nbsp; 
-errors <inDict> 
+Proceedings <inDict> 
 &nbsp; 
-in <inDict> 
+of <inDict> 
 &nbsp; 
 the <inDict> 
 &nbsp; 
-intensive <inDict> 
+IFIP <isPunctOrUpper> 
 &nbsp; 
-care <inDict> 
+international <inDict> 
 &nbsp; 
-unit <inDict> 
+working <inDict> 
+&nbsp; 
+conference <inDict> 
+&nbsp; 
+on <inDict> 
+&nbsp; 
+information <inDict> 
+&nbsp; 
+system <inDict> 
+&nbsp; 
+concepts <inDict> 
+, 
+&nbsp; 
+Marburg 
+, 
+&nbsp; 
+Germany <inDict> 
+, 
+&nbsp; 
+28 
+- 
+30 
+&nbsp; 
+March <inDict> 
+&nbsp; 
+1995 <isYear> 
+, 
+&nbsp; 
+volume <inDict> 
+&nbsp; 
+26 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+IFIP <isPunctOrUpper> 
+&nbsp; 
+Conference <inDict> 
+&nbsp; 
+Proceedings <inDict> 
 . <isPunctOrUpper> 
 &nbsp; 
-Qual <inDict> 
+Chapman 
 &nbsp; 
-Saf 
+& 
 &nbsp; 
-Health <inDict> 
+Hall <inDict> 
+, 
 &nbsp; 
-Care <inDict> 
+1995 <isYear> 
+. <isPunctOrUpper> 
 &nbsp; 
-12 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+MacClelland 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+& 
+&nbsp; 
+Futato 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+( 
+2008 <isYear> 
+) 
+, 
+&nbsp; 
+Adobe <inDict> 
+&nbsp; 
+InDesign 
+&nbsp; 
+CS4 
+&nbsp; 
+one <inDict> 
+- 
+on <inDict> 
+- 
+one <inDict> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+O <isPunctOrUpper> 
+' 
+Reilly 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Anderson 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+L <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Machine <inDict> 
+&nbsp; 
+Intentionality <inDict> 
+, 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+Moral <inDict> 
+&nbsp; 
+Status <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Machines <inDict> 
+, 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+Composition <inDict> 
+&nbsp; 
+Problem <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+In <inDict> 
+&nbsp; 
+Philosophy <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Theory <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Artificial <inDict> 
+&nbsp; 
+Intelligence <inDict> <isDBLPJournalTitle> 
+. <isPunctOrUpper> 
+&nbsp; 
+2013 <isYear> 
+, 
+&nbsp; 
+pp <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+321 
+- 
+333 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Vectorization <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+In <inDict> 
+&nbsp; 
+Encyclopedia <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Parallel <inDict> <isDBLPJournalTitle> 
+&nbsp; <isDBLPJournalTitle> 
+Computing <inDict> <isDBLPJournalTitle> 
+, 
+&nbsp; 
+page <inDict> 
+&nbsp; 
+2135 
+. <isPunctOrUpper> 
+&nbsp; 
+2011 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Mazurek 
+, 
+&nbsp; 
+C <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Mielnicki 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Nowak 
+, 
+&nbsp; 
+A <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Stroinski 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Werla 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+& 
+&nbsp; 
+Weglarz 
+, 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+( 
+2013 <isYear> 
+) 
+, 
+&nbsp; 
+Architecture <inDict> 
+&nbsp; 
+for <inDict> 
+&nbsp; 
+Aggregation <inDict> 
+, 
+&nbsp; 
+Processing <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Provisioning <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Data <inDict> 
+&nbsp; 
+from <inDict> 
+&nbsp; 
+Heterogeneous <inDict> 
+&nbsp; 
+Scientific <inDict> 
+&nbsp; 
+Information <inDict> <isDBLPJournalTitle> 
+&nbsp; 
+Services <inDict> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+in <inDict> 
+&nbsp; 
+‘Intelligent 
+&nbsp; 
+Tools <inDict> 
+&nbsp; 
+for <inDict> 
+&nbsp; 
+Building <inDict> 
+&nbsp; 
+a 
+&nbsp; 
+Scientific <inDict> 
+&nbsp; 
+Information <inDict> <isDBLPJournalTitle> 
+&nbsp; 
+Platform <inDict> 
+' 
+, 
+&nbsp; 
+pp <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+529 
+- 
+546 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
 : 
-143 
-– 
-148 
+&nbsp; 
+db <inDict> 
+/ 
+series <inDict> 
+/ 
+sci <inDict> 
+/ 
+sci467 
+. <isPunctOrUpper> 
+html#MazurekMNSWW13 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Tamir 
+, 
+&nbsp; 
+Y <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Liang 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Lai <inDict> 
+, 
+&nbsp; 
+T <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Tremblay 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+: 
+&nbsp; 
+1991 <isYear> 
+, 
+&nbsp; 
+The <inDict> 
+&nbsp; 
+UCLA <isPunctOrUpper> 
+&nbsp; 
+Mirror <inDict> 
+&nbsp; 
+Processor <inDict> 
+: 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+Building <inDict> 
+&nbsp; 
+Block <inDict> 
+&nbsp; 
+for <inDict> 
+&nbsp; 
+Self <inDict> 
+- 
+Checking <inDict> 
+&nbsp; 
+Self <inDict> 
+- 
+Repring 
+&nbsp; 
+Computing <inDict> <isDBLPJournalTitle> 
+&nbsp; 
+Nodes <inDict> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+FTCS <isPunctOrUpper> 
+, 
+&nbsp; 
+pp <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+178 
+- 
+187 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
+: 
+&nbsp; 
+db <inDict> 
+/ 
+conf <inDict> 
+/ 
+ftcs 
+/ 
+ftcs91 
+. <isPunctOrUpper> 
+html#TamirLLT91 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Caroline 
+&nbsp; 
+Fontaine 
+. <isPunctOrUpper> 
+&nbsp; 
+Summation <inDict> 
+&nbsp; 
+generator <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+In <inDict> 
+&nbsp; 
+Encyclopedia <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Cryptography <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Security <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+2005c <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
+&nbsp; 
+db <inDict> 
+/ 
+reference <inDict> 
+/ 
+crypt <inDict> 
+/ 
+crypt2005 
+. <isPunctOrUpper> 
+html#Fontaine05i 
+. <isPunctOrUpper> 
 &nbsp; 
 EOR <isPunctOrUpper> 
 
