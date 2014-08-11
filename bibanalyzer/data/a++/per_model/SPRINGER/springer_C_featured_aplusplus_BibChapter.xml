@@ -7,38 +7,74 @@
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>K.</Initials>
-     <FamilyName>Marti</FamilyName>
+     <Initials>J</Initials>
+     <FamilyName>Garnacho-Montero</FamilyName>
    </BibAuthorName>
-   <Year>2012</Year>
-   <ChapterTitle Language="En"></ChapterTitle>
-   <BookTitle>Advances in Engineering Software 46(1)</BookTitle>
+   <BibAuthorName>
+     <Initials>C</Initials>
+     <FamilyName>Ortiz-Leyba</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>I</Initials>
+     <FamilyName>Herrera-Melero</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>T</Initials>
+     <FamilyName>Aldabó-Pallá</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Cayuela-Dominguez</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JA</Initials>
+     <FamilyName>Marquez-Vacaro</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Carbajal-Guerrero</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JL</Initials>
+     <FamilyName>Garcia-Garmendia</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Antimicrob</FamilyName>
+   </BibAuthorName>
+   <Year>2008</Year>
+   <ChapterTitle Language="En">Mortality and morbidity attributable to inadequate empirical antimicrobial therapy in patients admitted to the ICU with sepsis: a matched cohort study</ChapterTitle>
+   <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
    <PublisherName></PublisherName>
-   <PublisherLocation></PublisherLocation>
-   <FirstPage></FirstPage>
-   <LastPage></LastPage>
+   <PublisherLocation>61</PublisherLocation>
+   <FirstPage>436</FirstPage>
+   <LastPage>441</LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>K. Marti, Advances in Engineering Software 46(1), 43 (2012)</BibUnstructured>
+  <BibUnstructured>Garnacho-Montero J, Ortiz-Leyba C, Herrera-Melero I, Aldabó-Pallá T, Cayuela-Dominguez A, Marquez-Vacaro JA, Carbajal-Guerrero J, Garcia-Garmendia JL (2008) Mortality and morbidity attributable to inadequate empirical antimicrobial therapy in patients admitted to the ICU with sepsis: a matched cohort study. J Antimicrob Chemother 61:436–441</BibUnstructured>
  </Citation>
 
  <Citation ID="CR1_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>D. B.</Initials>
-     <FamilyName>Herrmann</FamilyName>
+     <Initials>J</Initials>
+     <FamilyName>Harenberg</FamilyName>
    </BibAuthorName>
-   <Year>1986</Year>
-   <ChapterTitle Language="En"></ChapterTitle>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Kraemer</FamilyName>
+   </BibAuthorName>
+   <Year></Year>
+   <ChapterTitle Language="En">Measurement of the new anticoagulants</ChapterTitle>
    <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
-   <SeriesTitle Language="En">“Astronomy in the twentieth century.” Scientometrics</SeriesTitle>
+   <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
    <PublisherName></PublisherName>
@@ -48,334 +84,670 @@
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>D. B. Herrmann, “Astronomy in the twentieth century.” Scientometrics, vol. 9, no. 3-4, pp. 187-191, 1986.</BibUnstructured>
+  <BibUnstructured>Harenberg J, Kraemer R: Measurement of the new anticoagulants. Thromb Res 2012,129(Suppl 1):S106-S113.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR2_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>V.</Initials>
-     <FamilyName>Birger</FamilyName>
+     <Initials>J</Initials>
+     <FamilyName>Jones</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>J.</Initials>
-     <FamilyName>Koblitz</FamilyName>
+     <Initials>K</Initials>
+     <FamilyName>Rowan</FamilyName>
    </BibAuthorName>
-   <Year>2008</Year>
+   <Year>1995</Year>
    <ChapterTitle Language="En"></ChapterTitle>
-   <BookTitle>The AMGA Metadata Service</BookTitle>
+   <BookTitle>Is there a relationship between the volume of work carried out in intensive care and its outcome? Int J Technol Assess Health Care</BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
    <PublisherName></PublisherName>
-   <PublisherLocation></PublisherLocation>
-   <FirstPage></FirstPage>
-   <LastPage></LastPage>
+   <PublisherLocation>11</PublisherLocation>
+   <FirstPage>762</FirstPage>
+   <LastPage>769</LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Birger Koblitz, Nuno Santos, and V. Pose. The AMGA Metadata Service. J. Grid Comput., 6(1):61-76, 2008.</BibUnstructured>
+  <BibUnstructured>Jones J, Rowan K (1995) Is there a relationship between the volume of work carried out in intensive care and its outcome? Int J Technol Assess Health Care 11:762–769</BibUnstructured>
  </Citation>
 
  <Citation ID="CR3_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>G.</Initials>
-     <FamilyName>Blake</FamilyName>
+     <Initials>HS</Initials>
+     <FamilyName>Luft</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>I. F.</Initials>
-     <FamilyName>1226-1241</FamilyName>
+     <Initials>JP</Initials>
+     <FamilyName>Bunker</FamilyName>
    </BibAuthorName>
-   <Year>1988</Year>
-   <ChapterTitle Language="En">Mark. Trellis source code design as an optimization problem</ChapterTitle>
+   <BibAuthorName>
+     <Initials>AC</Initials>
+     <FamilyName>Enthoven</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En">Should operations be regionalized? The empirical relation between surgical volume and mortality</ChapterTitle>
    <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName>H. Freeman</PublisherName>
+   <PublisherName></PublisherName>
    <PublisherLocation></PublisherLocation>
-   <FirstPage></FirstPage>
-   <LastPage></LastPage>
+   <FirstPage>3</FirstPage>
+   <LastPage>9</LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>G. H. Freeman, I. F. Blake, and J. W. Mark. Trellis source code design as an optimization problem. IEEE Transactions on Information Theory, 34(5):1226-1241, 1988.</BibUnstructured>
+  <BibUnstructured>Luft HS, Bunker JP, Enthoven AC (2007) Should operations be regionalized? The empirical relation between surgical volume and mortality. 1979. Clin Orthop Relat Res 457:3–9</BibUnstructured>
  </Citation>
 
  <Citation ID="CR4_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials></Initials>
-     <FamilyName></FamilyName>
+     <Initials>S</Initials>
+     <FamilyName>Hugonnet</FamilyName>
    </BibAuthorName>
-   <Year>1999</Year>
-   <ChapterTitle Language="En">Toshiyuki Hama and Hiroaki Etoh. Topological routing path search algorithm with incremental routability test</ChapterTitle>
-   <BookTitle>IEEE Trans. on CAD of Integrated Circuits and Systems, 18(2):142-150</BookTitle>
+   <BibAuthorName>
+     <Initials>J-C</Initials>
+     <FamilyName>Chevrolet</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Pittet</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En">The effect of workload on infection risk in critically ill patients</ChapterTitle>
+   <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
    <PublisherName></PublisherName>
    <PublisherLocation></PublisherLocation>
-   <FirstPage></FirstPage>
-   <LastPage></LastPage>
+   <FirstPage>76</FirstPage>
+   <LastPage>81</LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Toshiyuki Hama and Hiroaki Etoh. Topological routing path search algorithm with incremental routability test. IEEE Trans. on CAD of Integrated Circuits and Systems, 18(2):142-150, 1999.</BibUnstructured>
+  <BibUnstructured>Hugonnet S, Chevrolet J-C, Pittet D (2007) The effect of workload on infection risk in critically ill patients. Crit Care Med 35:76–81</BibUnstructured>
  </Citation>
 
  <Citation ID="CR5_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>WALCOM</Initials>
-     <FamilyName>Dhaka</FamilyName>
+     <Initials>Y</Initials>
+     <FamilyName>Donchin</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>WALCOM</Initials>
-     <FamilyName>Bangladesh</FamilyName>
+     <Initials>D</Initials>
+     <FamilyName>Gopher</FamilyName>
    </BibAuthorName>
-   <Year>2010</Year>
-   <ChapterTitle Language="En">Md. Saidur Rahman 0001 and Satoshi Fujita, editors</ChapterTitle>
-   <BookTitle>Proceedings, volume 5942 of Lecture Notes in Computer Science</BookTitle>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Olin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>Y</Initials>
+     <FamilyName>Badihi</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Biesky</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>CL</Initials>
+     <FamilyName>Sprung</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Pizov</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Cotev</FamilyName>
+   </BibAuthorName>
+   <Year>2003</Year>
+   <ChapterTitle Language="En">A look into the nature and causes of human errors in the intensive care unit</ChapterTitle>
+   <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName>Springer. ISBN 978-3-642-11439-7. URL db/conf/walcom/walcom2010.html</PublisherName>
+   <PublisherName></PublisherName>
    <PublisherLocation></PublisherLocation>
-   <FirstPage></FirstPage>
-   <LastPage></LastPage>
+   <FirstPage>143</FirstPage>
+   <LastPage>148</LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Md. Saidur Rahman 0001 and Satoshi Fujita, editors. WALCOM: Algorithms and Computation, 4th International Workshop, WALCOM 2010, Dhaka, Bangladesh, February 10-12, 2010. Proceedings, volume 5942 of Lecture Notes in Computer Science, 2010. Springer. ISBN 978-3-642-11439-7. URL db/conf/walcom/walcom2010.html.</BibUnstructured>
+  <BibUnstructured>Donchin Y, Gopher D, Olin M, Badihi Y, Biesky M, Sprung CL, Pizov R, Cotev S (2003) A look into the nature and causes of human errors in the intensive care unit. Qual Saf Health Care 12:143–148</BibUnstructured>
  </Citation>
 
  <Citation ID="CR6_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>L.</Initials>
-     <FamilyName>Ethan</FamilyName>
+     <Initials>A. N.</Initials>
+     <FamilyName>Tikhonov</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>VA</Initials>
-     <FamilyName>StorageSS</FamilyName>
+     <Initials>V. Y.</Initials>
+     <FamilyName>Arsenin</FamilyName>
    </BibAuthorName>
-   <Year>2006</Year>
-   <ChapterTitle Language="En"></ChapterTitle>
-   <BookTitle>Miller and Erez Zadok, editors. Proceedings of the 2006 ACM Workshop On Storage Security And Survivability</BookTitle>
+   <Year>1977</Year>
+   <ChapterTitle Language="En">Solutions of ill-posed problems</ChapterTitle>
+   <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName>ACM. ISBN 1-59593-552-5. db/conf/storagess/storagess2006.html</PublisherName>
-   <PublisherLocation></PublisherLocation>
+   <PublisherName>Wiley</PublisherName>
+   <PublisherLocation>New York</PublisherLocation>
    <FirstPage></FirstPage>
    <LastPage></LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Ethan L. Miller and Erez Zadok, editors. Proceedings of the 2006 ACM Workshop On Storage Security And Survivability, StorageSS 2006, Alexandria, VA, USA, October 30, 2006, 2006. ACM. ISBN 1-59593-552-5. db/conf/storagess/storagess2006.html.</BibUnstructured>
+  <BibUnstructured>Tikhonov, A. N., &amp; Arsenin, V. Y. (1977). Solutions of ill-posed problems. New York: Wiley.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR7_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials></Initials>
-     <FamilyName>Proceedings</FamilyName>
+     <Initials>V</Initials>
+     <FamilyName>Vapnik</FamilyName>
    </BibAuthorName>
-   <Year>1996</Year>
+   <Year>1998</Year>
    <ChapterTitle Language="En"></ChapterTitle>
-   <BookTitle>Second CYTED-RITOS International Workshop on Groupware, CRIWG '96, Puerto Varas, Chile, September 25-27</BookTitle>
+   <BookTitle>Statistical Learning Theory</BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName></PublisherName>
-   <PublisherLocation></PublisherLocation>
+   <PublisherName>Wiley</PublisherName>
+   <PublisherLocation>New York</PublisherLocation>
    <FirstPage></FirstPage>
    <LastPage></LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Second CYTED-RITOS International Workshop on Groupware, CRIWG '96, Puerto Varas, Chile, September 25-27, 1996, Proceedings, 1996.</BibUnstructured>
+  <BibUnstructured>Vapnik V: Statistical Learning Theory. Wiley, New York, NY; 1998.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR8_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>D.</Initials>
-     <FamilyName>Eckhard</FamilyName>
+     <Initials>J</Initials>
+     <FamilyName>Crank</FamilyName>
    </BibAuthorName>
-   <Year>1995</Year>
-   <ChapterTitle Language="En"></ChapterTitle>
-   <BookTitle>Falkenberg and Wolfgang Hesse, editors. Information System Concepts: Towards a consolidation of views, Proceedings of the IFIP international working conference on information system concepts, Marburg, Germany, 28-30 March 1995, volume 26 of IFIP Conference Proceedings</BookTitle>
+   <Year>1956</Year>
+   <ChapterTitle Language="En">The Mathematics of Diffusion</ChapterTitle>
+   <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName>Chapman &amp; Hall</PublisherName>
-   <PublisherLocation></PublisherLocation>
+   <PublisherName>Oxford University Press;</PublisherName>
+   <PublisherLocation>New York</PublisherLocation>
    <FirstPage></FirstPage>
    <LastPage></LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Eckhard D. Falkenberg and Wolfgang Hesse, editors. Information System Concepts: Towards a consolidation of views, Proceedings of the IFIP international working conference on information system concepts, Marburg, Germany, 28-30 March 1995, volume 26 of IFIP Conference Proceedings. Chapman &amp; Hall, 1995.</BibUnstructured>
+  <BibUnstructured>Crank J: The Mathematics of Diffusion. New York: Oxford University Press; 1956.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR9_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>D.</Initials>
-     <FamilyName>MacClelland</FamilyName>
+     <Initials>B</Initials>
+     <FamilyName>Alloway</FamilyName>
    </BibAuthorName>
-   <BibAuthorName>
-     <Initials>D.</Initials>
-     <FamilyName>Futato</FamilyName>
-   </BibAuthorName>
-   <Year>2008</Year>
-   <ChapterTitle Language="En">Adobe InDesign CS4 one-on-one</ChapterTitle>
+   <Year>1999</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
    <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName>O'Reilly</PublisherName>
-   <PublisherLocation></PublisherLocation>
-   <FirstPage></FirstPage>
+   <PublisherName>Springer</PublisherName>
+   <PublisherLocation>Heidelberg</PublisherLocation>
+   <FirstPage>Wechselwirkungen</FirstPage>
    <LastPage></LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>MacClelland, D. &amp; Futato, D. (2008), Adobe InDesign CS4 one-on-one., O'Reilly.</BibUnstructured>
+  <BibUnstructured>Alloway B (1999): Schwermetalle in Böden: Analytik, Konzentrationen, Wechselwirkungen. Springer. Berlin. Heidelberg.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR10_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>D. L.</Initials>
-     <FamilyName>Anderson</FamilyName>
+     <Initials>S.</Initials>
+     <FamilyName>Lauritzen</FamilyName>
    </BibAuthorName>
-   <Year>2013</Year>
-   <ChapterTitle Language="En">Machine Intentionality, the Moral Status of Machines, and the Composition Problem</ChapterTitle>
-   <BookTitle>Philosophy and Theory of Artificial Intelligence</BookTitle>
+   <Year>1996</Year>
+   <ChapterTitle Language="En">Graphical models</ChapterTitle>
+   <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName></PublisherName>
-   <PublisherLocation></PublisherLocation>
-   <FirstPage>321</FirstPage>
-   <LastPage>333</LastPage>
+   <PublisherName>Oxford University Press</PublisherName>
+   <PublisherLocation>London</PublisherLocation>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Anderson, D. L. Machine Intentionality, the Moral Status of Machines, and the Composition Problem. In Philosophy and Theory of Artificial Intelligence. 2013, pp. 321-333.</BibUnstructured>
+  <BibUnstructured>Lauritzen, S. (1996). Graphical models. London: Oxford University Press.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR11_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials></Initials>
-     <FamilyName></FamilyName>
+     <Initials>D. D.</Initials>
+     <FamilyName>Gilmore</FamilyName>
    </BibAuthorName>
-   <Year>2011</Year>
-   <ChapterTitle Language="En">Encyclopedia of Parallel Computing, page 2135</ChapterTitle>
+   <Year>1990</Year>
+   <ChapterTitle Language="En">Manhood in the making: Cultural concepts of masculinity</ChapterTitle>
    <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName></PublisherName>
-   <PublisherLocation></PublisherLocation>
+   <PublisherName>Yale University Press</PublisherName>
+   <PublisherLocation>New Haven, CT</PublisherLocation>
    <FirstPage></FirstPage>
    <LastPage></LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Vectorization. In Encyclopedia of Parallel Computing, page 2135. 2011.</BibUnstructured>
+  <BibUnstructured>Gilmore, D. D. (1990). Manhood in the making: Cultural concepts of masculinity. New Haven, CT: Yale University Press.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR12_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>C.</Initials>
-     <FamilyName>Mazurek</FamilyName>
+     <Initials>DG</Initials>
+     <FamilyName>Robertson</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>M.</Initials>
-     <FamilyName>Mielnicki</FamilyName>
+     <Initials>MD</Initials>
+     <FamilyName>Reily</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>A.</Initials>
-     <FamilyName>Nowak</FamilyName>
+     <Initials>GH</Initials>
+     <FamilyName>Cantor</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>M.</Initials>
-     <FamilyName>Stroinski</FamilyName>
+     <Initials>CL</Initials>
+     <FamilyName>John</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>M.</Initials>
-     <FamilyName>Werla</FamilyName>
+     <Initials>KN</Initials>
+     <FamilyName>Jeremy</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>J.</Initials>
-     <FamilyName>Weglarz</FamilyName>
+     <Initials>H</Initials>
+     <FamilyName>Elaine</FamilyName>
    </BibAuthorName>
-   <Year>2013</Year>
-   <ChapterTitle Language="En">Architecture for Aggregation, Processing and Provisioning of Data from Heterogeneous Scientific Information Services</ChapterTitle>
-   <BookTitle></BookTitle>
+   <Year>2007</Year>
+   <ChapterTitle Language="En">Metabonomics in preclinical pharmaceutical discovery and development</ChapterTitle>
+   <BookTitle>The Handbook of Metabonomics and Metabolomics</BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
    <NumberInSeries></NumberInSeries>
-   <PublisherName></PublisherName>
-   <PublisherLocation></PublisherLocation>
-   <FirstPage></FirstPage>
-   <LastPage></LastPage>
+   <PublisherName>Elsevier Science</PublisherName>
+   <PublisherLocation>Amsterdam</PublisherLocation>
+   <FirstPage>241</FirstPage>
+   <LastPage>277</LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Mazurek, C., Mielnicki, M., Nowak, A., Stroinski, M., Werla, M. &amp; Weglarz, J. (2013), Architecture for Aggregation, Processing and Provisioning of Data from Heterogeneous Scientific Information Services., in ‘Intelligent Tools for Building a Scientific Information Platform', pp. 529-546. URL: db/series/sci/sci467.html#MazurekMNSWW13</BibUnstructured>
+  <BibUnstructured>Robertson DG, Reily MD, Cantor GH, John CL, Jeremy KN, Elaine H: Metabonomics in preclinical pharmaceutical discovery and development. In The Handbook of Metabonomics and Metabolomics. Amsterdam: Elsevier Science B.V; 2007:241–277.</BibUnstructured>
  </Citation>
 
  <Citation ID="CR13_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials>Y.</Initials>
-     <FamilyName>Tamir</FamilyName>
+     <Initials>N.</Initials>
+     <FamilyName>Cowan</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>M.</Initials>
-     <FamilyName>Liang</FamilyName>
+     <Initials>A.</Initials>
+     <FamilyName>Miyake</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>T.</Initials>
-     <FamilyName>Lai</FamilyName>
+     <Initials>P.</Initials>
+     <FamilyName>Shah</FamilyName>
+   </BibAuthorName>
+   <Year>1999</Year>
+   <ChapterTitle Language="En">An embedded-processes model of working memory</ChapterTitle>
+   <BookTitle>Models of working memory: Mechanisms of active maintenance and executive control</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName>Cambridge University Press</PublisherName>
+   <PublisherLocation>Cambridge</PublisherLocation>
+   <FirstPage>62</FirstPage>
+   <LastPage>101</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Cowan, N. (1999). An embedded-processes model of working memory. In A. Miyake &amp; P. Shah (Eds.), Models of working memory: Mechanisms of active maintenance and executive control (pp. 62–101). Cambridge: Cambridge University Press.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR14_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>DC</Initials>
+     <FamilyName>Montgomery</FamilyName>
    </BibAuthorName>
    <BibAuthorName>
-     <Initials>M.</Initials>
-     <FamilyName>Tremblay</FamilyName>
+     <Initials>DC</Initials>
+     <FamilyName>Montogmery</FamilyName>
    </BibAuthorName>
-   <Year>1991</Year>
-   <ChapterTitle Language="En">The UCLA Mirror Processor: A Building Block for Self-Checking Self-Repring Computing Nodes</ChapterTitle>
+   <Year>1997</Year>
+   <ChapterTitle Language="En">Response surface methods and other approaches to process optimization</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName>Wiley</PublisherName>
+   <PublisherLocation>New York</PublisherLocation>
+   <FirstPage>427</FirstPage>
+   <LastPage>510</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Montgomery DC (1997) Response surface methods and other approaches to process optimization. In: Montogmery DC (ed) Design and analysis of experiments. Wiley, New York, pp 427–510</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR15_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>J.</Initials>
+     <FamilyName>Bar-Ilan</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D.</Initials>
+     <FamilyName>Beaver</FamilyName>
+   </BibAuthorName>
+   <Year>1989</Year>
+   <ChapterTitle Language="En">Non-cryptographic fault-tolerant computing in a constant number of rounds of interaction</ChapterTitle>
+   <BookTitle>Proc. ACM Symposium on Principles of Distributed Computing</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName>ACM Press</PublisherName>
+   <PublisherLocation>New York</PublisherLocation>
+   <FirstPage>201</FirstPage>
+   <LastPage>209</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Bar-Ilan, J., Beaver, D.: Non-cryptographic fault-tolerant computing in a constant number of rounds of interaction. In: Proc. ACM Symposium on Principles of Distributed Computing, pp. 201–209. ACM Press, New York (1989)</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR16_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>V</Initials>
+     <FamilyName>Govender</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>McIntyre</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Loewenson</FamilyName>
+   </BibAuthorName>
+   <Year>2008</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Progress towards the Abuja target for government spending on health care in East and Southern Africa</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Harare</PublisherLocation>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Govender V, McIntyre D, Loewenson R: Progress towards the Abuja target for government spending on health care in East and Southern Africa. In EQUINET Discussion Paper Series 57. Harare: EQUINET; 2008.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR17_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>C. M.</Initials>
+     <FamilyName>Adams</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>H.</Initials>
+     <FamilyName>Meijer</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>C.</Initials>
+     <FamilyName>Heidelberg</FamilyName>
+   </BibAuthorName>
+   <Year>1988</Year>
+   <ChapterTitle Language="En">“Security-Related Comments Regarding McEliece’s Public-Key Cryptosystem”</ChapterTitle>
+   <BookTitle>Pomerance), Lecture Notes in Computer Sci. No. 293</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName>Springer-Verlag</PublisherName>
+   <PublisherLocation>New York</PublisherLocation>
+   <FirstPage>224</FirstPage>
+   <LastPage>228</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>C. M. Adams and H. Meijer, “Security-Related Comments Regarding McEliece’s Public-Key Cryptosystem”, pp. 224–228 in Advances in Cryptology—CRYPTO’ 87 (Ed. C. Pomerance), Lecture Notes in Computer Sci. No. 293. Heidelberg and New York: Springer-Verlag, 1988.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR18_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>LT</Initials>
+     <FamilyName>Kohn</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JM</Initials>
+     <FamilyName>Corrigan</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>MS</Initials>
+     <FamilyName>Donaldson</FamilyName>
+   </BibAuthorName>
+   <Year>2000</Year>
+   <ChapterTitle Language="En">To err is human: building a safer health system</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName>National Academy Press</PublisherName>
+   <PublisherLocation>Washington DC</PublisherLocation>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Kohn LT, Corrigan JM, Donaldson MS (eds) (2000) To err is human: building a safer health system. National Academy Press, Washington DC</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR19_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Lilford</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>MA</Initials>
+     <FamilyName>Mohammed</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Spiegelhalter</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Thomson</FamilyName>
+   </BibAuthorName>
+   <Year>2004</Year>
+   <ChapterTitle Language="En">Use and misuse of process and outcome data in managing performance of acute medical care: avoiding institutional stigma</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Lancet 363</PublisherLocation>
+   <FirstPage>1147</FirstPage>
+   <LastPage>1154</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Lilford R, Mohammed MA, Spiegelhalter D, Thomson R (2004) Use and misuse of process and outcome data in managing performance of acute medical care: avoiding institutional stigma. Lancet 363:1147–1154</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR20_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>RJ</Initials>
+     <FamilyName>Blendon</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>CM</Initials>
+     <FamilyName>DesRoches</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Brodie</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>AB</Initials>
+     <FamilyName>Jm</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>EC</Initials>
+     <FamilyName>Benson</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DE</Initials>
+     <FamilyName>Rosen</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>K</Initials>
+     <FamilyName>Schneider</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>NL</Initials>
+     <FamilyName>Altman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>AE</Initials>
+     <FamilyName>Zapert</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>N</Initials>
+     <FamilyName>Herrmann</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Steffenson</FamilyName>
+   </BibAuthorName>
+   <Year>2002</Year>
+   <ChapterTitle Language="En">Views of practicing physicians and the public on medical errors</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Med 347</PublisherLocation>
+   <FirstPage>1933</FirstPage>
+   <LastPage>1939</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Blendon RJ, DesRoches CM, Brodie M, Jm Benson, Rosen AB, Schneider EC, Altman DE, Zapert K, Herrmann NL, Steffenson AE (2002) Views of practicing physicians and the public on medical errors. N Engl J Med 347:1933–1939</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR21_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>DE</Initials>
+     <FamilyName>Altman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>C</Initials>
+     <FamilyName>Clancy</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>RJ</Initials>
+     <FamilyName>Blendon</FamilyName>
+   </BibAuthorName>
+   <Year>2004</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Improving patient safety—five years after the IOM report. N Engl J Med</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>351</PublisherLocation>
+   <FirstPage>2041</FirstPage>
+   <LastPage>2043</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Altman DE, Clancy C, Blendon RJ (2004) Improving patient safety—five years after the IOM report. N Engl J Med 351:2041–2043</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR22_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Donabedian</FamilyName>
+   </BibAuthorName>
+   <Year>1990</Year>
+   <ChapterTitle Language="En">The seven pillars of quality</ChapterTitle>
    <BookTitle></BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
@@ -383,24 +755,136 @@
    <NumberInSeries></NumberInSeries>
    <PublisherName></PublisherName>
    <PublisherLocation></PublisherLocation>
-   <FirstPage>178</FirstPage>
-   <LastPage>187</LastPage>
+   <FirstPage>1115</FirstPage>
+   <LastPage>1118</LastPage>
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Tamir, Y., Liang, M., Lai, T. and Tremblay, M.: 1991, The UCLA Mirror Processor: A Building Block for Self-Checking Self-Repring Computing Nodes., FTCS, pp. 178-187. URL: db/conf/ftcs/ftcs91.html#TamirLLT91</BibUnstructured>
+  <BibUnstructured>Donabedian A (1990) The seven pillars of quality. Arch Pathol Lab Med 114:1115–1118</BibUnstructured>
  </Citation>
 
- <Citation ID="CR14_BibChapter">
+ <Citation ID="CR23_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>
-     <Initials></Initials>
-     <FamilyName></FamilyName>
+     <Initials>B</Initials>
+     <FamilyName>Haynes</FamilyName>
    </BibAuthorName>
-   <Year>2005c</Year>
-   <ChapterTitle Language="En">URL db/reference/crypt/crypt2005.html#Fontaine05i</ChapterTitle>
-   <BookTitle>Caroline Fontaine. Summation generator</BookTitle>
+   <Year>1999</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Can it work? Does it work? Is it worth it? Br Med J</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>319</PublisherLocation>
+   <FirstPage>652</FirstPage>
+   <LastPage>653</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Haynes B (1999) Can it work? Does it work? Is it worth it? Br Med J 319:652–653</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR24_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>KJ</Initials>
+     <FamilyName>Deans</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PC</Initials>
+     <FamilyName>Minneci</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>AF</Initials>
+     <FamilyName>Suffredini</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>RL</Initials>
+     <FamilyName>Danner</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>WD</Initials>
+     <FamilyName>Hoffman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>X</Initials>
+     <FamilyName>Ciu</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>HG</Initials>
+     <FamilyName>Klein</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>AN</Initials>
+     <FamilyName>Schechter</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>SM</Initials>
+     <FamilyName>Banks</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PQ</Initials>
+     <FamilyName>Eichacker</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>C</Initials>
+     <FamilyName>Natanson</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En">Randomization in clinical trials of titrated therapies: unintended consequences of using fixed treatment protocols</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>1509</FirstPage>
+   <LastPage>1516</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Deans KJ, Minneci PC, Suffredini AF, Danner RL, Hoffman WD, Ciu X, Klein HG, Schechter AN, Banks SM, Eichacker PQ, Natanson C (2007) Randomization in clinical trials of titrated therapies: unintended consequences of using fixed treatment protocols. Crit Care Med 35:1509–1516</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR25_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Hopewell</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Clarke</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Moher</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>E</Initials>
+     <FamilyName>Wager</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Middleton</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DG</Initials>
+     <FamilyName>Altman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>KF</Initials>
+     <FamilyName>Schulz</FamilyName>
+   </BibAuthorName>
+   <Year></Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>the CONSORT Group (2008) CONSORT for reporting randomized controlled trials in journal and conference abstracts: explanation and elaboration. PLOS Med 5:e20. doi:                     10.1371/journal.pmed</BookTitle>
    <EditionNumber></EditionNumber>
    <SeriesTitle Language="En"></SeriesTitle>
    <!-- volume ! -->
@@ -412,10 +896,1326 @@
      <URL></URL>
    <Isbn></Isbn>
   </BibChapter>
-  <BibUnstructured>Caroline Fontaine. Summation generator. In Encyclopedia of Cryptography and Security. 2005c. URL db/reference/crypt/crypt2005.html#Fontaine05i.</BibUnstructured>
+  <BibUnstructured>Hopewell S, Clarke M, Moher D, Wager E, Middleton P, Altman DG, Schulz KF, the CONSORT Group (2008) CONSORT for reporting randomized controlled trials in journal and conference abstracts: explanation and elaboration. PLOS Med 5:e20. doi:                     10.1371/journal.pmed.0050020</BibUnstructured>
  </Citation>
 
- <Citation ID="CR15_BibChapter">
+ <Citation ID="CR26_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials></Initials>
+     <FamilyName></FamilyName>
+   </BibAuthorName>
+   <Year></Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>GRADE working group (2004) Grading quality of evidence and strength of recommendations. Br Med J</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>328</PublisherLocation>
+   <FirstPage>1</FirstPage>
+   <LastPage>8</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>GRADE working group (2004) Grading quality of evidence and strength of recommendations. Br Med J 328:1–8</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR27_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>ME</Initials>
+     <FamilyName>Tinetti</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>N</Initials>
+     <FamilyName>Engl</FamilyName>
+   </BibAuthorName>
+   <Year>2008</Year>
+   <ChapterTitle Language="En">Over-the-counter sales of statins and other drugs for asymptomatic conditions</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Med 358</PublisherLocation>
+   <FirstPage>2728</FirstPage>
+   <LastPage>2732</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Tinetti ME (2008) Over-the-counter sales of statins and other drugs for asymptomatic conditions. N Engl J Med 358:2728–2732</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR28_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Armitage</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En">The safety of statins in clinical practice</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Lancet 370</PublisherLocation>
+   <FirstPage>1890</FirstPage>
+   <LastPage>1891</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Armitage J (2007) The safety of statins in clinical practice. Lancet 370:1890–1891</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR29_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Grol</FamilyName>
+   </BibAuthorName>
+   <Year>1997</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Beliefs and evidence in changing clinical practice. Br Med J</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>315</PublisherLocation>
+   <FirstPage>418</FirstPage>
+   <LastPage>421</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Grol R (1997) Beliefs and evidence in changing clinical practice. Br Med J 315:418–421</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR30_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>JS</Initials>
+     <FamilyName>Garrow</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>What to do about CAM: how much of orthodox medicine is evidence based? Br Med J 335:951</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Garrow JS (2007) What to do about CAM: how much of orthodox medicine is evidence based? Br Med J 335:951</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR31_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>JK</Initials>
+     <FamilyName>Aronson</FamilyName>
+   </BibAuthorName>
+   <Year>2003</Year>
+   <ChapterTitle Language="En">Anecdotes as evidence. We need guidelines for reporting anecdotes of suspected adverse drug reactions</ChapterTitle>
+   <BookTitle>Br Med J 326:1346</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Aronson JK (2003) Anecdotes as evidence. We need guidelines for reporting anecdotes of suspected adverse drug reactions. Br Med J 326:1346</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR32_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>MA</Initials>
+     <FamilyName>Kelley</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DC</Initials>
+     <FamilyName>Angus</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DB</Initials>
+     <FamilyName>Chalfin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>ED</Initials>
+     <FamilyName>Crandall</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Ingbar</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>W</Initials>
+     <FamilyName>Johanson</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Medina</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>CN</Initials>
+     <FamilyName>Sessler</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JS</Initials>
+     <FamilyName>Vender</FamilyName>
+   </BibAuthorName>
+   <Year>2004</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>The critical care crisis in the United States: a report from the profession. Crit Care Med</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>32</PublisherLocation>
+   <FirstPage>1219</FirstPage>
+   <LastPage>1222</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Kelley MA, Angus DC, Chalfin DB, Crandall ED, Ingbar D, Johanson W, Medina J, Sessler CN, Vender JS (2004) The critical care crisis in the United States: a report from the profession. Crit Care Med 32:1219–1222</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR33_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>PJ</Initials>
+     <FamilyName>Pronovost</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>MW</Initials>
+     <FamilyName>KJenckes</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>T</Initials>
+     <FamilyName>Dorman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>E</Initials>
+     <FamilyName>Garrett</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>MJ</Initials>
+     <FamilyName>Breslow</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>BA</Initials>
+     <FamilyName>Rosenfeld</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PA</Initials>
+     <FamilyName>Lipsett</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>E</Initials>
+     <FamilyName>Bass</FamilyName>
+   </BibAuthorName>
+   <Year>1999</Year>
+   <ChapterTitle Language="En">Organizational characteristics of intensive care units related to outcomes of abdominal aortic surgery</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>281</PublisherLocation>
+   <FirstPage>1310</FirstPage>
+   <LastPage>1317</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Pronovost PJ, KJenckes MW, Dorman T, Garrett E, Breslow MJ, Rosenfeld BA, Lipsett PA, Bass E (1999) Organizational characteristics of intensive care units related to outcomes of abdominal aortic surgery. JAMA 281:1310–1317</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR34_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Pronovost</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DC</Initials>
+     <FamilyName>Angus</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>T</Initials>
+     <FamilyName>Dorman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>KA</Initials>
+     <FamilyName>Robinson</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>TT</Initials>
+     <FamilyName>Dremsizov</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>TL</Initials>
+     <FamilyName>Young</FamilyName>
+   </BibAuthorName>
+   <Year>2002</Year>
+   <ChapterTitle Language="En">Physician staffing patterns and clinical outcomes in critically ill patients</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>288</PublisherLocation>
+   <FirstPage>2151</FirstPage>
+   <LastPage>2162</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Pronovost P, Angus DC, Dorman T, Robinson KA, Dremsizov TT, Young TL (2002) Physician staffing patterns and clinical outcomes in critically ill patients. A systematic review. JAMA 288:2151–2162</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR35_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>RK</Initials>
+     <FamilyName>Amaravadi</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JB</Initials>
+     <FamilyName>Dimick</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PJ</Initials>
+     <FamilyName>Pronovost</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PA</Initials>
+     <FamilyName>Lipsett</FamilyName>
+   </BibAuthorName>
+   <Year>2000</Year>
+   <ChapterTitle Language="En">ICU nurse-to-patient ratio is associated with complications and resource use after esophagectomy</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>1857</FirstPage>
+   <LastPage>1862</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Amaravadi RK, Dimick JB, Pronovost PJ, Lipsett PA (2000) ICU nurse-to-patient ratio is associated with complications and resource use after esophagectomy. Intensive Care Med 26:1857–1862</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR36_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Valentin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Capuzzo</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>B</Initials>
+     <FamilyName>Guidet</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>RP</Initials>
+     <FamilyName>Moreno</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>L</Initials>
+     <FamilyName>Dolanski</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Bauer</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PG</Initials>
+     <FamilyName>Metnitz</FamilyName>
+   </BibAuthorName>
+   <Year>2006</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Patient safety in intensive care: results from the multinational sentinel events evaluation (SEE) study. Intensive Care Med</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>32</PublisherLocation>
+   <FirstPage>1591</FirstPage>
+   <LastPage>1598</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Valentin A, Capuzzo M, Guidet B, Moreno RP, Dolanski L, Bauer P, Metnitz PG (2006) Patient safety in intensive care: results from the multinational sentinel events evaluation (SEE) study. Intensive Care Med 32:1591–1598</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR37_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Valentin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Capuzzo</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>B</Initials>
+     <FamilyName>Guidet</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Moreno</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>B</Initials>
+     <FamilyName>Metnitz</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Bauer</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Metnitz</FamilyName>
+   </BibAuthorName>
+   <Year>2009</Year>
+   <ChapterTitle Language="En">Errors in the administration of parenteral drugs—an urgent safety issue in intensive care units. Results from a multinational, prospective study</ChapterTitle>
+   <BookTitle>Research group on quality improvement of the European Society of Intensive Care Medicine (ESICM); Sentinel Events Evaluation (SEE) Study Investigators</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Valentin A, Capuzzo M, Guidet B, Moreno R, Metnitz B, Bauer P, Metnitz P, Research group on quality improvement of the European Society of Intensive Care Medicine (ESICM); Sentinel Events Evaluation (SEE) Study Investigators (2009) Errors in the administration of parenteral drugs—an urgent safety issue in intensive care units. Results from a multinational, prospective study. Br Med J 338:b814</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR38_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Kumar</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Roberts</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>KE</Initials>
+     <FamilyName>Wood</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>B</Initials>
+     <FamilyName>Light</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JE</Initials>
+     <FamilyName>Parrillo</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Sharma</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Suppes</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Feinstein</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Zanotti</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>L</Initials>
+     <FamilyName>Taiberg</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Gurka</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Kumar</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Cheang</FamilyName>
+   </BibAuthorName>
+   <Year>2006</Year>
+   <ChapterTitle Language="En">Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>1589</FirstPage>
+   <LastPage>1596</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Kumar A, Roberts D, Wood KE, Light B, Parrillo JE, Sharma S, Suppes R, Feinstein D, Zanotti S, Taiberg L, Gurka D, Kumar A, Cheang M (2006) Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock. Crit Care Med 34:1589–1596</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR39_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Garnacho-Montero</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>C</Initials>
+     <FamilyName>Ortiz-Leyba</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>I</Initials>
+     <FamilyName>Herrera-Melero</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>T</Initials>
+     <FamilyName>Aldabó-Pallá</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Cayuela-Dominguez</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JA</Initials>
+     <FamilyName>Marquez-Vacaro</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Carbajal-Guerrero</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JL</Initials>
+     <FamilyName>Garcia-Garmendia</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Antimicrob</FamilyName>
+   </BibAuthorName>
+   <Year>2008</Year>
+   <ChapterTitle Language="En">Mortality and morbidity attributable to inadequate empirical antimicrobial therapy in patients admitted to the ICU with sepsis: a matched cohort study</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>61</PublisherLocation>
+   <FirstPage>436</FirstPage>
+   <LastPage>441</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Garnacho-Montero J, Ortiz-Leyba C, Herrera-Melero I, Aldabó-Pallá T, Cayuela-Dominguez A, Marquez-Vacaro JA, Carbajal-Guerrero J, Garcia-Garmendia JL (2008) Mortality and morbidity attributable to inadequate empirical antimicrobial therapy in patients admitted to the ICU with sepsis: a matched cohort study. J Antimicrob Chemother 61:436–441</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR40_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Jones</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>K</Initials>
+     <FamilyName>Rowan</FamilyName>
+   </BibAuthorName>
+   <Year>1995</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Is there a relationship between the volume of work carried out in intensive care and its outcome? Int J Technol Assess Health Care</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>11</PublisherLocation>
+   <FirstPage>762</FirstPage>
+   <LastPage>769</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Jones J, Rowan K (1995) Is there a relationship between the volume of work carried out in intensive care and its outcome? Int J Technol Assess Health Care 11:762–769</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR41_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>HS</Initials>
+     <FamilyName>Luft</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JP</Initials>
+     <FamilyName>Bunker</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>AC</Initials>
+     <FamilyName>Enthoven</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En">Should operations be regionalized? The empirical relation between surgical volume and mortality</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>3</FirstPage>
+   <LastPage>9</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Luft HS, Bunker JP, Enthoven AC (2007) Should operations be regionalized? The empirical relation between surgical volume and mortality. 1979. Clin Orthop Relat Res 457:3–9</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR42_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>DC</Initials>
+     <FamilyName>Stockwell</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>AD</Initials>
+     <FamilyName>Slonim</FamilyName>
+   </BibAuthorName>
+   <Year>2006</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Volume-outcome relationships: is it the individual or the team? Crit Care Med</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>34</PublisherLocation>
+   <FirstPage>2495</FirstPage>
+   <LastPage>2497</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Stockwell DC, Slonim AD (2006) Volume-outcome relationships: is it the individual or the team? Crit Care Med 34:2495–2497</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR43_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Hugonnet</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J-C</Initials>
+     <FamilyName>Chevrolet</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Pittet</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En">The effect of workload on infection risk in critically ill patients</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>76</FirstPage>
+   <LastPage>81</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Hugonnet S, Chevrolet J-C, Pittet D (2007) The effect of workload on infection risk in critically ill patients. Crit Care Med 35:76–81</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR44_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Needleman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Buerhaus</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Mattke</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Stewart</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>K</Initials>
+     <FamilyName>Zelevinsky</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>N</Initials>
+     <FamilyName>Engl</FamilyName>
+   </BibAuthorName>
+   <Year>2002</Year>
+   <ChapterTitle Language="En">Nurse-staffing levels and the quality of care in hospital</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Med 346</PublisherLocation>
+   <FirstPage>1715</FirstPage>
+   <LastPage>1722</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Needleman J, Buerhaus P, Mattke S, Stewart M, Zelevinsky K (2002) Nurse-staffing levels and the quality of care in hospital. N Engl J Med 346:1715–1722</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR45_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>DM</Initials>
+     <FamilyName>Vandijck</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>SI</Initials>
+     <FamilyName>Blot</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Kuhlen</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Moreno</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Ranieri</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>A</Initials>
+     <FamilyName>Rhodes</FamilyName>
+   </BibAuthorName>
+   <Year>2008</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Controversies in intensive care medicine. Medizinisch Wissenschaftiche Verlagsgesellschaft, Berlin</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>393</FirstPage>
+   <LastPage>405</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Vandijck DM, Blot SI (2008) High acuity nurse patient ratio—is it cost-effective? In: Kuhlen R, Moreno R, Ranieri M, Rhodes A (eds) Controversies in intensive care medicine. Medizinisch Wissenschaftiche Verlagsgesellschaft, Berlin, pp 393–405</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR46_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Needleman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Buerhaus</FamilyName>
+   </BibAuthorName>
+   <Year>2003</Year>
+   <ChapterTitle Language="En">Nurse staffing and patient safety: current knowledge and implications for action</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>275</FirstPage>
+   <LastPage>277</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Needleman J, Buerhaus P (2003) Nurse staffing and patient safety: current knowledge and implications for action. Int J Qual Health Care 15:275–277</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR47_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>DR</Initials>
+     <FamilyName>Miranda</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DW</Initials>
+     <FamilyName>Ryan</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>WB</Initials>
+     <FamilyName>Schaufeli</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>V</Initials>
+     <FamilyName>Fidler</FamilyName>
+   </BibAuthorName>
+   <Year>1997</Year>
+   <ChapterTitle Language="En">Organization and management of intensive care: a prospective study in 12 European countries</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName>Springer</PublisherName>
+   <PublisherLocation>Berlin</PublisherLocation>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Miranda DR, Ryan DW, Schaufeli WB, Fidler V (eds) (1997) Organization and management of intensive care: a prospective study in 12 European countries. Springer, Berlin</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR48_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>DR</Initials>
+     <FamilyName>Miranda</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Rivera-Fernández</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>RE</Initials>
+     <FamilyName>Nap</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Critical care medicine in the hospital: lessons from the EURICUS-studies</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Med Intensiva 31</PublisherLocation>
+   <FirstPage>194</FirstPage>
+   <LastPage>203</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Miranda DR, Rivera-Fernández R, Nap RE (2007) Critical care medicine in the hospital: lessons from the EURICUS-studies. Med Intensiva 31:194–203</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR49_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Jain</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>L</Initials>
+     <FamilyName>Miller</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Belt</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>King</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DM</Initials>
+     <FamilyName>Berwick</FamilyName>
+   </BibAuthorName>
+   <Year>2006</Year>
+   <ChapterTitle Language="En">Decline in ICU adverse events, nosocomial infections and cost through a quality improvement initiative focusing on teamwork and culture change</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>235</FirstPage>
+   <LastPage>239</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Jain M, Miller L, Belt D, King D, Berwick DM (2006) Decline in ICU adverse events, nosocomial infections and cost through a quality improvement initiative focusing on teamwork and culture change. Qual Saf Health Care 15:235–239</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR50_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>JG</Initials>
+     <FamilyName>Baggs</FamilyName>
+   </BibAuthorName>
+   <Year>1989</Year>
+   <ChapterTitle Language="En">Intensive care unit use and collaboration between nurses and physicians</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>332</FirstPage>
+   <LastPage>338</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Baggs JG (1989) Intensive care unit use and collaboration between nurses and physicians. Heart Lung 18:332–338</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR51_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>JG</Initials>
+     <FamilyName>Baggs</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Nurse–physician collaboration in intensive care units. Crit Care Med</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>35</PublisherLocation>
+   <FirstPage>641</FirstPage>
+   <LastPage>642</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Baggs JG (2007) Nurse–physician collaboration in intensive care units. Crit Care Med 35:641–642</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR52_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>PA</Initials>
+     <FamilyName>Prescott</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>SA</Initials>
+     <FamilyName>Bowen</FamilyName>
+   </BibAuthorName>
+   <Year>1985</Year>
+   <ChapterTitle Language="En">Physician–nurse relationships</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>127</FirstPage>
+   <LastPage>133</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Prescott PA, Bowen SA (1985) Physician–nurse relationships. Ann Intern Med 103:127–133</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR53_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Philpin</FamilyName>
+   </BibAuthorName>
+   <Year>2006</Year>
+   <ChapterTitle Language="En">‘Handing Over’: transmission of information between nurses in an intensive therapy unit</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>86</FirstPage>
+   <LastPage>93</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Philpin S (2006) ‘Handing Over’: transmission of information between nurses in an intensive therapy unit. Nurs Crit Care 2006(11):86–93</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR54_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>Y</Initials>
+     <FamilyName>Donchin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Gopher</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Olin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>Y</Initials>
+     <FamilyName>Badihi</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Biesky</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>CL</Initials>
+     <FamilyName>Sprung</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Pizov</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Cotev</FamilyName>
+   </BibAuthorName>
+   <Year>1995</Year>
+   <ChapterTitle Language="En">A look into the nature and causes of human errors in the intensive care unit</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>294</FirstPage>
+   <LastPage>300</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Donchin Y, Gopher D, Olin M, Badihi Y, Biesky M, Sprung CL, Pizov R, Cotev S (1995) A look into the nature and causes of human errors in the intensive care unit. Crit Care Med 23:294–300</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR55_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>PM</Initials>
+     <FamilyName>Le</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Blanc</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>AE</Initials>
+     <FamilyName>de</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>WE</Initials>
+     <FamilyName>Jonge</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>de</FamilyName>
+   </BibAuthorName>
+   <Year>2001</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Well-being of intensive care nurses (WEBIC): a job analytic approach</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Adv Nurs 36</PublisherLocation>
+   <FirstPage>460</FirstPage>
+   <LastPage>470</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Le Blanc PM, de Jonge J, de Rijk AE, Schaufeli WE (2001) Well-being of intensive care nurses (WEBIC): a job analytic approach. J Adv Nurs 36:460–470</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR56_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>BG</Initials>
+     <FamilyName>Katona</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PR</Initials>
+     <FamilyName>Ayd</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JK</Initials>
+     <FamilyName>Walters</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Caspi</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>BW</Initials>
+     <FamilyName>Finkelstein</FamilyName>
+   </BibAuthorName>
+   <Year>1989</Year>
+   <ChapterTitle Language="En">Effect of a pharmacist’s and a nurse’s interventions on cost of drug therapy in a medical intensive-care unit</ChapterTitle>
+   <BookTitle>Am J Hosp</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>Pharm 46</PublisherLocation>
+   <FirstPage>119</FirstPage>
+   <LastPage>1182</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Katona BG, Ayd PR, Walters JK, Caspi M, Finkelstein BW (1989) Effect of a pharmacist’s and a nurse’s interventions on cost of drug therapy in a medical intensive-care unit. Am J Hosp Pharm 46:119–1182</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR57_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>LL</Initials>
+     <FamilyName>Leape</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DJ</Initials>
+     <FamilyName>Cullen</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>MD</Initials>
+     <FamilyName>Clapp</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>E</Initials>
+     <FamilyName>Burdick</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>HJ</Initials>
+     <FamilyName>Demonaco</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JI</Initials>
+     <FamilyName>Erickson</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>DW</Initials>
+     <FamilyName>Bates</FamilyName>
+   </BibAuthorName>
+   <Year>2000</Year>
+   <ChapterTitle Language="En">Pharmacist participation on physician rounds and adverse drug events in the intensive care unit</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>282</PublisherLocation>
+   <FirstPage>267</FirstPage>
+   <LastPage>270</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Leape LL, Cullen DJ, Clapp MD, Burdick E, Demonaco HJ, Erickson JI, Bates DW (2000) Pharmacist participation on physician rounds and adverse drug events in the intensive care unit. JAMA 282:267–270</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR58_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>SL</Initials>
+     <FamilyName>Kane</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>RJ</Initials>
+     <FamilyName>Weber</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>JF</Initials>
+     <FamilyName>Dasta</FamilyName>
+   </BibAuthorName>
+   <Year>2003</Year>
+   <ChapterTitle Language="En">The impact of critical care pharmacists on enhancing patient outcomes</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>691</FirstPage>
+   <LastPage>698</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Kane SL, Weber RJ, Dasta JF (2003) The impact of critical care pharmacists on enhancing patient outcomes. Intensive Care Med 29:691–698</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR59_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>HU</Initials>
+     <FamilyName>Rothen</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>K</Initials>
+     <FamilyName>Stricker</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Einfalt</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>P</Initials>
+     <FamilyName>Bauer</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>PGH</Initials>
+     <FamilyName>Metnitz</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>RP</Initials>
+     <FamilyName>Moreno</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J</Initials>
+     <FamilyName>Takala</FamilyName>
+   </BibAuthorName>
+   <Year>2007</Year>
+   <ChapterTitle Language="En"></ChapterTitle>
+   <BookTitle>Variability in outcome and resource use in intensive care units. Intensive Care Med</BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation>33</PublisherLocation>
+   <FirstPage>1329</FirstPage>
+   <LastPage>1336</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Rothen HU, Stricker K, Einfalt J, Bauer P, Metnitz PGH, Moreno RP, Takala J (2007) Variability in outcome and resource use in intensive care units. Intensive Care Med 33:1329–1336</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR60_BibChapter">
+ <!-- BibTeX Type: BibChapter -->
+  <BibChapter>
+   <BibAuthorName>
+     <Initials>Y</Initials>
+     <FamilyName>Donchin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D</Initials>
+     <FamilyName>Gopher</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Olin</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>Y</Initials>
+     <FamilyName>Badihi</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M</Initials>
+     <FamilyName>Biesky</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>CL</Initials>
+     <FamilyName>Sprung</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>R</Initials>
+     <FamilyName>Pizov</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>S</Initials>
+     <FamilyName>Cotev</FamilyName>
+   </BibAuthorName>
+   <Year>2003</Year>
+   <ChapterTitle Language="En">A look into the nature and causes of human errors in the intensive care unit</ChapterTitle>
+   <BookTitle></BookTitle>
+   <EditionNumber></EditionNumber>
+   <SeriesTitle Language="En"></SeriesTitle>
+   <!-- volume ! -->
+   <NumberInSeries></NumberInSeries>
+   <PublisherName></PublisherName>
+   <PublisherLocation></PublisherLocation>
+   <FirstPage>143</FirstPage>
+   <LastPage>148</LastPage>
+     <URL></URL>
+   <Isbn></Isbn>
+  </BibChapter>
+  <BibUnstructured>Donchin Y, Gopher D, Olin M, Badihi Y, Biesky M, Sprung CL, Pizov R, Cotev S (2003) A look into the nature and causes of human errors in the intensive care unit. Qual Saf Health Care 12:143–148</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR61_BibChapter">
  <!-- BibTeX Type: BibChapter -->
   <BibChapter>
    <BibAuthorName>

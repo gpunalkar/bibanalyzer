@@ -1,0 +1,4215 @@
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Garnacho
+<FamilyName> -
+<FamilyName> Montero
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Ortiz
+<FamilyName> -
+<FamilyName> Leyba
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> C
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Herrera
+<FamilyName> -
+<FamilyName> Melero
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> I
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Aldabó
+<FamilyName> -
+<FamilyName> Pallá
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> T
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Cayuela
+<FamilyName> -
+<FamilyName> Dominguez
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Marquez
+<FamilyName> -
+<FamilyName> Vacaro
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Carbajal
+<FamilyName> -
+<FamilyName> Guerrero
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Garcia
+<FamilyName> -
+<FamilyName> Garmendia
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JL
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2008
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Mortality
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> morbidity
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> attributable
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> to
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> inadequate
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> empirical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> antimicrobial
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> therapy
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patients
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> admitted
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> to
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <isPunctOrUpper> <inDict> ICU
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> with
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> sepsis
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> matched
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> cohort
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> study
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<FamilyName> Antimicrob
+<&nbsp;> &nbsp;
+<FamilyName> Chemother
+<&nbsp;> &nbsp;
+<PublisherLocation> 61
+<&colon;> :
+<FirstPage> 436
+<&hypen;> –
+<LastPage> 441
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Harenberg
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Kraemer
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&colon;> :
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Measurement
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> new
+<ChapterTitle> &nbsp;
+<ChapterTitle> anticoagulants
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BibComments> <isSpringerPublisherName> Thromb
+<BibComments> &nbsp;
+<BibComments> <inDict> <isSpringerPublisherName> Res
+<BibComments> &nbsp;
+<BibComments> <isYear> 2012
+<BibComments> ,
+<BibComments> 129
+<BibComments> (
+<BibComments> <isSpringerPublisherName> Suppl
+<BibComments> &nbsp;
+<BibComments> 1
+<BibComments> )
+<BibComments> :
+<BibComments> S106
+<BibComments> -
+<BibComments> S113
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Jones
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Rowan
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> K
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1995
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Is
+<BookTitle> &nbsp;
+<BookTitle> <inDict> there
+<BookTitle> &nbsp;
+<BookTitle> a
+<BookTitle> &nbsp;
+<BookTitle> <inDict> relationship
+<BookTitle> &nbsp;
+<BookTitle> <inDict> between
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> volume
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> work
+<BookTitle> &nbsp;
+<BookTitle> <inDict> carried
+<BookTitle> &nbsp;
+<BookTitle> <inDict> out
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> its
+<BookTitle> &nbsp;
+<BookTitle> outcome?
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Int
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<BookTitle> &nbsp;
+<BookTitle> <isSpringerPublisherName> Technol
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Assess
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Health
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<&nbsp;> &nbsp;
+<PublisherLocation> 11
+<&colon;> :
+<FirstPage> 762
+<&hypen;> –
+<LastPage> 769
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Luft
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> HS
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Bunker
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JP
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Enthoven
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AC
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Should
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> operations
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> be
+<ChapterTitle> &nbsp;
+<ChapterTitle> regionalized?
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> empirical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> relation
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> between
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> surgical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> volume
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> mortality
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Year> <isYear> 1979
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <isSpringerPublisherName> Clin
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <isSpringerPublisherName> Orthop
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> Relat
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Res
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 457
+<&colon;> :
+<FirstPage> 3
+<&hypen;> –
+<LastPage> 9
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Hugonnet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Chevrolet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<Initials> -
+<Initials> <isPunctOrUpper> C
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Pittet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> effect
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> workload
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> on
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> infection
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> risk
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> critically
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> ill
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patients
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Crit
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 35
+<&colon;> :
+<FirstPage> 76
+<&hypen;> –
+<LastPage> 81
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Donchin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Gopher
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Olin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Badihi
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Biesky
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Sprung
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> CL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Pizov
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Cotev
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2003
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <isPunctOrUpper> A
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> look
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> into
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> nature
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> causes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> human
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> errors
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unit
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Qual
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> Saf
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Health
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 12
+<&colon;> :
+<FirstPage> 143
+<&hypen;> –
+<LastPage> 148
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Tikhonov
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> N
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<&amp;> &
+<&nbsp;> &nbsp;
+<FamilyName> Arsenin
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> V
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1977
+<&brackr> )
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Solutions
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> ill
+<ChapterTitle> -
+<ChapterTitle> <inDict> posed
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> problems
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> New
+<PublisherLocation> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> York
+<&colon;> :
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Wiley
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Vapnik
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> V
+<&colon;> :
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Statistical
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Learning
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Theory
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Wiley
+<&comma;> , <isSpringerPublisherName>
+<&nbsp;> &nbsp; <isSpringerPublisherName>
+<PublisherLocation> <inDict> <isSpringerPublisherName> New
+<PublisherLocation> &nbsp; <isSpringerPublisherName>
+<PublisherLocation> <inDict> <isSpringerPublisherName> York
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> NY;
+<&nbsp;> &nbsp;
+<Year> <isYear> 1998
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Crank
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&colon;> :
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> Mathematics
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Diffusion
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> New
+<PublisherLocation> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> York
+<&colon;> :
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Oxford
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> University
+<PublisherName> &nbsp;
+<PublisherName> Press;
+<&nbsp;> &nbsp;
+<Year> <isYear> 1956
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Alloway
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> B
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1999
+<&brackr> )
+<&colon;> :
+<&nbsp;> &nbsp;
+<FamilyName> Schwermetalle
+<&nbsp;> &nbsp;
+<dummy> <inDict> in
+<&nbsp;> &nbsp;
+<PublisherLocation> Böden
+<&colon;> :
+<&nbsp;> &nbsp;
+<FamilyName> Analytik
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Konzentrationen
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FirstPage> Wechselwirkungen
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Springer
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<dummy> <inDict> Berlin
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <isSpringerPublisherName> Heidelberg
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Lauritzen
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1996
+<&brackr> )
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Graphical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> models
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> London
+<&colon;> :
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Oxford
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> University
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Press
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Gilmore
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1990
+<&brackr> )
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> Manhood
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> making
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Cultural
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> concepts
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> masculinity
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> New
+<PublisherLocation> &nbsp; <isSpringerPublisherName>
+<PublisherLocation> <inDict> <isSpringerPublisherName> Haven
+<PublisherLocation> ,
+<PublisherLocation> &nbsp;
+<PublisherLocation> <isPunctOrUpper> <inDict> <isSpringerPublisherName> CT
+<&colon;> : <isSpringerPublisherName>
+<&nbsp;> &nbsp; <isSpringerPublisherName>
+<PublisherName> <isSpringerPublisherName> Yale
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> University
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Press
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Robertson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DG
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Reily
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> MD
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Cantor
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> GH
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> John
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> CL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Jeremy
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> KN
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Elaine
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> H
+<&colon;> :
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Metabonomics
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> preclinical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> pharmaceutical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> discovery
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> development
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> The
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Handbook
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Metabonomics
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Metabolomics
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Amsterdam
+<&colon;> :
+<&nbsp;> &nbsp;
+<PublisherName> <isSpringerPublisherName> Elsevier
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Science
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> B
+<Initials> <isPunctOrUpper> .
+<&comma;> V;
+<&nbsp;> &nbsp;
+<Year> <isYear> 2007
+<&colon;> :
+<FirstPage> 241
+<&hypen;> –
+<LastPage> 277
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Cowan
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> N
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1999
+<&brackr> )
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> An
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> embedded
+<ChapterTitle> -
+<ChapterTitle> <inDict> processes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> model
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> working
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> memory
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> Miyake
+<&nbsp;> &nbsp;
+<&amp;> &
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Shah
+<&nbsp;> &nbsp;
+<&brackl> (
+<dummy> <inDict> Eds <isSpringerPublisherName>
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&brackr> )
+<&comma;> ,
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Models
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> working
+<BookTitle> &nbsp;
+<BookTitle> <inDict> memory
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Mechanisms
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> active
+<BookTitle> &nbsp;
+<BookTitle> <inDict> maintenance
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> executive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> control
+<&nbsp;> &nbsp;
+<&brackl> (
+<dummy> <inDict> pp
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FirstPage> 62
+<&hypen;> –
+<LastPage> 101
+<&brackr> )
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Cambridge
+<&colon;> :
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Cambridge
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> University
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Press
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Montgomery
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DC
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1997
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Response
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> surface
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> methods
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> other
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> approaches
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> to
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> process
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> optimization
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&colon;> :
+<&nbsp;> &nbsp;
+<FamilyName> Montogmery
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DC
+<&nbsp;> &nbsp;
+<&brackl> (
+<dummy> <inDict> ed
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Design
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> analysis
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> experiments
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Wiley
+<&comma;> , <isSpringerPublisherName>
+<&nbsp;> &nbsp; <isSpringerPublisherName>
+<PublisherLocation> <inDict> <isSpringerPublisherName> New
+<PublisherLocation> &nbsp; <isSpringerPublisherName>
+<PublisherLocation> <inDict> <isSpringerPublisherName> York
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&nbsp;> &nbsp;
+<FirstPage> 427
+<&hypen;> –
+<LastPage> 510
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Bar
+<FamilyName> -
+<FamilyName> Ilan
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Beaver
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<&colon;> :
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Non
+<ChapterTitle> -
+<ChapterTitle> <inDict> cryptographic
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> fault
+<ChapterTitle> -
+<ChapterTitle> <inDict> tolerant
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> computing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> constant
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> number
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> rounds
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> interaction
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&colon;> :
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Proc
+<BookTitle> <isPunctOrUpper> . <isSpringerPublisherName>
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> <isSpringerPublisherName> ACM
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Symposium
+<BookTitle> &nbsp;
+<BookTitle> <inDict> on
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Principles
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Distributed
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Computing
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FirstPage> 201
+<&hypen;> –
+<LastPage> 209
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <isPunctOrUpper> <inDict> <isSpringerPublisherName> ACM
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Press
+<&comma;> ,
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> New
+<PublisherLocation> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> York
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1989
+<&brackr> )
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Govender
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> V
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> McIntyre
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Loewenson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&colon;> :
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Progress
+<BookTitle> &nbsp;
+<BookTitle> <inDict> towards
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> Abuja
+<BookTitle> &nbsp;
+<BookTitle> <inDict> target
+<BookTitle> &nbsp;
+<BookTitle> <inDict> for
+<BookTitle> &nbsp;
+<BookTitle> <inDict> government
+<BookTitle> &nbsp;
+<BookTitle> <inDict> spending
+<BookTitle> &nbsp;
+<BookTitle> <inDict> on
+<BookTitle> &nbsp;
+<BookTitle> <inDict> health
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> East
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Southern
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Africa
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&nbsp;> &nbsp;
+<BookTitle> <isPunctOrUpper> EQUINET
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Discussion
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> <isSpringerPublisherName> Paper
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Series
+<BookTitle> &nbsp;
+<BookTitle> 57
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <isSpringerPublisherName> Harare
+<&colon;> :
+<&nbsp;> &nbsp;
+<FamilyName> EQUINET;
+<&nbsp;> &nbsp;
+<Year> <isYear> 2008
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> C
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> M
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Adams
+<&nbsp;> &nbsp;
+<dummy> <inDict> and
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> H
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> Meijer
+<&comma;> ,
+<&nbsp;> &nbsp;
+<ChapterTitle> “
+<ChapterTitle> <inDict> Security
+<ChapterTitle> -
+<ChapterTitle> <inDict> Related
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Comments
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Regarding
+<ChapterTitle> &nbsp;
+<ChapterTitle> McEliece’s
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Public
+<ChapterTitle> -
+<ChapterTitle> <inDict> Key
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Cryptosystem
+<ChapterTitle> ”
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FirstPage> 224
+<&hypen;> –
+<LastPage> 228
+<&nbsp;> &nbsp;
+<dummy> <inDict> in
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Advances
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> Cryptology—CRYPTO’
+<BookTitle> &nbsp;
+<BookTitle> 87
+<&nbsp;> &nbsp;
+<&brackl> (
+<dummy> <inDict> <isSpringerPublisherName> Ed
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> C
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> Pomerance
+<BookTitle> )
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Lecture
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> <isSpringerPublisherName> Notes
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Computer
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Sci
+<BookTitle> <isPunctOrUpper> . <isSpringerPublisherName>
+<BookTitle> &nbsp;
+<BookTitle> <inDict> No
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> 293
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Heidelberg
+<&nbsp;> &nbsp;
+<dummy> <inDict> and
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> New
+<PublisherLocation> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> York
+<&colon;> :
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Springer
+<PublisherName> - <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Verlag
+<&comma;> , <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<Year> <isYear> 1988
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Kohn
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> LT
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Corrigan
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JM
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Donaldson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> MS
+<&nbsp;> &nbsp;
+<&brackl> (
+<dummy> <inDict> eds
+<&brackr> )
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2000
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> To
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> err
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> is
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> human
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> building
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> safer
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> health
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> system
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> National
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Academy
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Press
+<&comma;> ,
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Washington
+<PublisherLocation> &nbsp; <isSpringerPublisherName>
+<PublisherLocation> <isPunctOrUpper> <inDict> <isSpringerPublisherName> DC
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Lilford
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Mohammed
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> MA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Spiegelhalter
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Thomson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2004
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Use
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> misuse
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> process
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> outcome
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> data
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> managing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> performance
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> acute
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> medical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> avoiding
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> institutional
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> stigma
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <isSpringerPublisherName> Lancet
+<PublisherLocation> &nbsp;
+<PublisherLocation> 363
+<&colon;> :
+<FirstPage> 1147
+<&hypen;> –
+<LastPage> 1154
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Blendon
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> RJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> DesRoches
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> CM
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Brodie
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Jm
+<&nbsp;> &nbsp;
+<FamilyName> Benson
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Rosen
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AB
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Schneider
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> EC
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Altman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DE
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Zapert
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> K
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Herrmann
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> NL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Steffenson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AE
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2002
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Views
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> practicing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> physicians
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> public
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> on
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> medical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> errors
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> N
+<&nbsp;> &nbsp;
+<FamilyName> Engl
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Med
+<PublisherLocation> &nbsp;
+<PublisherLocation> 347
+<&colon;> :
+<FirstPage> <isYear> 1933
+<&hypen;> –
+<LastPage> <isYear> 1939
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Altman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DE
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Clancy
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> C
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Blendon
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> RJ
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2004
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Improving
+<BookTitle> &nbsp;
+<BookTitle> <inDict> patient
+<BookTitle> &nbsp;
+<BookTitle> safety—five
+<BookTitle> &nbsp;
+<BookTitle> <inDict> years
+<BookTitle> &nbsp;
+<BookTitle> <inDict> after
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <isSpringerPublisherName> IOM
+<BookTitle> &nbsp;
+<BookTitle> <inDict> report
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> N
+<BookTitle> &nbsp;
+<BookTitle> Engl
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<&nbsp;> &nbsp;
+<PublisherLocation> 351
+<&colon;> :
+<FirstPage> <isYear> 2041
+<&hypen;> –
+<LastPage> <isYear> 2043
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Donabedian
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1990
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> seven
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> pillars
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> quality
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Arch
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <isSpringerPublisherName> Pathol
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Lab
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 114
+<&colon;> :
+<FirstPage> 1115
+<&hypen;> –
+<LastPage> 1118
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Haynes
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> B
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1999
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Can
+<BookTitle> &nbsp;
+<BookTitle> <inDict> it
+<BookTitle> &nbsp;
+<BookTitle> work?
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Does
+<BookTitle> &nbsp;
+<BookTitle> <inDict> it
+<BookTitle> &nbsp;
+<BookTitle> work?
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Is
+<BookTitle> &nbsp;
+<BookTitle> <inDict> it
+<BookTitle> &nbsp;
+<BookTitle> <inDict> worth
+<BookTitle> &nbsp;
+<BookTitle> it?
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Br
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<PublisherLocation> 319
+<&colon;> :
+<FirstPage> 652
+<&hypen;> –
+<LastPage> 653
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Deans
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> KJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Minneci
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PC
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Suffredini
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AF
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Danner
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> RL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Hoffman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> WD
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Ciu
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> X
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Klein
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> HG
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Schechter
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AN
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Banks
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> SM
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Eichacker
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PQ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Natanson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> C
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Randomization
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> clinical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> trials
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> titrated
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> therapies
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unintended
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> consequences
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> using
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> fixed
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> treatment
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> protocols
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Crit
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 35
+<&colon;> :
+<FirstPage> 1509
+<&hypen;> –
+<LastPage> 1516
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Hopewell
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Clarke
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Moher
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Wager
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> E
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Middleton
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Altman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DG
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Schulz
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> KF
+<&comma;> ,
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> CONSORT
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Group
+<BookTitle> &nbsp;
+<BookTitle> (
+<BookTitle> <isYear> 2008
+<BookTitle> )
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> CONSORT
+<BookTitle> &nbsp;
+<BookTitle> <inDict> for
+<BookTitle> &nbsp;
+<BookTitle> <inDict> reporting
+<BookTitle> &nbsp;
+<BookTitle> <inDict> randomized
+<BookTitle> &nbsp;
+<BookTitle> <inDict> controlled
+<BookTitle> &nbsp;
+<BookTitle> <inDict> trials
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> journal
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> conference
+<BookTitle> &nbsp;
+<BookTitle> <inDict> abstracts
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> <inDict> explanation
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> elaboration
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> PLOS
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<BookTitle> &nbsp;
+<BookTitle> 5
+<BookTitle> :
+<BookTitle> e20
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> doi
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> &nbsp;
+<BookTitle> 10
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> 1371
+<BookTitle> /
+<BookTitle> <inDict> journal
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> pmed
+<&period;> <isPunctOrUpper> .
+<&comma;> 0050020
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> GRADE
+<BookTitle> &nbsp;
+<BookTitle> <inDict> working
+<BookTitle> &nbsp;
+<BookTitle> <inDict> group
+<BookTitle> &nbsp;
+<BookTitle> (
+<BookTitle> <isYear> 2004
+<BookTitle> )
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Grading
+<BookTitle> &nbsp;
+<BookTitle> <inDict> quality
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> evidence
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> strength
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> recommendations
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Br
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<PublisherLocation> 328
+<&colon;> :
+<FirstPage> 1
+<&hypen;> –
+<LastPage> 8
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Tinetti
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> ME
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2008
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Over
+<ChapterTitle> -
+<ChapterTitle> <inDict> the
+<ChapterTitle> -
+<ChapterTitle> <inDict> counter
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> sales
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> statins
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> other
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> drugs
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> for
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> asymptomatic
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> conditions
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> N
+<&nbsp;> &nbsp;
+<FamilyName> Engl
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Med
+<PublisherLocation> &nbsp;
+<PublisherLocation> 358
+<&colon;> :
+<FirstPage> 2728
+<&hypen;> –
+<LastPage> 2732
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Armitage
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> safety
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> statins
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> clinical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> practice
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <isSpringerPublisherName> Lancet
+<PublisherLocation> &nbsp;
+<PublisherLocation> 370
+<&colon;> :
+<FirstPage> 1890
+<&hypen;> –
+<LastPage> 1891
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Grol
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1997
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Beliefs
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> evidence
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> changing
+<BookTitle> &nbsp;
+<BookTitle> <inDict> clinical
+<BookTitle> &nbsp;
+<BookTitle> <inDict> practice
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Br
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<PublisherLocation> 315
+<&colon;> :
+<FirstPage> 418
+<&hypen;> –
+<LastPage> 421
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Garrow
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JS
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> What
+<BookTitle> &nbsp;
+<BookTitle> <inDict> to
+<BookTitle> &nbsp;
+<BookTitle> <inDict> do
+<BookTitle> &nbsp;
+<BookTitle> <inDict> about
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> CAM
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> <inDict> how
+<BookTitle> &nbsp;
+<BookTitle> <inDict> much
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> orthodox
+<BookTitle> &nbsp;
+<BookTitle> <inDict> medicine
+<BookTitle> &nbsp;
+<BookTitle> <inDict> is
+<BookTitle> &nbsp;
+<BookTitle> <inDict> evidence
+<BookTitle> &nbsp;
+<BookTitle> based?
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Br
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<BookTitle> &nbsp;
+<BookTitle> 335
+<BookTitle> :
+<BookTitle> 951
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Aronson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JK
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2003
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> Anecdotes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> as
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> evidence
+<ChapterTitle> <isPunctOrUpper> .
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> We
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> need
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> guidelines
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> for
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> reporting
+<ChapterTitle> &nbsp;
+<ChapterTitle> anecdotes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> suspected
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> adverse
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> drug
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> reactions
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Br
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<BookTitle> &nbsp;
+<BookTitle> 326
+<BookTitle> :
+<BookTitle> 1346
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Kelley
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> MA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Angus
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DC
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Chalfin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DB
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Crandall
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> ED
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Ingbar
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Johanson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> W
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Medina
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Sessler
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> CN
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Vender
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JS
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2004
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> The
+<BookTitle> &nbsp;
+<BookTitle> <inDict> critical
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> crisis
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> United
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> <isSpringerPublisherName> States
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> a
+<BookTitle> &nbsp;
+<BookTitle> <inDict> report
+<BookTitle> &nbsp;
+<BookTitle> <inDict> from
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> profession
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Crit
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<&nbsp;> &nbsp;
+<PublisherLocation> 32
+<&colon;> :
+<FirstPage> 1219
+<&hypen;> –
+<LastPage> 1222
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Pronovost
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> PJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> KJenckes
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> MW
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Dorman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> T
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Garrett
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> E
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Breslow
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> MJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Rosenfeld
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> BA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Lipsett
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Bass
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> E
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1999
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Organizational
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> characteristics
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> units
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> related
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> to
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> outcomes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> abdominal
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> aortic
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> surgery
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JAMA
+<&nbsp;> &nbsp;
+<PublisherLocation> 281
+<&colon;> :
+<FirstPage> 1310
+<&hypen;> –
+<LastPage> 1317
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Pronovost
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Angus
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DC
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Dorman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> T
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Robinson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> KA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Dremsizov
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> TT
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Young
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> TL
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2002
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Physician
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> staffing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patterns
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> clinical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> outcomes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> critically
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> ill
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patients
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <isPunctOrUpper> A
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> systematic
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> review
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JAMA
+<&nbsp;> &nbsp;
+<PublisherLocation> 288
+<&colon;> :
+<FirstPage> 2151
+<&hypen;> –
+<LastPage> 2162
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Amaravadi
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> RK
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Dimick
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JB
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Pronovost
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> PJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Lipsett
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PA
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2000
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <isPunctOrUpper> <inDict> ICU
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> nurse
+<ChapterTitle> -
+<ChapterTitle> <inDict> to
+<ChapterTitle> -
+<ChapterTitle> <inDict> patient
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> ratio
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> is
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> associated
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> with
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> complications
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> resource
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> use
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> after
+<ChapterTitle> &nbsp;
+<ChapterTitle> esophagectomy
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Intensive
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 26
+<&colon;> :
+<FirstPage> 1857
+<&hypen;> –
+<LastPage> 1862
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Valentin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Capuzzo
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Guidet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> B
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Moreno
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> RP
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Dolanski
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> L
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Bauer
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Metnitz
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PG
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2006
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Patient
+<BookTitle> &nbsp;
+<BookTitle> <inDict> safety
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> <inDict> results
+<BookTitle> &nbsp;
+<BookTitle> <inDict> from
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> multinational
+<BookTitle> &nbsp;
+<BookTitle> <inDict> sentinel
+<BookTitle> &nbsp;
+<BookTitle> <inDict> events
+<BookTitle> &nbsp;
+<BookTitle> <inDict> evaluation
+<BookTitle> &nbsp;
+<BookTitle> (
+<BookTitle> <isPunctOrUpper> <inDict> SEE
+<BookTitle> )
+<BookTitle> &nbsp;
+<BookTitle> <inDict> study
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<&nbsp;> &nbsp;
+<PublisherLocation> 32
+<&colon;> :
+<FirstPage> 1591
+<&hypen;> –
+<LastPage> 1598
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Valentin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Capuzzo
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Guidet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> B
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Moreno
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Metnitz
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> B
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Bauer
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Metnitz
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&comma;> ,
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Research
+<BookTitle> &nbsp;
+<BookTitle> <inDict> group
+<BookTitle> &nbsp;
+<BookTitle> <inDict> on
+<BookTitle> &nbsp;
+<BookTitle> <inDict> quality
+<BookTitle> &nbsp;
+<BookTitle> <inDict> improvement
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> European
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Society
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Medicine
+<BookTitle> &nbsp;
+<BookTitle> (
+<BookTitle> <isPunctOrUpper> ESICM
+<BookTitle> )
+<BookTitle> ;
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Sentinel
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Events
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Evaluation
+<BookTitle> &nbsp;
+<BookTitle> (
+<BookTitle> <isPunctOrUpper> <inDict> SEE
+<BookTitle> )
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Study
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Investigators
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> 2009 <isYear>
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Errors
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> administration
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> parenteral
+<ChapterTitle> &nbsp;
+<ChapterTitle> drugs—an
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> urgent
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> safety
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> issue
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> units
+<ChapterTitle> <isPunctOrUpper> .
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Results
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> from
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> multinational
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> prospective
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> study
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Br
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<BookTitle> &nbsp;
+<BookTitle> 338
+<BookTitle> :
+<BookTitle> b814
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Kumar
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Roberts
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Wood
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> KE
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Light
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> B
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Parrillo
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JE
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Sharma
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Suppes
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Feinstein
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Zanotti
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Taiberg
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> L
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Gurka
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Kumar
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Cheang
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2006
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Duration
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> hypotension
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> before
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> initiation
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> effective
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> antimicrobial
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> therapy
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> is
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> critical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> determinant
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> survival
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> human
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> septic
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> shock
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Crit
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 34
+<&colon;> :
+<FirstPage> 1589
+<&hypen;> –
+<LastPage> 1596
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Garnacho
+<FamilyName> -
+<FamilyName> Montero
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Ortiz
+<FamilyName> -
+<FamilyName> Leyba
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> C
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Herrera
+<FamilyName> -
+<FamilyName> Melero
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> I
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Aldabó
+<FamilyName> -
+<FamilyName> Pallá
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> T
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Cayuela
+<FamilyName> -
+<FamilyName> Dominguez
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Marquez
+<FamilyName> -
+<FamilyName> Vacaro
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Carbajal
+<FamilyName> -
+<FamilyName> Guerrero
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Garcia
+<FamilyName> -
+<FamilyName> Garmendia
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JL
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2008
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Mortality
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> morbidity
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> attributable
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> to
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> inadequate
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> empirical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> antimicrobial
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> therapy
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patients
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> admitted
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> to
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <isPunctOrUpper> <inDict> ICU
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> with
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> sepsis
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> matched
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> cohort
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> study
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<FamilyName> Antimicrob
+<&nbsp;> &nbsp;
+<FamilyName> Chemother
+<&nbsp;> &nbsp;
+<PublisherLocation> 61
+<&colon;> :
+<FirstPage> 436
+<&hypen;> –
+<LastPage> 441
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Jones
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Rowan
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> K
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1995
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Is
+<BookTitle> &nbsp;
+<BookTitle> <inDict> there
+<BookTitle> &nbsp;
+<BookTitle> a
+<BookTitle> &nbsp;
+<BookTitle> <inDict> relationship
+<BookTitle> &nbsp;
+<BookTitle> <inDict> between
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> volume
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> work
+<BookTitle> &nbsp;
+<BookTitle> <inDict> carried
+<BookTitle> &nbsp;
+<BookTitle> <inDict> out
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> its
+<BookTitle> &nbsp;
+<BookTitle> outcome?
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Int
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<BookTitle> &nbsp;
+<BookTitle> <isSpringerPublisherName> Technol
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Assess
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Health
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<&nbsp;> &nbsp;
+<PublisherLocation> 11
+<&colon;> :
+<FirstPage> 762
+<&hypen;> –
+<LastPage> 769
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Luft
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> HS
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Bunker
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JP
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Enthoven
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AC
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Should
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> operations
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> be
+<ChapterTitle> &nbsp;
+<ChapterTitle> regionalized?
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> empirical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> relation
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> between
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> surgical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> volume
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> mortality
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Year> <isYear> 1979
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <isSpringerPublisherName> Clin
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <isSpringerPublisherName> Orthop
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> Relat
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Res
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 457
+<&colon;> :
+<FirstPage> 3
+<&hypen;> –
+<LastPage> 9
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Stockwell
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DC
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Slonim
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AD
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2006
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Volume
+<BookTitle> -
+<BookTitle> <inDict> outcome
+<BookTitle> &nbsp;
+<BookTitle> <inDict> relationships
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> <inDict> is
+<BookTitle> &nbsp;
+<BookTitle> <inDict> it
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> individual
+<BookTitle> &nbsp;
+<BookTitle> <inDict> or
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> team?
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Crit
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<&nbsp;> &nbsp;
+<PublisherLocation> 34
+<&colon;> :
+<FirstPage> 2495
+<&hypen;> –
+<LastPage> 2497
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Hugonnet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Chevrolet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<Initials> -
+<Initials> <isPunctOrUpper> C
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Pittet
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> effect
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> workload
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> on
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> infection
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> risk
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> critically
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> ill
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patients
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Crit
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 35
+<&colon;> :
+<FirstPage> 76
+<&hypen;> –
+<LastPage> 81
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Needleman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Buerhaus
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Mattke
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Stewart
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Zelevinsky
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> K
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2002
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Nurse
+<ChapterTitle> -
+<ChapterTitle> <inDict> staffing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> levels
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> quality
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> hospital
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> N
+<&nbsp;> &nbsp;
+<FamilyName> Engl
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Med
+<PublisherLocation> &nbsp;
+<PublisherLocation> 346
+<&colon;> :
+<FirstPage> 1715
+<&hypen;> –
+<LastPage> 1722
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Vandijck
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DM
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Blot
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> SI
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2008
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> High
+<BookTitle> &nbsp;
+<BookTitle> <inDict> acuity
+<BookTitle> &nbsp;
+<BookTitle> <inDict> nurse
+<BookTitle> &nbsp;
+<BookTitle> <inDict> patient
+<BookTitle> &nbsp;
+<BookTitle> ratio—is
+<BookTitle> &nbsp;
+<BookTitle> <inDict> it
+<BookTitle> &nbsp;
+<BookTitle> <inDict> cost
+<BookTitle> -
+<BookTitle> effective?
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&colon;> :
+<&nbsp;> &nbsp;
+<FamilyName> Kuhlen
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Moreno
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Ranieri
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Rhodes
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<&nbsp;> &nbsp;
+<&brackl> (
+<dummy> <inDict> eds
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Controversies
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> medicine
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Medizinisch
+<BookTitle> &nbsp;
+<BookTitle> Wissenschaftiche
+<BookTitle> &nbsp;
+<BookTitle> <isSpringerPublisherName> Verlagsgesellschaft
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Berlin
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&nbsp;> &nbsp;
+<FirstPage> 393
+<&hypen;> –
+<LastPage> 405
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Needleman
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Buerhaus
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2003
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Nurse
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> staffing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patient
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> safety
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> current
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> knowledge
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> implications
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> for
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> action
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Int
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <isPunctOrUpper> J
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Qual
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Health
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 15
+<&colon;> :
+<FirstPage> 275
+<&hypen;> –
+<LastPage> 277
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Miranda
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DR
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Ryan
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> DW
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Schaufeli
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> WB
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Fidler
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> V
+<&nbsp;> &nbsp;
+<&brackl> (
+<dummy> <inDict> eds
+<&brackr> )
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1997
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Organization
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> management
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> prospective
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> study
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> 12
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> European
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> countries
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Springer
+<&comma;> , <isSpringerPublisherName>
+<&nbsp;> &nbsp; <isSpringerPublisherName>
+<PublisherLocation> <inDict> <isSpringerPublisherName> Berlin
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Miranda
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DR
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Rivera
+<FamilyName> -
+<FamilyName> Fernández
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Nap
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> RE
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Critical
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> medicine
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <inDict> hospital
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> <inDict> lessons
+<BookTitle> &nbsp;
+<BookTitle> <inDict> from
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> EURICUS
+<BookTitle> -
+<BookTitle> <inDict> studies
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Med
+<PublisherLocation> &nbsp;
+<PublisherLocation> Intensiva
+<PublisherLocation> &nbsp;
+<PublisherLocation> 31
+<&colon;> :
+<FirstPage> 194
+<&hypen;> –
+<LastPage> 203
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Jain
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Miller
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> L
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Belt
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> King
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Berwick
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DM
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2006
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Decline
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <isPunctOrUpper> <inDict> ICU
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> adverse
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> events
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> nosocomial
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> infections
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> cost
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> through
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> quality
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> improvement
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> initiative
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> focusing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> on
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> teamwork
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> culture
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> change
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Qual
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> Saf
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Health
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 15
+<&colon;> :
+<FirstPage> 235
+<&hypen;> –
+<LastPage> 239
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Baggs
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JG
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1989
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unit
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> use
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> collaboration
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> between
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> nurses
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> physicians
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Heart
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Lung
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 18
+<&colon;> :
+<FirstPage> 332
+<&hypen;> –
+<LastPage> 338
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Baggs
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JG
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Nurse
+<BookTitle> –
+<BookTitle> <inDict> physician
+<BookTitle> &nbsp;
+<BookTitle> <inDict> collaboration
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> units
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Crit
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<&nbsp;> &nbsp;
+<PublisherLocation> 35
+<&colon;> :
+<FirstPage> 641
+<&hypen;> –
+<LastPage> 642
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Prescott
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PA
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Bowen
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> SA
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1985
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Physician
+<ChapterTitle> –
+<ChapterTitle> <inDict> nurse
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> relationships
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Ann
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Intern
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 103
+<&colon;> :
+<FirstPage> 127
+<&hypen;> –
+<LastPage> 133
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Philpin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2006
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> ‘Handing
+<ChapterTitle> &nbsp;
+<ChapterTitle> Over’
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> transmission
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> information
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> between
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> nurses
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> an
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> therapy
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unit
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> Nurs
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Crit
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <isYear> 2006
+<InstitutionalAuthorName> (
+<InstitutionalAuthorName> 11
+<InstitutionalAuthorName> )
+<&colon;> :
+<FirstPage> 86
+<&hypen;> –
+<LastPage> 93
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Donchin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Gopher
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Olin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Badihi
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Biesky
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Sprung
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> CL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Pizov
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Cotev
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1995
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <isPunctOrUpper> A
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> look
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> into
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> nature
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> causes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> human
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> errors
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unit
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Crit
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 23
+<&colon;> :
+<FirstPage> 294
+<&hypen;> –
+<LastPage> 300
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Le
+<&nbsp;> &nbsp;
+<FamilyName> Blanc
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PM
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> de
+<&nbsp;> &nbsp;
+<FamilyName> Jonge
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> de
+<&nbsp;> &nbsp;
+<FamilyName> Rijk
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> AE
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Schaufeli
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> WE
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2001
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Well
+<BookTitle> -
+<BookTitle> <inDict> being
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> nurses
+<BookTitle> &nbsp;
+<BookTitle> (
+<BookTitle> <isPunctOrUpper> WEBIC
+<BookTitle> )
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> a
+<BookTitle> &nbsp;
+<BookTitle> <inDict> job
+<BookTitle> &nbsp;
+<BookTitle> <inDict> analytic
+<BookTitle> &nbsp;
+<BookTitle> <inDict> approach
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Adv
+<PublisherLocation> &nbsp;
+<PublisherLocation> Nurs
+<PublisherLocation> &nbsp;
+<PublisherLocation> 36
+<&colon;> :
+<FirstPage> 460
+<&hypen;> –
+<LastPage> 470
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Katona
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> BG
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Ayd
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> PR
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Walters
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> JK
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Caspi
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Finkelstein
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> BW
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 1989
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Effect
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> pharmacist’s
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> nurse’s
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> interventions
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> on
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> cost
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> drug
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> therapy
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> a
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> medical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> -
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unit
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Am
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> J
+<BookTitle> &nbsp;
+<BookTitle> <isSpringerPublisherName> Hosp
+<&nbsp;> &nbsp;
+<PublisherLocation> <isSpringerPublisherName> Pharm
+<PublisherLocation> &nbsp;
+<PublisherLocation> 46
+<&colon;> :
+<FirstPage> 119
+<&hypen;> –
+<LastPage> 1182
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Leape
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> LL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Cullen
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> DJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Clapp
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> MD
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Burdick
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> E
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Demonaco
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> HJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Erickson
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JI
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Bates
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> DW
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2000
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Pharmacist
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> participation
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> on
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> physician
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> rounds
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> adverse
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> drug
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> events
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unit
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JAMA
+<&nbsp;> &nbsp;
+<PublisherLocation> 282
+<&colon;> :
+<FirstPage> 267
+<&hypen;> –
+<LastPage> 270
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Kane
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> SL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Weber
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> RJ
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Dasta
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> JF
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2003
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> impact
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> critical
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> pharmacists
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> on
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> enhancing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> patient
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> outcomes
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Intensive
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Med
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 29
+<&colon;> :
+<FirstPage> 691
+<&hypen;> –
+<LastPage> 698
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Rothen
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> HU
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Stricker
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> K
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Einfalt
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Bauer
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> P
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Metnitz
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> PGH
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Moreno
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> RP
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Takala
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2007
+<&brackr> )
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Variability
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> outcome
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> resource
+<BookTitle> &nbsp;
+<BookTitle> <inDict> use
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> units
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Intensive
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Care
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Med
+<&nbsp;> &nbsp;
+<PublisherLocation> 33
+<&colon;> :
+<FirstPage> 1329
+<&hypen;> –
+<LastPage> 1336
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Donchin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Gopher
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Olin
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Badihi
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Biesky
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Sprung
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> CL
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Pizov
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> R
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Cotev
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> S
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2003
+<&brackr> )
+<&nbsp;> &nbsp;
+<ChapterTitle> <isPunctOrUpper> A
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> look
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> into
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> nature
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> causes
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> human
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> errors
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> intensive
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> care
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> unit
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<InstitutionalAuthorName> <inDict> Qual
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> Saf
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> <isSpringerPublisherName> Health
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> <inDict> Care
+<InstitutionalAuthorName> &nbsp;
+<InstitutionalAuthorName> 12
+<&colon;> :
+<FirstPage> 143
+<&hypen;> –
+<LastPage> 148
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> This
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> is
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> end
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> reference
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> list
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+

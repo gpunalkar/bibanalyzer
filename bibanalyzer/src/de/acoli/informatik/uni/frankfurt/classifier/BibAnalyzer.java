@@ -74,8 +74,8 @@ import de.acoli.informatik.uni.frankfurt.visualization.CRFVisualizer;
  */
 public class BibAnalyzer {
 
-    //public static final String INPUT_FILE_NAME = "input_plaintext_springer.txt";
-    public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
+    public static final String INPUT_FILE_NAME = "input_plaintext_springer2.txt";
+    //public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
 
     public static final String PATH_TO_PLAINTEXT_INPUT = "input/plaintext_references/";
 
@@ -141,9 +141,9 @@ public class BibAnalyzer {
     public static final String CRF_MODEL_FILE_SPRINGER_C_ONLYTOK = "SPRINGER_BibChapter_onlytokens_2000";
 
     // Three Springer models trained on Springer data * with additional features *.
-    public static final String CRF_MODEL_FILE_SPRINGER_A_FEAT = "SPRINGER_BibArticle_featured-year-initials-dblpdict-springerjournaltitle_2000";
-    public static final String CRF_MODEL_FILE_SPRINGER_B_FEAT = "SPRINGER_BibBook_featured-year-initials-dblpdict-springerpubname_2000";
-    public static final String CRF_MODEL_FILE_SPRINGER_C_FEAT = "SPRINGER_BibChapter_featured-year-initials-dblpdict-springerpubname_2000";
+    public static final String CRF_MODEL_FILE_SPRINGER_A_FEAT = "SPRINGER_BibArticle_featured-year-initials-dblpdict-springerjournaltitle_11000";
+    public static final String CRF_MODEL_FILE_SPRINGER_B_FEAT = "SPRINGER_BibBook_featured-year-initials-dblpdict-springerpubname_11000";
+    public static final String CRF_MODEL_FILE_SPRINGER_C_FEAT = "SPRINGER_BibChapter_featured-year-initials-dblpdict-springerpubname_11000";
 
     public static ArrayList<String> models = new ArrayList<String>(4);
 
