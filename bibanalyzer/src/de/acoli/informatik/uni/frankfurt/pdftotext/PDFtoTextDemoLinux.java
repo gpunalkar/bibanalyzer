@@ -22,7 +22,9 @@
 package de.acoli.informatik.uni.frankfurt.pdftotext;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPathExpressionException;
@@ -54,12 +56,12 @@ import org.xml.sax.SAXException;
  *
  * @author niko
  */
-public class PDFtoTextDemo {
+public class PDFtoTextDemoLinux {
 
     // Time to wait (in milli seconds) between execution of commands.
     public static final int TIME_TO_WAIT = 3000;
 
-    public static void main(String[] args) throws IOException, InterruptedException, SAXException, ParserConfigurationException, XPathExpressionException {
+    public static void main(String[] args) throws IOException, InterruptedException, SAXException, ParserConfigurationException, XPathExpressionException, FileNotFoundException {
 
         deleteFiles();
         Thread.sleep(TIME_TO_WAIT);
@@ -82,12 +84,30 @@ public class PDFtoTextDemo {
         // Wait a second.
         Thread.sleep(5000);
         System.out.println("Formatting XML...");
+        
         // Format XML.
-        ProcessBuilder pbFormatXml
-                = new ProcessBuilder("./formatxml");
-        pbFormatXml.directory(new File("./pdf2text/bin/"));
-        pbFormatXml.start();
+        //ProcessBuilder pbFormatXml
+        //        = new ProcessBuilder("./formatxml");
+        //pbFormatXml.directory(new File("./pdf2text/bin/"));
+        //pbFormatXml.start();
 
+        // Do this without xmllint.
+        // Collect all xml files.
+        ArrayList<File> xmlFiles = new ArrayList<>();
+        collectFiles(xmlFiles, "./pdf2text/xml/");
+        for(File f : xmlFiles) {
+            if(f.getName().endsWith(".xml")) {
+                System.out.println("Formatting: " + f.getAbsolutePath());
+                String rval = XMLFormatter.format(f.getAbsolutePath());
+                // Write formatted stuff to new output file.
+                PrintWriter w = new PrintWriter(new File(f.getAbsolutePath() + "formatted.xml"));
+                w.write(rval);
+                w.flush();
+                w.close();
+            }
+        }
+        
+        
         Thread.sleep(TIME_TO_WAIT);
         // Extract Plaintext.
         System.out.println("Preprocessing references.");

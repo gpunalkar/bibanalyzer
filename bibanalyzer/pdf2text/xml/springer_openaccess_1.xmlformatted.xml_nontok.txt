@@ -1,54 +1,32 @@
 
-1. R Rajbanshi, AM Wyglinski, GJ Minden, An efficient implementation of NCOFDM transceivers for cognitive radios, in First International Conference on Cognitive Radio Oriented Wireless Networks and Communications (CROWNCOM), Mykonos Island, Greece, 1–5 (8-10 June 2006) 
-2. AM Wyglinski, Effects of bit allocation on non-contiguous multicarrier-based cognitive radio transceivers, in IEEE 64th Vehicular Technology Conference, Montréeal, Canada, 1–5 (25–28 September 2006) 
-3. H Bogucka, Directions and recent advances in PAPR reduction methods, in IEEE International Symposium on Signal Processing and Information Technology (ISSPIT), Vancouver, Canada, 821–827 (27–30 August 2006) 
-4. M-G Di Benedetto, P Mandarini, An application of MMSE predistortion to OFDM systems. IEEE Trans Commun. 44(11), 1417–1420 (1996) 
-5. Federal Communications Commission, Spectrum Policy Task Force Report, ET Docket No. 02-135, (2002) 
-6. Federal Communications Commission, Unlicensed Operation in the TV Broadcast Bands, ET Docket No. 04-186, (2004) 
-7. T Weiss, J Hillenbrand, A Krohn, FK Jondral, Mutual interference in OFDMbased spectrum pooling systems, 2004 IEEE 59th IEEE Vehicular Technology Conference, 2004, VTC 2004-Spring, Milan, Italy, 4, 1873–1877 (17–19 May 2004) 
-8. H Bogucka, AM Wyglinski, S Pagadarai, A Kliks, Spectrally agile multicarrier waveforms for opportunistic wireless access. IEEE Commun Mag. 49(6), 108–115 (2011) 
-9. S Pagadarai, A Kliks, H Bogucka, AM Wyglinski, Non-contiguous multicarrier waveforms in practical opportunistic wireless systems. IET Radar Sonar Navigat J. 5(6), 674–680 (2011) 
-10. HA Mahmoud, T Yucek, H Arslan, OFDM for cognitive radio: merits and challenges. IEEE Wirel Commun. 16(2), 6–14 (2009) 
-11. HA Mahmoud, H Arslan, Sidelobe suppression in OFDM-based spectrum sharing systems using adaptive symbol transition. IEEE Commun Lett. 12(2), 133–135 (2008) 
-12. S Pagadarai, R Rajbanshi, AM Wyglinski, GJ Minden, Sidelobe suppression for OFDM-based cognitive radios using constellation expansion, in IEEE Wireless Communications and Networking Conference, Las Vegas, USA, 888–893 (31 March–3 April 2008) 
-13. I Cosovic, S Brandes, M Schnell, Subcarrier weighting: a method for sidelobe suppression in OFDM systems. IEEE Commun Lett. 10(6), 444–446 (2006) 
-14. I Cosovic, S Brandes, M Schnell, A technique for sidelobe suppression in OFDM systems, in IEEE Global Telecommunications Conference, St. Louis, USA, 1–5 (28 November– 2 December 2005) 
-15. X Fu, J Wang, SQ Li, Sidelobe suppression for OFDM based cognitive radio systems, in Fourth International Conference on Communications and Networking, ChinaCOM 2009, Xi’an, China, 1–5 (26–28 August 2009) 
-16. I Cosovic, T Mazzoni, Suppression of sidelobes in OFDM systems by multiple-choice sequences. Eur Trans Telecommun. 17(6), 623–630 (2006) 
-17. D Li, X Dai, H Zhang, Sidelobe suppression in NC-OFDM systems using phase shift, in 4th International Conference on Wireless Communications, Networking and Mobile Computing, WiCOM’08, Dalian, China, 1–4 (12–14 October 2008) 
-18. S Ahmed, RU Rehman, H Hwang, New techniques to reduce sidelobes in OFDM system, in Third International Conference on Convergence and Hybrid Information Technology, ICCIT’08, Venice, Italy, 2, 117–121 (11–13 November 2008) 
-19. K Panta, J Armstrong, Spectral analysis of OFDM signals and its improvement by polynomial cancellation coding. IEEE Trans Consum Electron. 49(4), 939–943 (2003) 
-20. S Noreen, NZ Azeemi, A technique for Out-of-Band radiation reduction in OFDM-based cognitive radio, in IEEE 17th International Conference on Telecommunications, ICT 2010, Doha, Qatar, 853–856 (4–7 April 2010) 
-21. R Xu, M Chen, A precoding scheme for DFT-based OFDM to suppress sidelobes. IEEE Commun Lett. 13(10), 776–778 (2009) 
-22. CD Chung, Spectrally precoded OFDM with cyclic prefix, in IEEE International Conference on Communications, ICC’07, Glasgow, Scotland, 5428–5432 (24–28 June 2007) 
-23. D Qu, Z Wang, T Jiang, Extended active interference cancellation for sidelobe suppression in cognitive radio OFDM systems with cyclic prefix. IEEE Trans Veh Technol. 59(4), 1689–1695 (2010) 
-24. Z Wang, D Qu, T Jiang, Y He, Spectral sculpting for OFDM based opportunistic spectrum access by extended active interference cancellation, in IEEE Global Telecommunications Conference, GLOBECOM 2008, New Orleans, USA, 1–05 (30 November 2008–4 December 2008) 
-25. D Qu, Z Wang, T Jiang, M Daneshmand, Sidelobe suppression using extended active interference cancellation with self-interference constraint for cognitive OFDM system, in Fourth International Conference on Communications and Networking in China, China-COM 2009, Xi’an, China, 1–5 (26–28 August 2009) 
-26. MM Naghsh, MJ Omidi, Reduction of out of band radiation using carrier-bycarrier partial response signalling in orthogonal frequency division multiplexing. IET Commun. 4(12), 1433–1442 (2010) 
-27. J Van de Beek, F Berggren, N-continuous OFDM. IEEE Commun Lett. 13(1), 1–3 (2009) 
-28. G Bansal, MJ Hossain, VK Bhargava, Optimal and suboptimal power allocation schemes for OFDM-based cognitive radio systems. IEEE Trans Wirel Commun. 7(11), 4710–4718 (2008) 
-29. Q Lu, W Wang, T Peng, W Wang, Efficient multiuser water-filling algorithm under interference temperature constraints in OFDMA-based cognitive radio networks, in International Symposium on Microwave, Antenna, Propagation and EMC Technologies for Wireless Communications, Hangzhou, China, 174–177 (16–17 August 2007) Kryszkiewicz et al. EURASIP Journal on Wireless Communications and Networking 2012, 2012:23 http://jwcn.eurasipjournals.com/content/2012/1/23 Page 19 of 20 
-30. Z Yuan, AM Wyglinski, On sidelobe suppression for multicarrier-based cognitive radio transceivers. IEEE Trans Veh Technol. 59(4), 1998–2006 (2010) 
-31. MS El-Saadany, AF Shalash, M Abdallah, Revisiting active cancellation carriers for shaping the spectrum of OFDM-based cognitive radios, in IEEE Sarnoff Symposium, Princeton, USA, 1–5 (30 March 2009–1 April 2009) 
-32. S Brandes, I Cosovic, M Schnell, Reduction of out-of-band radiation in OFDM systems by insertion of cancellation carriers. IEEE Commun Lett. 10(6), 420–422 (2006) 
-33. H Yamaguchi, Active interference cancellation technique for MB-OFDM cognitive radio, in 34th European Microwave Conference, Amsterdam, Netherlands, 1105–1108 (13 October 2004) 
-34. HA Mahmoud, H Arslan, Spectrum shaping of OFDM-based cognitive radio signals, in IEEE Radio Wireless Symposium, Orlando, USA, 113–116 (January 2008) 
-35. S Brandes, I Cosovic, M Schnell, Reduction of out-of-band radiation in OFDM based overlay systems, in DySPAN 2005, Baltimore, USA, 662–665 (8–11 November 2005) 
-36. N Sokhandan, SM Safavi, Sidelobe suppression in OFDM-based cognitive radio systems, in 10th International Conference on Information Sciences Signal Processing and their Applications (ISSPA), Kuala Lumpur, Malaysia, 413–417 (10–13 May 2010) 
-37. SG Huang, CH Hwang, Improvement of active interference cancellation: avoidance technique for OFDM cognitive radio. IEEE Trans Wirel Commun. 8(12), 5928–5937 (2009) 
-38. Z Wang, GB Giannakis, Complex-field coding for OFDM over fading wireless channels. IEEE Trans Inf Theory 49(3), 707–720 (2003) 
-39. IEEE Standard for Information Technology–Telecommunications and information exchange between systems–Local and metropolitan area networks-Specific requirements– Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications IEEE, IEEE Std 802.112007 (Revision of IEEE Std 802.11-1999) 
-40. 3GPP, TS 36.101, Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception (Release 9) 
-41. 3GPP TS 25.101 v. 8.4.0 Release 8; UMTS; User Equipment radio transmission and reception (FDD) (October 2008) 
-42. M Fitch, M Nekovee, S Kawade, K Briggs, R MacKenzie, Wireless service provision in TV white space with cognitive radio technology: A telecom operator’s perspective and experience. IEEE Commun Mag. 49(3), 64–73 (2011) 
-43. T Erpek, MA Mchenry, A Stirling, Dynamic spectrum access operational parameters with wireless microphones. IEEE Commun Mag. 49(3), 38–45 (2011) 
-44. PD Sutton, J Lotze, H Lahlou, SA Fahmy, KE Nolan, B Ozgul, TW Rondeau, J Noguera, LE Doyle, Iris: an architecture for cognitive radio networking testbeds. IEEE Commun Mag. 48(9), 114–122 (2010) 
-45. P Sutton, B Ozgul, I Macaluso, L Doyle, OFDM pulse-shaped waveforms for dynamic spectrum access networks, in DySPAN 2010, Singapore, 1–2 (6–9 April 2010) 
-46. E Anderson, Z Bai, C Bischof, S Blackford, J Demmel, J Dongarra, J Du Croz, A Greenbaum, S Hammarling, A McKenney, D Sorensen, LAPACK Users’ Guide (Society for Industrial and Applied Mathematics, Philadelphia, 1999) 
-47. GH Golub, CF Van Loan, Matrix Computations (The Johns Hopkins University Press, Baltimore, 1996) doi:10.1186/1687-1499-2012-23 Cite this article as: Kryszkiewicz et al.: Protection of primary users in dynamically varying radio environment: practical solutions and challenges. EURASIP Journal on Wireless Communications and Networking 2012 2012:23. Submit your manuscript to a journal and benefi t from: 
-7 Convenient online submission 
-7 Rigorous peer review 
-7 Immediate publication on acceptance 
-7 Open access: articles freely available online 
-7 High visibility within the fi eld 
-7 Retaining the copyright to your article Submit your next manuscript at 7 springeropen.com Kryszkiewicz et al. EURASIP Journal on Wireless Communications and Networking 2012, 2012:23 http://jwcn.eurasipjournals.com/content/2012/1/23 Page 20 of 20 
+[1] Affymetrix microarrays, http://www.affymetrix.com/products/arrays/specific/cexpress.affx. 
+[2] J. W. Taylor, E. Turner, J. P. Townsend, J. R. Dettman, and D. Jacobson, “Eukaryotic microbes, species recognition and the geographic limits of species: examples from the kingdom Fungi,” Philosophical Transactions of the Royal Society B, vol. 361, no. 1475, pp. 1947–1963, 2006. 
+[3] E. J. Candès and T. Tao, “Decoding by linear programming,” IEEE Transactions on Information Theory, vol. 51, no. 12, pp. 4203–4215, 2005. 
+[4] D. L. Donoho, “Compressed sensing,” IEEE Transactions on Information Theory, vol. 52, no. 4, pp. 1289–1306, 2006. 
+[5] S. Sarvotham, D. Baron, and R. Baraniuk, “Compressed sensing reconstruction via belief propagation,” preprint, 2006, http://www.dsp.ece.rice.edu/cs/csbpTR07142006.pdf. 
+[6] J. A. Tropp, “Greed is good: algorithmic results for sparse approximation,” IEEE Transactions on Information Theory, vol. 50, no. 10, pp. 2231–2242, 2004. 
+[7] W. Dai and O. Milenkovic, “Subspace pursuit for compressive sensing: closing the gap between performance and complexity,” submitted to IEEE Transactions on Information Theory, http://arxiv.org/abs/0803.0811. 
+[8] D. Wang, A. Urisman, Y.-T. Liu, et al., “Viral discovery and sequence recovery using DNA microarrays,” PLoS Biology, vol. 1, no. 2, article e2, pp. 1–4, 2003. 
+12 EURASIP Journal on Bioinformatics and Systems Biology 
+[9] A. Schliep, D. C. Torney, and S. Rahmann, “Group testing with DNA chips: generating designs and decoding experiments,” in Proceedings of the Computational Systems Bioinformatics Conference (CSB ’03), vol. 2, pp. 84–91, Stanford, Calif, USA, August 2003. 
+[10] A. J. Macula, A. Schliep, M. A. Bishop, and T. E. Renz, “New, improved, and practical k-stem sequence similarity measures for probe design,” Journal of Computational Biology, vol. 15, no. 5, pp. 525–534, 2008. 
+[11] D. Z. Du and F. K. Hwang, Combinatorial Group Testing and Its Applications, World Scientific, Singapore, 2000. 
+[12] M. A. Sheikh, S. Sarvotham, O. Milenkovic, and R. G. Baraniuk, “DNA array decoding from nonlinear measurements by belief propagation,” in Proceedings of the 14th IEEE/SP Workshop on Statistical Signal Processing (SSP ’07), pp. 215– 219, Madison, Wis, USA, August 2007. 
+[13] I. Shmulevich, J. Astola, D. Cogdell, S. R. Hamilton, and W. Zhang, “Data extraction from composite oligonucleotide microarrays,” Nucleic Acids Research, vol. 31, no. 7, article e36, pp. 1–5, 2003. 
+[14] E. J. Candès, J. K. Romberg, and T. Tao, “Stable signal recovery from incomplete and inaccurate measurements,” Communications on Pure and Applied Mathematics, vol. 59, no. 8, pp. 1207–1223, 2006. 
+[15] T. R. Gregory, “Macroevolution, hierarchy theory, and the Cvalue enigma,” Paleobiology, vol. 30, no. 2, pp. 179–202, 2004. 
+[16] R. A. DeVore, “Deterministic constructions of compressed sensing matrices,” Journal of Complexity, vol. 23, no. 4–6, pp. 918–925, 2007. 
+[17] R. Berinde and P. Indyk, “Sparse recovery using sparse random matrices,” preprint, 2008, http://people.csail.mit.edu/indyk/ report.pdf. 
+[18] Y. A. Chen, C.-C. Chou, X. Lu, et al., “A multivariate prediction model for microarray cross-hybridization,” BMC Bioinformatics, vol. 7, article 101, pp. 1–12, 2006. 
+[19] T. F. Smith and M. S. Waterman, “Identification of common molecular subsequences,” Journal of Molecular Biology, vol. 147, no. 1, pp. 195–197, 1981. 
+[20] Matlab Bioinformatics Toolbox—Exploring Primer Design Demo. http://www.mathworks.com/applications/compbio/ demos.html?file=/products/demos/shipping/bioinfo/primerdemo.html. 
+[21] W. Xu, S. Bak, A. Decker, S. M. Paquette, R. Feyereisen, and D. W. Galbraith, “Microarray-based analysis of gene expression in very large gene families: the cytochrome P450 gene superfamily of Arabidopsis thaliana,” Gene, vol. 272, no. 1-2, pp. 61–74, 2001. 
+[22] E. Khomyakova, M. A. Livshits, M.-C. Steinhauser, et al., “On-chip hybridization kinetics for optimization of gene expression experiments,” BioTechniques, vol. 44, no. 1, pp. 109–117, 2008. 
+[23] K. J. Breslauer, R. Frank, H. Blocker, and L. A. Marky, “Predicting DNA duplex stability from the base sequence,” Proceedings of the National Academy of Sciences of the United States of America, vol. 83, no. 11, pp. 3746–3750, 1986. 
+[24] O. Milenkovic and N. Kashyap, “DNA codes that avoid secondary structures,” in Proceedings of the IEEE International Symposium on Information Theory (ISIT ’05), pp. 288–292, Adelaide, Australia, September 2005. 
+[25] B. P. Durbin, J. S. Hardin, D. M. Hawkins, and D. M. Rocke, “A variance-stabilizing transformation for gene-expression microarray data,” Bioinformatics, vol. 18, supplement 1, pp. S105–S110, 2002. 
+[26] D. Hekstra, A. R. Taussig, M. Magnasco, and F. Naef, “Absolute mRNA concentrations from sequence-specific calibration of oligonucleotide arrays,” Nucleic Acids Research, vol. 31, no. 7, pp. 1962–1968, 2003. 
+[27] M. D. Kane, T. A. Jatkoe, C. R. Stumpf, J. Lu, J. D. Thomas, and S. J. Madore, “Assessment of the sensitivity and specificity of oligonucleotide (50mer) microarrays,” Nucleic Acids Research, vol. 28, no. 22, pp. 4552–4557, 2000. 
+[28] Matlab codes for probe design in CSMs. 
+[29] M. Zuker, “Mfold web server for nucleic acid folding and hybridization prediction,” Nucleic Acids Research, vol. 31, no. 13, pp. 3406–3415, 2003. 
+[30] V. Kumar and O. Milenkovic, “On graphical representations of algebraic codes suitable for iterative decoding,” IEEE Communications Letters, vol. 9, no. 8, pp. 729–731, 2005. 
