@@ -15,7 +15,7 @@
  * and is available at http://www.eclipse.org/legal/epl-v10.html
  * 
  * Contributors: Niko Schenk - initial API and
- * implementation.
+ * implementation. 
  * *****************************************************************************
  */
 
@@ -97,6 +97,7 @@ public class BibAnalyzer {
      */
     public static boolean postprocessOutput = true;
 
+    
     // CRF tagging.
     public static final String TAGGER_JAR = "crf_tagger.jar";
     // Bibtype prediction.
