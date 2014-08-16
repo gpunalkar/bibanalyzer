@@ -15,7 +15,7 @@
  * and is available at http://www.eclipse.org/legal/epl-v10.html
  * 
  * Contributors: Niko Schenk - initial API and
- * implementation. 
+ * implementation.
  * *****************************************************************************
  */
 
@@ -42,6 +42,8 @@ import de.acoli.informatik.uni.frankfurt.processing.bibfieldfeatures.TokenizedPl
 import de.acoli.informatik.uni.frankfurt.processing.bibtypefeatures.BibtypeFeatureValuePairGeneratorFromPlaintextReferences;
 import de.acoli.informatik.uni.frankfurt.processing.bibtypefeatures.BibtypeClassifierOutputReader;
 import de.acoli.informatik.uni.frankfurt.visualization.CRFVisualizer;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *  
@@ -97,7 +99,6 @@ public class BibAnalyzer {
      */
     public static boolean postprocessOutput = true;
 
-    
     // CRF tagging.
     public static final String TAGGER_JAR = "crf_tagger.jar";
     // Bibtype prediction.
@@ -156,32 +157,32 @@ public class BibAnalyzer {
      * features and two SPRINGER models without features (trained only on
      * tokens) and a last SPRINGER model for BibChapters including features.
      */
-    private static void loadModels() {
+    private static void loadModels(String realPath) {
         System.out.print("Loading models...");
 
         if (useDBLPModels) {
             // Three DBLP models without features.
-            //models.add(PATH_TO_DBLP_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_DBLP_A_ONLYTOK);
-            //models.add(PATH_TO_DBLP_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_DBLP_B_ONLYTOK);
-            //models.add(PATH_TO_DBLP_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_DBLP_C_ONLYTOK);
+            //models.add(realPath + PATH_TO_DBLP_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_DBLP_A_ONLYTOK);
+            //models.add(realPath + PATH_TO_DBLP_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_DBLP_B_ONLYTOK);
+            //models.add(realPath + PATH_TO_DBLP_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_DBLP_C_ONLYTOK);
 
             // DBLP models with features.
-            models.add(PATH_TO_DBLP_TRAINED_FEATURED + CRF_MODEL_FILE_DBLP_A_FEAT);
-            models.add(PATH_TO_DBLP_TRAINED_FEATURED + CRF_MODEL_FILE_DBLP_B_FEAT);
-            models.add(PATH_TO_DBLP_TRAINED_FEATURED + CRF_MODEL_FILE_DBLP_C_FEAT);
+            models.add(realPath + PATH_TO_DBLP_TRAINED_FEATURED + CRF_MODEL_FILE_DBLP_A_FEAT);
+            models.add(realPath + PATH_TO_DBLP_TRAINED_FEATURED + CRF_MODEL_FILE_DBLP_B_FEAT);
+            models.add(realPath + PATH_TO_DBLP_TRAINED_FEATURED + CRF_MODEL_FILE_DBLP_C_FEAT);
         }
 
         if (useSpringerModels) {
             // Three SPRINGER models.
             // For articles and books it is okay to have only token level features...
-            //models.add(PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_A_ONLYTOK);
-            //models.add(PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_B_ONLYTOK);
-            //models.add(PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_C_ONLYTOK);
+            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_A_ONLYTOK);
+            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_B_ONLYTOK);
+            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_C_ONLYTOK);
 
             // For BibChapters we need more features ...
-            models.add(PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_A_FEAT);
-            models.add(PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_B_FEAT);
-            models.add(PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_C_FEAT);
+            models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_A_FEAT);
+            models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_B_FEAT);
+            models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_C_FEAT);
         }
 
         System.out.println("...(" + models.size() + ")");
@@ -202,16 +203,22 @@ public class BibAnalyzer {
     /**
      * Statically load dictionaries once before the analysis.
      *
-     * Dictionaries are used for: 1. Feature vector generation for bibtype
-     * prediction. 2. Tokenization annotation for CRF tagging. 3. TODO:
+     * Dictionaries are used for: 
+     * 1. Feature vector generation for bibtype
+     * prediction. 
+     * 2. Tokenization annotation for CRF tagging. 
+     * 3. TODO:
      * Rule-based post-processing match of references. (E.g., "Springer" is
      * always a PublisherName).
      *
      * @throws FileNotFoundException
      */
-    private static void loadDictionaries() throws FileNotFoundException {
+    private static void loadDictionaries(String realPath) throws FileNotFoundException {
         System.out.println("Loading dictionaries...");
 
+        DictReader dr = new DictReader();
+        dr.setRealPathToDictionaries(realPath);
+        
         // TODO: Add more if necessary.
         //DictReader.getLinuxWords();
         DictReader.getDBLPTitleWords();
@@ -231,24 +238,24 @@ public class BibAnalyzer {
      * Clean up directory structure from previous runs. I.e. delete previously
      * generated A++, etc. files...
      */
-    private static void cleanUpDirectories() {
+    private static void cleanUpDirectories(String realPath) {
         System.out.println("Cleaning up directory structure...\n");
         ArrayList<String> pathsToBeDeleted = new ArrayList<>();
 
         // Delete everything under data/tokenized including subfolders.
-        pathsToBeDeleted.add("data/tokenized/");
+        pathsToBeDeleted.add(realPath + "data/tokenized/");
 
-        pathsToBeDeleted.add("data/bibtypes/");
+        pathsToBeDeleted.add(realPath + "data/bibtypes/");
 
-        pathsToBeDeleted.add("data/tagged/per_model/");
-        pathsToBeDeleted.add("data/tagged/per_model_visualized/");
-        pathsToBeDeleted.add("data/tagged/combined/");
-        pathsToBeDeleted.add("data/tagged/combined_visualized/");
+        pathsToBeDeleted.add(realPath + "data/tagged/per_model/");
+        pathsToBeDeleted.add(realPath + "data/tagged/per_model_visualized/");
+        pathsToBeDeleted.add(realPath + "data/tagged/combined/");
+        pathsToBeDeleted.add(realPath + "data/tagged/combined_visualized/");
 
         // Careful. Only delete the contents of these two folders.
         // Do not the stylesheet.
-        pathsToBeDeleted.add("data/a++/per_model/");
-        pathsToBeDeleted.add("data/a++/combined/"); // Bibtypes combined into one file.
+        pathsToBeDeleted.add(realPath + "data/a++/per_model/");
+        pathsToBeDeleted.add(realPath + "data/a++/combined/"); // Bibtypes combined into one file.
 
         for (String pTBD : pathsToBeDeleted) {
             ArrayList<File> toDelete = new ArrayList<>();
@@ -261,24 +268,46 @@ public class BibAnalyzer {
         }
     }
 
-    /**
-     * The demo client. Run this program to analyze plaintext references.
-     *
-     * @param args
-     * @throws FileNotFoundException
-     * @throws IOException
-     */
-    public static void main(String[] args) throws FileNotFoundException, IOException {
+    
+    
+    
+    public static void main(String[] args) {
+        String userDir = System.getProperty("user.dir");
         
+        // Maven.
+        //String realPath = userDir + "/src/main/webapp/modules/";
+        // Default.
+        String realPath = userDir + "/";
+        
+        try {
+            analyzeBibliography(args, realPath);
+        } catch (IOException ex) {
+            Logger.getLogger(BibAnalyzer.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+        
+        
+        
+    /**
+     * 
+     * @param args
+     * @param realPath
+     * @throws FileNotFoundException
+     * @throws IOException 
+     */
+     public static void analyzeBibliography(String[] args, String realPath) throws FileNotFoundException, IOException {
+        
+         // Use internal input file.
         if(args.length == 0) {
             // Take the input programmatically.
             args = new String[1];
-            args[0] = PLAINTEXT_REFERENCES_INPUT_FILE;
+            args[0] = realPath + PLAINTEXT_REFERENCES_INPUT_FILE;
+            System.out.println("Predefined input file: " + args[0]);
         }
-        
+        // Use external input file.
         if(args.length == 1) {
             // Take input from command line.
-            System.out.println("Input file: " + args[0]);
+            System.out.println("External input file: " + args[0]);
         }
         else {
             showHelp();
@@ -287,13 +316,13 @@ public class BibAnalyzer {
 
         // Clean up directory structure,
         // i.e. delete files from previous runs.
-        cleanUpDirectories();
+        cleanUpDirectories(realPath);
 
         // Load all necessary statistical models for tagging.
-        loadModels();
+        loadModels(realPath);
 
         // Load all dictionaries for annotation.
-        loadDictionaries();
+        loadDictionaries(realPath);
 
         // Read in all plaintext references from input file.
         System.out.print("Reading plaintext references...");
@@ -306,18 +335,18 @@ public class BibAnalyzer {
         System.out.println("(" + (plaintextReferences.size()) + " lines.)");
 
         // Write bibtype specific feature vectors to new file.
-        String bibtypesFeatsFile = "data/bibtypes/bibtypes_featvec.txt";
+        String bibtypesFeatsFile = realPath + "data/bibtypes/bibtypes_featvec.txt";
         System.out.println("Generating bibtype feature vectors...");
         BibtypeFeatureValuePairGeneratorFromPlaintextReferences
                 .convertPlaintextReferencesToFeatureVectors(plaintextReferences, bibtypesFeatsFile);
 
         // Do inference for every reference.
         System.out.println("Predicting bibtypes for references...");
-        ArrayList<String> bibtypePredictions = classifyBibtypes(bibtypesFeatsFile);
+        ArrayList<String> bibtypePredictions = classifyBibtypes(realPath, bibtypesFeatsFile);
 
         // Tokenize them with custom tokenization technique and write to file.
         System.out.println("Tokenizing...");
-        String pathToTokenized = "data/tokenized/input_tok.txt";
+        String pathToTokenized = realPath + "data/tokenized/input_tok.txt";
         tokenize(plaintextReferences, pathToTokenized);
 
         // Add features for each of the three bibtypes.
@@ -357,14 +386,14 @@ public class BibAnalyzer {
 
         // Tag the data with every model.
         System.out.println("Tagging...");
-        String pathToTagged = "data/tagged/per_model/";
+        String pathToTagged = realPath + "data/tagged/per_model/";
         if (useSpringerModels) {
             System.out.println("\tSpringer...");
-            tag(pathToTokenized, pathToTagged, "SPRINGER");
+            tag(realPath, pathToTokenized, pathToTagged, "SPRINGER");
         }
         if (useDBLPModels) {
             System.out.println("\tDBLP...");
-            tag(pathToTokenized, pathToTagged, "DBLP");
+            tag(realPath, pathToTokenized, pathToTagged, "DBLP");
         }
 
         // TODO: file separator.
@@ -384,12 +413,12 @@ public class BibAnalyzer {
         if (useSpringerModels) {
             visualizeCRF(pathToTagged + "/SPRINGER/", "per_model_visualized/SPRINGER");
             // Also visualize combined data.
-            visualizeCRF("data/tagged/combined/SPRINGER/", "/combined_visualized/SPRINGER/");
+            visualizeCRF(realPath + "data/tagged/combined/SPRINGER/", "/combined_visualized/SPRINGER/");
         }
         if (useDBLPModels) {
             visualizeCRF(pathToTagged + "/DBLP/", "per_model_visualized/DBLP");
             // Also visualize combined data.
-            visualizeCRF("data/tagged/combined/DBLP/", "/combined_visualized/DBLP/");
+            visualizeCRF(realPath + "data/tagged/combined/DBLP/", "/combined_visualized/DBLP/");
         }
 
         // Generate A++ for every CRF output.
@@ -397,24 +426,24 @@ public class BibAnalyzer {
             ArrayList<File> taggedByModelSpringer = new ArrayList<>();
             collectFiles(taggedByModelSpringer, pathToTagged + "/SPRINGER/");
             System.out.println("Converting to A++...(" + taggedByModelSpringer.size() + ") files.");
-            generateAPlusPlus(taggedByModelSpringer, "data/a++/per_model/SPRINGER/");
+            generateAPlusPlus(taggedByModelSpringer, realPath + "data/a++/per_model/SPRINGER/");
         }
         if (useDBLPModels) {
             ArrayList<File> taggedByModelDblp = new ArrayList<>();
             collectFiles(taggedByModelDblp, pathToTagged + "/DBLP/");
             System.out.println("Converting to A++...(" + taggedByModelDblp.size() + ") files.");
-            generateAPlusPlus(taggedByModelDblp, "data/a++/per_model/DBLP/");
+            generateAPlusPlus(taggedByModelDblp, realPath + "data/a++/per_model/DBLP/");
         }
 
         // Also generate A++ for the combined CRF file.
         if (useSpringerModels) {
-            generateAPlusPlusFinal("data/tagged/combined/SPRINGER/tagged_combined.txt",
-                    "data/a++/combined/SPRINGER/aplusplus_SPRINGER_combined.xml",
+            generateAPlusPlusFinal(realPath + "data/tagged/combined/SPRINGER/tagged_combined.txt",
+                    realPath + "data/a++/combined/SPRINGER/aplusplus_SPRINGER_combined.xml",
                     bibtypePredictions);
         }
         if (useDBLPModels) {
-            generateAPlusPlusFinal("data/tagged/combined/DBLP/tagged_combined.txt",
-                    "data/a++/combined/DBLP/aplusplus_DBLP_combined.xml",
+            generateAPlusPlusFinal(realPath + "data/tagged/combined/DBLP/tagged_combined.txt",
+                    realPath + "data/a++/combined/DBLP/aplusplus_DBLP_combined.xml",
                     bibtypePredictions);
         }
 
@@ -487,7 +516,7 @@ public class BibAnalyzer {
      * @throws FileNotFoundException
      * @throws IOException
      */
-    private static void tag(String pathToTokenized, String pathToTagged, String datatype) throws FileNotFoundException, IOException {
+    private static void tag(String realPath, String pathToTokenized, String pathToTagged, String datatype) throws FileNotFoundException, IOException {
         // For every model
         for (String aModel : models) {
 
@@ -529,7 +558,7 @@ public class BibAnalyzer {
                 String toTag = tokFolder + fileToTag;
                 //System.out.println("toTag: "+ toTag);
                 taggerWriter = new PrintWriter(new File(pathToTagged + datatype + "/tagged_" + modelname + ".txt"));
-                pb = new ProcessBuilder("java", "-jar", TAGGER_JAR,
+                pb = new ProcessBuilder("java", "-jar", realPath + TAGGER_JAR,
                         "--model-file", aModel, toTag);
 
                 if (pb != null) {
@@ -839,21 +868,21 @@ public class BibAnalyzer {
      * @throws FileNotFoundException
      * @throws IOException
      */
-    private static ArrayList<String> classifyBibtypes(String bibtypesFeatsFile) throws FileNotFoundException, IOException {
+    private static ArrayList<String> classifyBibtypes(String realPath, String bibtypesFeatsFile) throws FileNotFoundException, IOException {
 
-        String bibtypesClassified = "data/bibtypes/bibtypes_classified.txt";
-        String bibtypesPredicted = "data/bibtypes/bibtypes_predicted.txt";
+        String bibtypesClassified = realPath + "data/bibtypes/bibtypes_classified.txt";
+        String bibtypesPredicted = realPath + "data/bibtypes/bibtypes_predicted.txt";
 
         PrintWriter classifyBibtypesWriter = new PrintWriter(new File(bibtypesClassified));
         ProcessBuilder pb = new ProcessBuilder(
-                "mallet-2.0.7/bin/mallet",
+                realPath + "mallet-2.0.7/bin/mallet",
                 "classify-file",
                 "--input",
                 bibtypesFeatsFile,
                 "--output",
                 "-",
                 "--classifier",
-                "models/bibtype_model/" + BIBCLASSIFIER_MODEL
+                realPath + "models/bibtype_model/" + BIBCLASSIFIER_MODEL
         );
 
         pb.directory(new File("./"));
@@ -917,4 +946,24 @@ public class BibAnalyzer {
         w.close();
 
     }
+    
+    
+    /**
+     * 
+     * @param realPath
+     * @param type is either SPRINGER or DBLP
+     * @return
+     * @throws FileNotFoundException 
+     */
+    public static String getFinalAPlusPlus(String realPath, String type) throws FileNotFoundException {
+        Scanner s = new Scanner(new File(realPath + "/data/a++/combined/" + type + "/aplusplus_" + type + "_combined.xml"));
+        StringBuilder sb = new StringBuilder();
+        while(s.hasNextLine()) {
+            String aLine = s.nextLine().trim();
+            sb.append(aLine + "\n");
+        }
+        s.close();
+        return sb.toString();
+    }
+    
 }

@@ -47,6 +47,8 @@ import java.util.Scanner;
  * @author niko
  */
 public class DictReader {
+    
+    private static String REAL_PATH = "";
 
     private static final String PATH_TO_DBLP_DICTS = "dicts/DBLP/";
     private static final String PATH_TO_SPRINGER_DICTS = "dicts/SPRINGER/";
@@ -146,6 +148,11 @@ public class DictReader {
         }
         System.out.println("...done.");
     }
+    
+    public void setRealPathToDictionaries(String realPath) {
+        this.REAL_PATH = realPath;
+    }
+    
 
     /**
      * Reads in DBLP generated word list from all titles which occur in the DBLP
@@ -156,7 +163,7 @@ public class DictReader {
      */
     public static ArrayList<String> getDBLPTitleWords() throws FileNotFoundException {
         if (dblpwords.isEmpty()) {
-            Scanner s = new Scanner(new File(WORD_DICT_LOCATION_DBLP));
+            Scanner s = new Scanner(new File(REAL_PATH + WORD_DICT_LOCATION_DBLP));
             while (s.hasNextLine()) {
                 String aWord = s.nextLine().trim();
                 dblpwords.add(aWord);
@@ -178,7 +185,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getDBLPPublisherNames() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(PUBNAMES_DBLP), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + PUBNAMES_DBLP), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -198,7 +205,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerPublisherNames() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(PUBNAMES_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + PUBNAMES_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -220,7 +227,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerPublisherLocations() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(PUBLOCS_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + PUBLOCS_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -242,7 +249,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getDBLPJournalTitles() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(JOURTIT_DBLP), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + JOURTIT_DBLP), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -262,7 +269,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerJournalTitles() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(JOURTIT_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + JOURTIT_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -284,7 +291,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerBibInstEdNames() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(BIBINSTEDNAMES_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + BIBINSTEDNAMES_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -306,7 +313,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerInstAuthNames() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(INSTAUTHNAMES_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + INSTAUTHNAMES_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -328,7 +335,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getDBLPSeriesTitles() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(SERIESTIT_DBLP), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + SERIESTIT_DBLP), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -348,7 +355,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerSeriesTitles() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(SERIESTIT_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + SERIESTIT_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -370,7 +377,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerEditionNumbers() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(EDNUM_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + EDNUM_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -392,7 +399,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerConfEventNames() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(CONFEVENTNAMES_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + CONFEVENTNAMES_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
@@ -414,7 +421,7 @@ public class DictReader {
      * @throws FileNotFoundException
      */
     public static ArrayList<String> getSpringerConfEventLocations() throws FileNotFoundException {
-        Scanner s = new Scanner(new File(CONFEVENTLOCS_SPRINGER), "UTF-8");
+        Scanner s = new Scanner(new File(REAL_PATH + CONFEVENTLOCS_SPRINGER), "UTF-8");
         while (s.hasNextLine()) {
             String aWord = s.nextLine().trim();
             aWord = replace(aWord);
