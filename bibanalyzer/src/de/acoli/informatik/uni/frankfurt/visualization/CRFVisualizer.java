@@ -36,7 +36,7 @@ import java.util.Scanner;
 public class CRFVisualizer {
 
     // An CRF format input file to be visualized.
-    public static final String INPUT_CRF_FILE = "/home/niko/Desktop/input.crf";
+    public static final String INPUT_CRF_FILE = "/home/niko/Desktop/tagged_combined.txt";
     // The output file name of the HTML visualization.
     public static final String OUTPT_HTML_FILE = "/home/niko/Desktop/visu.html";
 
