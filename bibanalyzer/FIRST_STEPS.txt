@@ -20,9 +20,19 @@ Open the source project with your favorite IDE and
   
 * ANALYZING BIBLIOGRAPHIC REFERENCES (command-line tool) *  
 
+(Optional)
+Build the project with de.acoli.informatik.uni.frankfurt.classifier.BibAnalyzer.java as the main class.
+From within Netbeans:
+-> Right click on the project (Projects tab) -> Properties -> Run -> Main Class: de.acoli.informatik.uni.frankfurt.classifier.BibAnalyzer -> Ok.
+-> Right click on the project (Projects tab) -> Clean and Build -> 
+
+Required:
 1. Copy bibanalyzer.jar from the dist/ directory to the top-level folder where the crf_tagger.jar is also located.
 2. Run the bibanalyzer.jar from the command line with
    java -jar bibanalyzer.jar "path/to/your/plaintextreferences/inputfile.txt"
+   
+   e.g.,
+   java -jar bibanalyzer.jar input/plaintext_references/input_plaintext_springer.txt
 
   
 
