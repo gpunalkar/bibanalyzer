@@ -79,7 +79,7 @@ public class XMLFormatter {
     public static String format(String inputFile) {
         String input = null;
         try {
-            input = getUnformattedXMLContent(INPUT_FILE);
+            input = getUnformattedXMLContent(inputFile);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(XMLFormatter.class.getName()).log(Level.SEVERE, null, ex);
         }
