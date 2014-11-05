@@ -36,9 +36,10 @@ import java.util.Scanner;
 public class CRFVisualizer {
 
     // An CRF format input file to be visualized.
-    public static final String INPUT_CRF_FILE = "/home/niko/Desktop/tagged_combined.txt";
+    public static final String INPUT_CRF_FILE = "/home/niko/Desktop/"
+            + "CRF_and_Reflexica/SPRINGER/books/2000_bibbook_GOLD.txt";
     // The output file name of the HTML visualization.
-    public static final String OUTPT_HTML_FILE = "/home/niko/Desktop/visu.html";
+    public static final String OUTPT_HTML_FILE = "/home/niko/Desktop/2000_bibbook_GOLD_vis.html";
 
     // Specifies mappings from tag to HTML color code.
     public static HashMap<String, String> colorMap = new HashMap<String, String>();
@@ -59,6 +60,8 @@ public class CRFVisualizer {
         colorMap.put("<volume>", "FFCC66");
         colorMap.put("<number>", "C8BE84");
         colorMap.put("<pages>", "D279FF");
+        colorMap.put("<Isbn>", "02B486");
+        colorMap.put("<ISBN>", "02B486");
 
         // ..
         // TODO: more.
@@ -81,7 +84,7 @@ public class CRFVisualizer {
         colorMap.put("<PublisherLocation>", "00A5E0");
         colorMap.put("<ChapterTitle>", "FF9933");
         colorMap.put("<EditionNumber>", "9999FF");
-        colorMap.put("<InstitutionalAuthorName>", "BDBAD6");
+        colorMap.put("<InstitutionalAuthorName>", "BDBAD6"); 
         colorMap.put("<SeriesTitle>", "00FFFF");
 
         colorMap.put("<ConfEventName>", "FF0099");
@@ -92,6 +95,7 @@ public class CRFVisualizer {
         colorMap.put("<URL>", "04B486");
         colorMap.put("<Url>", "04B486");
         colorMap.put("<RefSource>", "04B486");
+        colorMap.put("<Doi>", "CFBFB1"); // From Reflex.
 
     }
 
@@ -137,6 +141,8 @@ public class CRFVisualizer {
                 //System.out.println(aLine);
 
                 String[] split = aLine.split("\\s");
+                // Set this to "1" if you want to visualize "gold" data
+                // which contains the label at the second position.
                 String label = split[0];
 
                 String token = "";

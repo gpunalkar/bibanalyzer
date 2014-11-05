@@ -76,6 +76,8 @@ import java.util.logging.Logger;
  */
 public class BibAnalyzer {
 
+    //public static final String INPUT_FILE_NAME = "2000_article_GOLD_raw.txt";
+    
     public static final String INPUT_FILE_NAME = "input_plaintext_springer2.txt";
     //public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
     

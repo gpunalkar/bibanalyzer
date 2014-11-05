@@ -152,6 +152,12 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 volume = cleanField(volume);
 //            System.out.println("Volume: " + volume);
                 w.write("   <VolumeID>" + volume + "</VolumeID>\n");
+                // Find Number.
+                String number = findField(aReferencePlusTokensAndTags, "Issue");
+                number = cleanField(number);
+//            System.out.println("Number: " + number);
+                //w.write("  <!-- <BibArticleNumber>" + number + "</BibArticleNumber> -->\n");
+                w.write("   <IssueID>" + number + "</IssueID>\n");
                 // Find Pages.
                 String firstPage = findField(aReferencePlusTokensAndTags, "FirstPage");
                 firstPage = cleanField(firstPage);
@@ -161,12 +167,6 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 lastPage = cleanField(lastPage);
                 //System.out.println("LastPage: " + lastPages);
                 w.write("   <LastPage>" + lastPage + "</LastPage>\n");
-                // Find Number.
-                String number = findField(aReferencePlusTokensAndTags, "Issue");
-                number = cleanField(number);
-//            System.out.println("Number: " + number);
-                //w.write("  <!-- <BibArticleNumber>" + number + "</BibArticleNumber> -->\n");
-                w.write("   <IssueID>" + number + "</IssueID>\n");
                 // Find Url.
                 String url = findField(aReferencePlusTokensAndTags, "Url");
                 url = cleanField(url);
@@ -177,7 +177,7 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 //        + "     </Occurrence>\n"
                 //        + "  ");
                 // Pretty visualization.
-                w.write("     <URL>" + url + "</URL>\n");
+                w.write("     <!-- <URL>" + url + "</URL> -->\n");
                 w.write("  </BibArticle>\n");
                 String bibUnstructured = getBibUnstructred(aReferencePlusTokensAndTags);
                 w.write("  <BibUnstructured>" + bibUnstructured + "</BibUnstructured>\n");
@@ -237,12 +237,12 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 //        + "     </Occurrence>\n"
                 //        + "  ");
                 // Pretty visualization.
-                w.write("     <URL>" + url + "</URL>\n");
+                w.write("     <!-- <URL>" + url + "</URL> -->\n");
                 // Find ISBN.
                 String isbn = findField(aReferencePlusTokensAndTags, "Isbn");
                 isbn = cleanField(isbn);
 //            System.out.println("ISBN: " + isbn);
-                w.write("   <Isbn>" + isbn + "</Isbn>\n");
+                w.write("   <!-- <Isbn>" + isbn + "</Isbn> -->\n");
                 w.write("  </BibBook>\n");
                 String bibUnstructured = getBibUnstructred(aReferencePlusTokensAndTags);
                 w.write("  <BibUnstructured>" + bibUnstructured + "</BibUnstructured>\n");
@@ -309,12 +309,12 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 //        + "     </Occurrence>\n"
                 //        + "  ");
                 // Pretty visualization.
-                w.write("     <URL>" + url + "</URL>\n");
+                w.write("     <!-- <URL>" + url + "</URL> -->\n");
                 // Find ISBN.
                 String isbn = findField(aReferencePlusTokensAndTags, "Isbn");
                 isbn = cleanField(isbn);
                 //           System.out.println("ISBN: " + isbn);
-                w.write("   <Isbn>" + isbn + "</Isbn>\n");
+                w.write("   <!-- <Isbn>" + isbn + "</Isbn> -->\n");
                 w.write("  </BibChapter>\n");
                 String bibUnstructured = getBibUnstructred(aReferencePlusTokensAndTags);
                 w.write("  <BibUnstructured>" + bibUnstructured + "</BibUnstructured>\n");
