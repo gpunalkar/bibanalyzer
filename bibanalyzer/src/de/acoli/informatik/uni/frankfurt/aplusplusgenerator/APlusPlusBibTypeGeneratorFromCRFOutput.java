@@ -54,12 +54,12 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
         PrintWriter w = new PrintWriter(new File(WRITE_TO_OUTPUT_FILE));
         w.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
                 + "<?xml-stylesheet type=\"text/css\" href=\"../stylesheet/References_Stylesheet.css\"?>\n"
-                + "<Bibliography ID=\"Bib\">\n"
+                + "<Bibliography ID=\"Bib1\">\n"
                 + "<Heading>References</Heading>\n\n");
 
         ArrayList<ArrayList<String[]>> referencesPlusTokens = CRFOutputReader.getPredictedTokensAndTagsForReferences(CRF_PREDICTED_OUTPUT, false);
 
-        int crCounter = 0;
+        int crCounter = 1;
         // Cafeful: Demo client assumes that every bibtype is a "BibArticle".
         for (ArrayList<String[]> aReferencePlusTokens : referencesPlusTokens) {
             generateAPlusPlus(w, "BibArticle", aReferencePlusTokens, crCounter);
@@ -83,7 +83,7 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
      */
     public static void generateAPlusPlus(PrintWriter w, String bibtype, ArrayList<String[]> aReferencePlusTokensAndTags, int crCounter) throws FileNotFoundException {
 
-        w.write(" <Citation ID=\"CR" + crCounter + "_" + bibtype + "\">\n"
+        w.write(" <Citation ID=\"CR" + crCounter + "\">\n"
                 + " <!-- BibTeX Type: " + bibtype + " -->\n"
                 + "  <" + bibtype + ">\n");
 
@@ -151,22 +151,30 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 String volume = findField(aReferencePlusTokensAndTags, "VolumeID");
                 volume = cleanField(volume);
 //            System.out.println("Volume: " + volume);
+                if(volume.length()!=0) {
                 w.write("   <VolumeID>" + volume + "</VolumeID>\n");
+                }
                 // Find Number.
                 String number = findField(aReferencePlusTokensAndTags, "Issue");
                 number = cleanField(number);
 //            System.out.println("Number: " + number);
                 //w.write("  <!-- <BibArticleNumber>" + number + "</BibArticleNumber> -->\n");
+                if(number.length()!=0) {
                 w.write("   <IssueID>" + number + "</IssueID>\n");
+                }
                 // Find Pages.
                 String firstPage = findField(aReferencePlusTokensAndTags, "FirstPage");
                 firstPage = cleanField(firstPage);
                 //System.out.println("FirstPage: " + firstPages);
+                if(firstPage.length()!=0) {
                 w.write("   <FirstPage>" + firstPage + "</FirstPage>\n");
+                }
                 String lastPage = findField(aReferencePlusTokensAndTags, "LastPage");
                 lastPage = cleanField(lastPage);
                 //System.out.println("LastPage: " + lastPages);
+                if(lastPage.length()!=0) {
                 w.write("   <LastPage>" + lastPage + "</LastPage>\n");
+                }
                 // Find Url.
                 String url = findField(aReferencePlusTokensAndTags, "Url");
                 url = cleanField(url);
@@ -208,7 +216,9 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 volume = cleanField(volume);
 //            System.out.println("Volume: " + volume);
                 w.write("   <!-- volume ! -->\n");
+                if(volume.length()!=0) {
                 w.write("   <NumberInSeries>" + volume + "</NumberInSeries>\n");
+                }
                 // Find Volume.
                 String publisher = findField(aReferencePlusTokensAndTags, "PublisherName");
                 publisher = cleanField(publisher);
@@ -222,11 +232,15 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 String firstPage = findField(aReferencePlusTokensAndTags, "FirstPage");
                 firstPage = cleanField(firstPage);
                 //System.out.println("FirstPage: " + firstPages);
+                if(firstPage.length()!=0) {
                 w.write("   <FirstPage>" + firstPage + "</FirstPage>\n");
+                }
                 String lastPage = findField(aReferencePlusTokensAndTags, "LastPage");
                 lastPage = cleanField(lastPage);
                 //System.out.println("LastPage: " + lastPages);
+                if(lastPage.length()!=0) {
                 w.write("   <LastPage>" + lastPage + "</LastPage>\n");
+                }
                 // Find Url.
                 String url = findField(aReferencePlusTokensAndTags, "Url");
                 url = cleanField(url);
@@ -280,7 +294,9 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 volume = cleanField(volume);
                 //           System.out.println("Volume: " + volume);
                 w.write("   <!-- volume ! -->\n");
+                if(volume.length()!=0) {
                 w.write("   <NumberInSeries>" + volume + "</NumberInSeries>\n");
+                }
                 // Find Volume.
                 String publisher = findField(aReferencePlusTokensAndTags, "PublisherName");
                 publisher = cleanField(publisher);
@@ -294,11 +310,15 @@ public class APlusPlusBibTypeGeneratorFromCRFOutput {
                 String firstPage = findField(aReferencePlusTokensAndTags, "FirstPage");
                 firstPage = cleanField(firstPage);
                 //System.out.println("FirstPage: " + firstPages);
+                if(firstPage.length()!=0) {
                 w.write("   <FirstPage>" + firstPage + "</FirstPage>\n");
+                }
                 String lastPage = findField(aReferencePlusTokensAndTags, "LastPage");
                 lastPage = cleanField(lastPage);
                 //System.out.println("LastPage: " + lastPages);
+                if(lastPage.length()!=0) {
                 w.write("   <LastPage>" + lastPage + "</LastPage>\n");
+                }
                 // Find Url.
                 String url = findField(aReferencePlusTokensAndTags, "Url");
                 url = cleanField(url);
