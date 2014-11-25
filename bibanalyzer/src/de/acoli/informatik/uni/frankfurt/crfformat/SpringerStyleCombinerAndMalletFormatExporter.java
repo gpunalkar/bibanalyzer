@@ -61,8 +61,12 @@ public class SpringerStyleCombinerAndMalletFormatExporter {
     public static final String BIBTYPE = "bibbook";
     public static final String BIBSTYLE = "all";
 
-    public static final int EXPORT_HOW_MANY_TRAIN = 11000;
-    public static final int EXPORT_HOW_MANY_TEST = 1100;
+    public static final int EXPORT_HOW_MANY_TRAIN = 11;
+    public static final int EXPORT_HOW_MANY_TEST = 11;
+    
+    // Set this to 0.7 or 0.8 if you want everything annotated.
+    // 0.0 means, we allow references to be exported that have no annotations.
+    public static final double ANNOTATION_THRESHOLD = 0.1;
 
     
     public static boolean shuffle = true;
@@ -95,9 +99,9 @@ public class SpringerStyleCombinerAndMalletFormatExporter {
                     if (getCondition(aLine)) {
                         references.add(aLine);
 
-                        if (aLine.contains("FirstName")) {
+                        //if (aLine.contains("FirstName")) {
                             numberofFirstnames++;
-                        }
+                        //}
                     }
                 }
                 s.close();
@@ -267,7 +271,7 @@ public class SpringerStyleCombinerAndMalletFormatExporter {
         double ratio = (double) cumLengthMatchedSpans / (double) tagsReplaced.length();
         //System.out.println(ratio);
         //System.out.println();
-        if (ratio < 0.75) {
+        if (ratio < ANNOTATION_THRESHOLD) {
             return false;
         }
         

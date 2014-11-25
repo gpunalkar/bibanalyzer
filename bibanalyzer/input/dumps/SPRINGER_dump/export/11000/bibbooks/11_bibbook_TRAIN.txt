@@ -1,0 +1,619 @@
+BOR <BOR>
+&nbsp; <&nbsp;>
+Blood <FamilyName>
+&nbsp; <&nbsp;>
+DC <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Radostits <FamilyName>
+&nbsp; <&nbsp;>
+OM <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Veterinary <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+medicine <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+a <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+textbook <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+diseases <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+cattle <Italic> <BookTitle>
+, <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+sheep <Italic> <BookTitle>
+, <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+pigs <Italic> <BookTitle>
+, <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+goats <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+and <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+horses <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+London <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+W <PublisherName>
+. <PublisherName>
+&nbsp; <PublisherName>
+B <PublisherName>
+. <PublisherName>
+&nbsp; <PublisherName>
+Saunders <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2000 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Anker <FamilyName>
+&nbsp; <&nbsp;>
+M <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+ed <dummy>
+: <&colon;>
+&nbsp; <&nbsp;>
+Addressing <BookTitle>
+&nbsp; <BookTitle>
+sex <BookTitle>
+&nbsp; <BookTitle>
+and <BookTitle>
+&nbsp; <BookTitle>
+gender <BookTitle>
+&nbsp; <BookTitle>
+in <BookTitle>
+&nbsp; <BookTitle>
+epidemic <BookTitle>
+- <BookTitle>
+prone <BookTitle>
+&nbsp; <BookTitle>
+infectious <BookTitle>
+&nbsp; <BookTitle>
+diseases <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+In <dummy>
+&nbsp; <&nbsp;>
+Book <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+Addressing <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+Sex <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+and <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+Gender <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+In <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+Epidemic <Italic> <SeriesTitle>
+- <Italic> <SeriesTitle>
+Prone <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+Infectious <Italic> <SeriesTitle>
+&nbsp; <Italic> <SeriesTitle>
+Diseases <Italic> <SeriesTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+City <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+World <PublisherName>
+&nbsp; <PublisherName>
+Health <PublisherName>
+&nbsp; <PublisherName>
+Organization <PublisherName>
+&nbsp; <PublisherName>
+Press <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2007 <Year>
+: <&colon;>
+1 <FirstPage>
+– <&hypen;>
+40 <LastPage>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Leino <FamilyName>
+&nbsp; <&nbsp;>
+J <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Applications <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+game <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+theory <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+in <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+ad <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+hoc <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+networks <Italic> <BookTitle>
+. <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Master’s <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Thesis <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Helisnki <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Helisnki <PublisherName>
+&nbsp; <PublisherName>
+University <PublisherName>
+&nbsp; <PublisherName>
+of <PublisherName>
+&nbsp; <PublisherName>
+Technology <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2003 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+[ <InstitutionalAuthorName>
+ICRU <InstitutionalAuthorName>
+] <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+International <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Commission <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+on <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Radiation <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Units <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+and <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Measurements <InstitutionalAuthorName>
+: <&colon;>
+&nbsp; <&nbsp;>
+Prescribing <BookTitle>
+, <BookTitle>
+&nbsp; <BookTitle>
+recording <BookTitle>
+, <BookTitle>
+&nbsp; <BookTitle>
+and <BookTitle>
+&nbsp; <BookTitle>
+reporting <BookTitle>
+&nbsp; <BookTitle>
+photon <BookTitle>
+&nbsp; <BookTitle>
+beam <BookTitle>
+&nbsp; <BookTitle>
+therapy <BookTitle>
+&nbsp; <BookTitle>
+( <BookTitle>
+supplement <BookTitle>
+&nbsp; <BookTitle>
+to <BookTitle>
+&nbsp; <BookTitle>
+ICRU <PublisherName>
+&nbsp; <&nbsp;>
+Report <dummy>
+&nbsp; <&nbsp;>
+50 <dummy>
+) <&brackr>
+. <&period;>
+&nbsp; <&nbsp;>
+Bethesda <PublisherLocation>
+. <PublisherLocation>
+&nbsp; <PublisherLocation>
+MD <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+ICRU <dummy>
+&nbsp; <&nbsp;>
+1999 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+World <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Health <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Organization <InstitutionalAuthorName>
+: <&colon;>
+&nbsp; <&nbsp;>
+Primary <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+health <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+care <Italic> <BookTitle>
+. <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Report <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+international <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+conference <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+on <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+primary <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+health <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+care <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+USSR <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Alma <PublisherName>
+&nbsp; <PublisherName>
+Ata <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+1978 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Segal <FamilyName>
+&nbsp; <&nbsp;>
+ZV <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Williams <FamilyName>
+&nbsp; <&nbsp;>
+JMG <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Teasdale <FamilyName>
+&nbsp; <&nbsp;>
+JD <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Mindfulness <Italic> <BookTitle>
+- <Italic> <BookTitle>
+based <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+cognitive <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+therapy <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+for <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+depression <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+a <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+new <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+approach <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+to <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+preventing <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+relapse <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+New <PublisherLocation>
+&nbsp; <PublisherLocation>
+York <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Guilford <PublisherName>
+&nbsp; <PublisherName>
+Press <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2002 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Bockstael <FamilyName>
+&nbsp; <&nbsp;>
+NE <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+McConnell <FamilyName>
+&nbsp; <&nbsp;>
+KE <Initials>
+&nbsp; <&nbsp;>
+( <&brackl>
+2006 <Year>
+) <&brackr>
+&nbsp; <&nbsp;>
+Environmental <BookTitle>
+&nbsp; <BookTitle>
+and <BookTitle>
+&nbsp; <BookTitle>
+resource <BookTitle>
+&nbsp; <BookTitle>
+valuation <BookTitle>
+&nbsp; <BookTitle>
+with <BookTitle>
+&nbsp; <BookTitle>
+revealed <BookTitle>
+&nbsp; <BookTitle>
+preferences <BookTitle>
+: <BookTitle>
+&nbsp; <BookTitle>
+a <BookTitle>
+&nbsp; <BookTitle>
+theoretical <BookTitle>
+&nbsp; <BookTitle>
+guide <BookTitle>
+&nbsp; <BookTitle>
+to <BookTitle>
+&nbsp; <BookTitle>
+empirical <BookTitle>
+&nbsp; <BookTitle>
+models <BookTitle>
+, <BookTitle>
+&nbsp; <BookTitle>
+the <BookTitle>
+&nbsp; <BookTitle>
+economics <BookTitle>
+&nbsp; <BookTitle>
+of <BookTitle>
+&nbsp; <BookTitle>
+non <BookTitle>
+- <BookTitle>
+market <BookTitle>
+&nbsp; <BookTitle>
+goods <BookTitle>
+&nbsp; <BookTitle>
+and <BookTitle>
+&nbsp; <BookTitle>
+services <BookTitle>
+, <BookTitle>
+&nbsp; <BookTitle>
+vol <BookTitle>
+&nbsp; <BookTitle>
+7 <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Springer <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Dordrecht <PublisherLocation>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Department <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+of <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Health <InstitutionalAuthorName>
+: <&colon;>
+&nbsp; <&nbsp;>
+Results <BookTitle>
+&nbsp; <BookTitle>
+of <BookTitle>
+&nbsp; <BookTitle>
+PMTCT <BookTitle>
+&nbsp; <BookTitle>
+plus <BookTitle>
+&nbsp; <BookTitle>
+project <BookTitle>
+&nbsp; <BookTitle>
+in <BookTitle>
+&nbsp; <BookTitle>
+4 <BookTitle>
+&nbsp; <BookTitle>
+pilot <BookTitle>
+&nbsp; <BookTitle>
+provinces <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Nonthaburi <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+Thailand <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+Ministry <PublisherName>
+&nbsp; <PublisherName>
+of <PublisherName>
+&nbsp; <PublisherName>
+Public <PublisherName>
+&nbsp; <PublisherName>
+Health <PublisherName>
+&nbsp; <&nbsp;>
+2004 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Nei <FamilyName>
+&nbsp; <&nbsp;>
+M <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Molecular <BookTitle>
+&nbsp; <BookTitle>
+Evolutionary <BookTitle>
+&nbsp; <BookTitle>
+Genetics <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+New <PublisherLocation>
+&nbsp; <PublisherLocation>
+York <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+NY <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+USA <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Columbia <PublisherName>
+&nbsp; <PublisherName>
+University <PublisherName>
+&nbsp; <PublisherName>
+Press <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+1987 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Sambrook <FamilyName>
+&nbsp; <&nbsp;>
+J <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Fritsch <FamilyName>
+&nbsp; <&nbsp;>
+EF <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Maniatis <FamilyName>
+&nbsp; <&nbsp;>
+T <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Molecular <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+cloning <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+a <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+laboratory <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+manual <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+2 <EditionNumber>
+nd <dummy>
+&nbsp; <&nbsp;>
+edition <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+Cold <PublisherLocation>
+&nbsp; <PublisherLocation>
+Spring <PublisherLocation>
+&nbsp; <PublisherLocation>
+Harbor <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+NY <PublisherLocation>
+, <&comma;>
+Cold <PublisherName>
+&nbsp; <PublisherName>
+Spring <PublisherName>
+&nbsp; <PublisherName>
+Harbor <PublisherName>
+&nbsp; <PublisherName>
+Laboratory <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+1989 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+CtICotDaIfH <FamilyName>
+&nbsp; <&nbsp;>
+I <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Improving <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Care <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+for <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+End <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Life <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+A <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Sourcebook <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+for <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Health <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Care <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Managers <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+and <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Clinicians <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Oxford <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Oxford <PublisherName>
+&nbsp; <PublisherName>
+University <PublisherName>
+&nbsp; <PublisherName>
+Press <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2000 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+

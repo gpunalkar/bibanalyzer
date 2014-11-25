@@ -1,0 +1,540 @@
+BOR <BOR>
+&nbsp; <&nbsp;>
+Foley <FamilyName>
+&nbsp; <&nbsp;>
+BP <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Improving <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+IRT <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+parameter <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+estimates <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+with <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+small <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+sample <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+sizes <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Evaluating <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+efficacy <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+a <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+new <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+data <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+augmentation <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+technique <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Lincoln <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+University <PublisherName>
+&nbsp; <PublisherName>
+of <PublisherName>
+&nbsp; <PublisherName>
+Nebraska <PublisherName>
+&nbsp; <PublisherName>
+- <PublisherName>
+&nbsp; <PublisherName>
+Lincoln <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2010 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Ghamarian <FamilyName>
+&nbsp; <&nbsp;>
+AR <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Compendium <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+data <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+sheets <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+for <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+veterinary <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+products <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Iran <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+Tehran <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Ghamarian <PublisherName>
+&nbsp; <PublisherName>
+publication <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2008 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Stiepanow <FamilyName>
+&nbsp; <&nbsp;>
+BI <Initials>
+. <&period;>
+&nbsp; <&nbsp;>
+Podstawy <BookTitle>
+&nbsp; <BookTitle>
+chemii <BookTitle>
+&nbsp; <BookTitle>
+i <BookTitle>
+&nbsp; <BookTitle>
+technologii <BookTitle>
+&nbsp; <BookTitle>
+barwników <BookTitle>
+&nbsp; <BookTitle>
+organicznych <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Warszawa <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Wydawnictwo <PublisherName>
+&nbsp; <PublisherName>
+Naukowo <PublisherName>
+&nbsp; <PublisherName>
+Techniczne <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+1980 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Bulankulame <FamilyName>
+&nbsp; <&nbsp;>
+I <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Frozen <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+tears <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+political <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+violence <Italic> <BookTitle>
+, <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+women <Italic> <BookTitle>
+, <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+children <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+and <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+problems <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+trauma <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+in <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Southern <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Sri <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Lanka <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Colombo <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+International <PublisherName>
+&nbsp; <PublisherName>
+Centre <PublisherName>
+&nbsp; <PublisherName>
+for <PublisherName>
+&nbsp; <PublisherName>
+Ethnic <PublisherName>
+&nbsp; <PublisherName>
+Studies <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+2005 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Jayaweera <FamilyName>
+&nbsp; <&nbsp;>
+S <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Pal <FamilyName>
+&nbsp; <&nbsp;>
+MS <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Women <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+in <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Sri <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Lanka <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Manila <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+ADB <PublisherName>
+&nbsp; <PublisherName>
+Publishing <PublisherName>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+1999 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Dietz <FamilyName>
+&nbsp; <&nbsp;>
+S <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Hepburn <FamilyName>
+&nbsp; <&nbsp;>
+C <Initials>
+&nbsp; <&nbsp;>
+( <&brackl>
+2010 <Year>
+) <&brackr>
+&nbsp; <&nbsp;>
+On <BookTitle>
+&nbsp; <BookTitle>
+non <BookTitle>
+- <BookTitle>
+marginal <BookTitle>
+&nbsp; <BookTitle>
+cost <BookTitle>
+- <BookTitle>
+benefit <BookTitle>
+&nbsp; <BookTitle>
+analysis <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Grantham <PublisherName>
+&nbsp; <PublisherName>
+Research <PublisherName>
+&nbsp; <PublisherName>
+Institute <PublisherName>
+&nbsp; <PublisherName>
+on <PublisherName>
+&nbsp; <PublisherName>
+Climate <PublisherName>
+&nbsp; <PublisherName>
+Change <PublisherName>
+&nbsp; <PublisherName>
+and <PublisherName>
+&nbsp; <PublisherName>
+the <PublisherName>
+&nbsp; <PublisherName>
+Environment <PublisherName>
+, <PublisherName>
+&nbsp; <PublisherName>
+London <PublisherName>
+&nbsp; <PublisherName>
+School <PublisherName>
+&nbsp; <PublisherName>
+of <PublisherName>
+&nbsp; <PublisherName>
+Economics <PublisherName>
+&nbsp; <PublisherName>
+and <PublisherName>
+&nbsp; <PublisherName>
+Political <PublisherName>
+&nbsp; <PublisherName>
+Science <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+London <PublisherLocation>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Mason <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+E <Initials>
+. <Initials>
+&nbsp; <Initials>
+A <Initials>
+. <Initials>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+McDaniel <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+E <Initials>
+. <Initials>
+&nbsp; <Initials>
+W <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Transport <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Properties <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Ions <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+in <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Gases <Italic> <BookTitle>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+Wiley <PublisherName>
+: <&colon;>
+&nbsp; <&nbsp;>
+New <PublisherLocation>
+&nbsp; <PublisherLocation>
+York <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1988 <Year>
+; <&semicolon;>
+137 <FirstPage>
+– <&hypen;>
+216 <LastPage>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+The <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Editorial <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Committee <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+for <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+the <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Guarantors <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+of <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Brain <InstitutionalAuthorName>
+: <&colon;>
+&nbsp; <&nbsp;>
+Aids <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+to <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+examination <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+peripheral <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+nervous <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+system <Italic> <BookTitle>
+&nbsp; <&nbsp;>
+London <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Ballière <PublisherLocation>
+&nbsp; <PublisherLocation>
+Tindall <PublisherLocation>
+&nbsp; <&nbsp;>
+1986 <Year>
+, <&comma;>
+&nbsp; <&nbsp;>
+1 <FirstPage>
+– <&hypen;>
+61 <LastPage>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Bartelmus <FamilyName>
+&nbsp; <&nbsp;>
+P <Initials>
+&nbsp; <&nbsp;>
+( <&brackl>
+2008 <Year>
+) <&brackr>
+&nbsp; <&nbsp;>
+Quantitative <BookTitle>
+&nbsp; <BookTitle>
+eco <BookTitle>
+– <BookTitle>
+nomics <BookTitle>
+, <BookTitle>
+&nbsp; <BookTitle>
+how <BookTitle>
+&nbsp; <BookTitle>
+sustainable <BookTitle>
+&nbsp; <BookTitle>
+are <BookTitle>
+&nbsp; <BookTitle>
+our <BookTitle>
+&nbsp; <BookTitle>
+economies? <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Springer <PublisherName>
+&nbsp; <PublisherName>
+Science <PublisherName>
+&nbsp; <PublisherName>
+and <PublisherName>
+&nbsp; <PublisherName>
+Business <PublisherName>
+&nbsp; <PublisherName>
+Media <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Secaucus <PublisherLocation>
+&nbsp; <PublisherLocation>
+NJ <PublisherLocation>
+&nbsp; <PublisherLocation>
+and <PublisherLocation>
+&nbsp; <PublisherLocation>
+Heidelberg <PublisherLocation>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Foresight <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Land <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Use <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Futures <InstitutionalAuthorName>
+&nbsp; <InstitutionalAuthorName>
+Project <InstitutionalAuthorName>
+: <&colon;>
+&nbsp; <&nbsp;>
+( <&brackl>
+2010 <Year>
+) <&brackr>
+&nbsp; <&nbsp;>
+Final <BookTitle>
+&nbsp; <BookTitle>
+project <BookTitle>
+&nbsp; <BookTitle>
+report <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+The <PublisherName>
+&nbsp; <PublisherName>
+Government <PublisherName>
+&nbsp; <PublisherName>
+Office <PublisherName>
+&nbsp; <PublisherName>
+for <PublisherName>
+&nbsp; <PublisherName>
+Science <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+London <PublisherLocation>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Nast <FamilyName>
+&nbsp; <&nbsp;>
+M <Initials>
+&nbsp; <&nbsp;>
+( <&brackl>
+2006 <Year>
+) <&brackr>
+&nbsp; <&nbsp;>
+Terre <BookTitle>
+&nbsp; <BookTitle>
+du <BookTitle>
+&nbsp; <BookTitle>
+lac <BookTitle>
+: <BookTitle>
+&nbsp; <BookTitle>
+L’histoire <BookTitle>
+&nbsp; <BookTitle>
+de <BookTitle>
+&nbsp; <BookTitle>
+la <BookTitle>
+&nbsp; <BookTitle>
+correction <BookTitle>
+&nbsp; <BookTitle>
+des <BookTitle>
+&nbsp; <BookTitle>
+eaux <BookTitle>
+&nbsp; <BookTitle>
+du <BookTitle>
+&nbsp; <BookTitle>
+Jura <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Verein <PublisherName>
+&nbsp; <PublisherName>
+Schlossmuseum <PublisherName>
+&nbsp; <PublisherName>
+Nidau <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Nidau <PublisherLocation>
+&nbsp; <PublisherLocation>
+( <PublisherLocation>
+Switzerland <PublisherLocation>
+) <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+p <dummy>
+&nbsp; <&nbsp;>
+192 <FirstPage>
+&nbsp; <&nbsp;>
+EOR <EOR>
+

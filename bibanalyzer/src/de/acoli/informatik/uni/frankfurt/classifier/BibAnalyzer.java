@@ -115,6 +115,7 @@ public class BibAnalyzer {
     public static final String PATH_TO_DBLP_TRAINED_ONLYTOKENS = PATH_TO_MODELS + "DBLP_trained_onlytokens/";
     public static final String PATH_TO_DBLP_TRAINED_FEATURED = PATH_TO_MODELS + "DBLP_trained_features/";
 
+    
     public static final String PATH_TO_SPRINGER_TRAINED_ONLYTOKENS = PATH_TO_MODELS + "SPRINGER_trained_onlytokens/";
     public static final String PATH_TO_SPRINGER_TRAINED_FEATURED = PATH_TO_MODELS + "SPRINGER_trained_features/";
 
