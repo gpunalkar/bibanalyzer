@@ -89,6 +89,7 @@ public class RerankerDemo {
         
         // Combine their analyses into a better one. (Reranking mechanism).
         RerankerReflex.rerankAnalyses(LABEL_MATRIX, RERANKED_OUTPUT);
+        // TODO: Postprocess and remove, e.g., <Title> tags within <Initials> and <FamilyName>...
         
         // Convert reranked result back to HTML.
         CRFVisualizer.visualizeCRFOutput(RERANKED_OUTPUT, RERANKED_OUTPUT_HTML);
