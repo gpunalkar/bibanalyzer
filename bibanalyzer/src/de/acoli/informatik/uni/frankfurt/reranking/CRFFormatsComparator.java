@@ -127,7 +127,9 @@ public class CRFFormatsComparator {
         int notComparable = 0;
         System.out.println("Num references in 1: " + references.size() + " vs. num references in 2: " + references2.size() + "\n\n");
         if(references.size() != references2.size()) {
-            System.out.println("Number of references in the two files is not equal.");
+            System.out.println("Number of references in the two files is not equal.\n"
+                    + "Maybe final End-of-References line?");
+            System.out.println("Exiting.");
             System.exit(0);
         }
         
@@ -141,13 +143,13 @@ public class CRFFormatsComparator {
                 System.out.println("Length mismatch: sentence(" + i + "):");
                 notComparable++;
                 for (String[] t : toksGOLD) {
-                    //    System.out.print(t[0] + " ");
+                        System.out.print(t[0] + " ");
                 }
-                //System.out.println();
+                System.out.println();
                 for (String[] t : toksOTHER) {
-                    //    System.out.print(t[1] + " ");
+                        System.out.print(t[0] + " ");
                 }
-                //System.out.println();
+               System.out.println();
                 //System.out.println();
                 // System.exit(0);
             } else {

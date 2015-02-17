@@ -37,11 +37,16 @@ public class RerankerDemo {
     // Reflex analysis.
     public static String REFLEXICA_HTML = "input/reranker/Reflexica/2000_article_REFLEXICA_raw.txt.utf8.html";
     public static String REFLEXICA_CRF = "input/reranker/Reflexica/2000_article_REFLEXICA_raw.txt.utf8.html_CRFout.txt";
+    //public static String REFLEXICA_HTML = "input/reranker/Reflexica/restREFLEXICA.html";
+    //public static String REFLEXICA_CRF = "input/reranker/Reflexica/restREFLEXICA.html_CRFout.txt";
     
     
     // Bibanalyzer analysis.
     public static String BIBANALYZER_CRF = "input/reranker/Bibanalyzer/SPRINGER_tagged_combined.txt";
     public static String BIBANALYZER_HTML = "input/reranker/Bibanalyzer/SPRINGER_tagged_combined.txt_HTMLout.html";
+    //public static String BIBANALYZER_CRF = "input/reranker/Bibanalyzer/restCRF.txt";
+    //public static String BIBANALYZER_HTML = "input/reranker/Bibanalyzer/restCRF.html";
+    
     
     // Accordances of the two analyses.
     public static String ACCORDANCE_DIR = "input/reranker/accordances/";
@@ -63,7 +68,7 @@ public class RerankerDemo {
         
         // Convert Reflexica HTML to CRF format.
         System.out.println("Converting Reflexica HTML to CRF format...");
-        ReflexicaToCRFFormat.convertReflexicaHTMLVisualizationToCRFOutpt(REFLEXICA_HTML, REFLEXICA_CRF);
+        ReflexicaToCRFFormat.convertReflexicaHTMLVisualizationToCRFOutput(REFLEXICA_HTML, REFLEXICA_CRF);
         System.out.println("... done.");
         
         

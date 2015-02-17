@@ -42,6 +42,7 @@ public class RerankerReflex {
 
     // Select either of two CRF analyses (a sentence) at random.
     public static boolean RANDOM = false;
+    
     public static boolean KEEP_REFLEXICA_HIGH_PRECISION_FIELDS_FROM_REFLEXICA = true;
 
     // Deprecated:
@@ -93,11 +94,13 @@ public class RerankerReflex {
             } else {
                 //System.out.println(aLine);
                 String[] split = aLine.split("\\t");
+                
+                
                 String token = split[0];
                 String reflexLabel = split[1];
-                
-                
                 String bibanalyzerLabel = split[2];
+                
+                
                 tokenSentence.add(token);
                 reflexicaSentence.add(reflexLabel);
                 bibanalyzerSentence.add(bibanalyzerLabel);
@@ -114,9 +117,9 @@ public class RerankerReflex {
         // 14 for books!
         int numDummysInReflexica = 8; // TODO: Vary parameter values, make parameter estimation.
 
-        System.out.println(reflexicaSentences.size() + " vs. " + bibanalyzerSpringerSentences.size());
+        //System.out.println(reflexicaSentences.size() + " vs. " + bibanalyzerSpringerSentences.size());
         ArrayList<ArrayList<String>> substitutedSentences = new ArrayList<>();
-        System.out.println(bibanalyzerSpringerSentences.get(1).get(5));
+        //System.out.println(bibanalyzerSpringerSentences.get(1).get(5));
         int numSubstitutions = 0;
         for (int i = 0; i < reflexicaSentences.size(); i++) {
             ArrayList<String> aReflexicaSentence = reflexicaSentences.get(i);
@@ -152,7 +155,7 @@ public class RerankerReflex {
                     if (KEEP_REFLEXICA_HIGH_PRECISION_FIELDS_FROM_REFLEXICA) {
                         ArrayList<String> areflexicaSentence = reflexicaSentences.get(i);
 
-                    // TODO:
+                    
                         // Keep the genereal structure of the bibanalyzer sentence,
                         // but if Reflexica found either of
                         // - FamilyName, ArticleTitle or JournalTitle (those have high precision)
@@ -167,6 +170,11 @@ public class RerankerReflex {
                                     || reflToken.equals("<JournalTitle>")
                                     || reflToken.equals("<Initials>")
                                     || reflToken.equals("<PublisherLocation>")
+                                    // Bibeditor name.
+                                    || reflToken.equals("<FamilyNameEditor>")
+                                    || reflToken.equals("<InitialsEditor>")
+                                    
+                                    
                                     || reflToken.equals("<PublisherName>")) {
                                 // Substitute it.
                                 bibanalyzerSpringerSentence.set(b, reflToken);

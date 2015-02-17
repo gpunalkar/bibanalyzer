@@ -68,6 +68,11 @@ public class CRFVisualizer {
         // Springer specific
         colorMap.put("<FamilyName>", "BCBCBC");
         colorMap.put("<Initials>", "DDDDDD");
+        
+        colorMap.put("<FamilyNameEditor>", "FF95CA");
+        colorMap.put("<InitialsEditor>", "FFD1E8");
+         
+        
         colorMap.put("<Prefix>", "FFFF80");
         colorMap.put("<Suffix>", "FFA86D");
         colorMap.put("<Year>", "66FF66");

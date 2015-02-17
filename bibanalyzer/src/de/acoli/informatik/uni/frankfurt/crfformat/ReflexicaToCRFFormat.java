@@ -74,7 +74,7 @@ public class ReflexicaToCRFFormat {
 
         // Reflexica Specific.
         colorMap.put("FFD1E8", "<InitialsEditor>");
-        colorMap.put("FF95CA", "<FamilyNameEditor");
+        colorMap.put("FF95CA", "<FamilyNameEditor>");
 
         colorMap.put("FFFF80", "<Prefix>");
         colorMap.put("FFA86D", "<Suffix>");
@@ -225,12 +225,12 @@ public class ReflexicaToCRFFormat {
             REFLEXICA_CONVERTED_TO_CRF_FORMAT_OUTPUT = args[1];
         }
         
-        convertReflexicaHTMLVisualizationToCRFOutpt(REFLEXICA_HTML_INPUT, REFLEXICA_CONVERTED_TO_CRF_FORMAT_OUTPUT);
+        convertReflexicaHTMLVisualizationToCRFOutput(REFLEXICA_HTML_INPUT, REFLEXICA_CONVERTED_TO_CRF_FORMAT_OUTPUT);
     
     }
         
 
-    public static void convertReflexicaHTMLVisualizationToCRFOutpt(String reflexInput,
+    public static void convertReflexicaHTMLVisualizationToCRFOutput(String reflexInput,
             String crfOutput) throws FileNotFoundException {
     
         // Produce output file.
@@ -240,8 +240,53 @@ public class ReflexicaToCRFFormat {
         Scanner s = new Scanner(new File(reflexInput));
         while (s.hasNextLine()) {
             String aLine = s.nextLine().trim();
-            if(verbose)
-            System.out.println(aLine);
+            if(verbose) {
+                System.out.println(aLine);
+            }
+            
+            // Completely unannotated line.
+            if(!aLine.contains("background:") && !aLine.contains("<aug><span")) {
+                // Get unannotated line.
+                if(aLine.endsWith("&lt;/bib&gt;</span></p>")) {
+                    aLine = aLine.substring(aLine.indexOf("&quot;&gt;")+10, aLine.lastIndexOf("&lt;/bib&gt;</span></p>"));
+                }
+                else {
+                    aLine = aLine.substring(aLine.indexOf("&quot;&gt;")+10, aLine.lastIndexOf("</span>"));
+                }
+                // This is reflexica-specific.
+                aLine = aLine.replace("  ", " ");
+                // This, too.
+                aLine = aLine.replace("&amp;nbsp;", " ");
+                
+                aLine = aLine.trim();
+                
+                for (String replacement : replacements.keySet()) {
+                if (aLine.contains(replacement)) {
+                    aLine = aLine.replace(replacement, replacements.get(replacement));
+                }
+                }
+                
+                //System.out.println("->" + aLine + "<-");
+                ArrayList<String> tokensForLeftPart = tokenize(aLine);
+                w.write("<BOR> BOR\n<&nbsp;> &nbsp;\n");
+                for (String t : tokensForLeftPart) {
+                    if(verbose)
+                        System.out.println("<dum>"+ " " + t);
+                    w.write("<dum>" + " " + t + "\n");
+                }
+                w.write("<&nbsp;> &nbsp;\n" +
+                            "<EOR> EOR\n\n");
+                w.flush();
+            }
+            
+            
+            
+            
+            else {
+                
+                //System.out.println(aLine);
+                
+                
             TreeMap<Integer, String> m = getMap(aLine);
 
             w.write("<BOR> BOR\n<&nbsp;> &nbsp;\n");
@@ -256,7 +301,7 @@ public class ReflexicaToCRFFormat {
                 ArrayList<String> tokensForLeftPart = tokenize(leftPart);
                 for (String t : tokensForLeftPart) {
                     if(verbose)
-                    System.out.println(label + " " + t);
+                        System.out.println(label + " " + t);
                     w.write(label + " " + t + "\n");
                 }
 
@@ -287,7 +332,7 @@ public class ReflexicaToCRFFormat {
                 ArrayList<String> aA = tokenize(addAlso);
                 for (String t : aA) {
                     if(verbose)
-                    System.out.println("<dum>" + " " + t);
+                        System.out.println("<dum>" + " " + t);
                     w.write("<dum>" + " " + t + "\n");
                 }
 
@@ -295,8 +340,11 @@ public class ReflexicaToCRFFormat {
 
             w.write("<&nbsp;> &nbsp;\n<EOR> EOR\n");
             if(verbose)
-            System.out.println();
+                System.out.println();
             w.write("\n");
+        
+            }
+            
         }
         s.close();
 
@@ -313,7 +361,26 @@ public class ReflexicaToCRFFormat {
 
         TreeMap<Integer, String> treemap = new TreeMap<Integer, String>();
 
-        HashMap<String, ArrayList<String>> aMap = new HashMap<>();
+        
+        
+        // Extract unannoated stuff RIGHT at the beginning of the reference.
+        
+        Pattern patternUnanno1 = Pattern.compile("quot;&gt;([A-Z](.*?))<span");
+        Matcher matcherUnanno1 = patternUnanno1.matcher(aReference);
+        while(matcherUnanno1.find()) {
+            String found = matcherUnanno1.group();
+            //System.out.println("FOUND: " + found);
+            String plaintext = matcherUnanno1.group(1);
+            int start = matcherUnanno1.start();
+            for (String replacement : replacements.keySet()) {
+                if (plaintext.contains(replacement)) {
+                    plaintext = plaintext.replace(replacement, replacements.get(replacement));
+                }
+            }
+            treemap.put(start, plaintext + "|" + "<dum>");
+        }
+        
+        
 
         // Extract all TAGGED plaintext.
         Pattern pattern = Pattern.compile("<span style=\'(.*?)>(.*?)</span>");

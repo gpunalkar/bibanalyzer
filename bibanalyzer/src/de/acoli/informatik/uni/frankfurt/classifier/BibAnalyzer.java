@@ -78,7 +78,8 @@ public class BibAnalyzer {
 
     //public static final String INPUT_FILE_NAME = "2000_article_GOLD_raw.txt";
     
-    public static final String INPUT_FILE_NAME = "input_plaintext_springer2.txt";
+    public static final String INPUT_FILE_NAME = "rest_b.txt";
+    //public static final String INPUT_FILE_NAME = "input_plaintext_springer2.txt";
     //public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
     
     
@@ -179,13 +180,13 @@ public class BibAnalyzer {
         if (useSpringerModels) {
             // Three SPRINGER models.
             // For articles and books it is okay to have only token level features...
-            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_A_ONLYTOK);
-            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_B_ONLYTOK);
+            models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_A_ONLYTOK);
+            models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_B_ONLYTOK);
             //models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_C_ONLYTOK);
 
             // For BibChapters we need more features ...
-            models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_A_FEAT);
-            models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_B_FEAT);
+            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_A_FEAT);
+            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_B_FEAT);
             models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_C_FEAT);
         }
 
