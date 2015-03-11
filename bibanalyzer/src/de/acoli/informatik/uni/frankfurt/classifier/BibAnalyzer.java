@@ -78,7 +78,9 @@ public class BibAnalyzer {
 
     //public static final String INPUT_FILE_NAME = "2000_article_GOLD_raw.txt";
     
-    public static final String INPUT_FILE_NAME = "rest_b.txt";
+    public static final String INPUT_FILE_NAME = "References_ganesh.txt";
+    //public static final String INPUT_FILE_NAME = "rest_b.txt";
+    
     //public static final String INPUT_FILE_NAME = "input_plaintext_springer2.txt";
     //public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
     
@@ -500,7 +502,7 @@ public class BibAnalyzer {
     private static void tokenize(ArrayList<String> plaintextReferences, String pathToTokenized) throws FileNotFoundException {
         PrintWriter writer = new PrintWriter(new File(pathToTokenized));
         for (String aRef : plaintextReferences) {
-            ArrayList<String> tokens = ReferenceUtil.tokenize(aRef);
+            ArrayList<String> tokens = ReferenceUtil.tokenize(aRef, true);
             for (String t : tokens) {
                 writer.write(t + "\n");
                 writer.flush();

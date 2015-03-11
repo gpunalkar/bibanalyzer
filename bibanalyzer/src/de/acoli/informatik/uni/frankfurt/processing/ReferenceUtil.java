@@ -266,13 +266,15 @@ public class ReferenceUtil {
      * @param aReference
      * @return
      */
-    public static ArrayList<String> tokenize(String aReference) {
+    public static ArrayList<String> tokenize(String aReference, boolean checkBeginning) {
 
+        if(checkBeginning) {
         if (!aReference.startsWith("BOR ")) {
             aReference = "BOR " + aReference;
         }
         if (!aReference.endsWith(" EOR")) {
             aReference = aReference + " EOR";
+        }
         }
 
         ArrayList<String> rval = new ArrayList<>(100);
@@ -306,7 +308,7 @@ public class ReferenceUtil {
                 rval.add(s);
                 //System.out.println("token: ->"  + s + "<-");
             } else {
-                System.out.println("There is a wrong item here.");
+                //System.out.println("There is a wrong item here.");
             }
         }
         return rval;
@@ -321,7 +323,7 @@ public class ReferenceUtil {
 
         String rawReference = "C. Carbonelli, S. Franz, European Transactions on Telecommunications 21(7), 589 (2010). URL db/journals/ett/ett21.html#CarbonelliF10";
 
-        ArrayList<String> tokens = ReferenceUtil.tokenize(rawReference);
+        ArrayList<String> tokens = ReferenceUtil.tokenize(rawReference, true);
         for (String t : tokens) {
             System.out.println(t);
         }

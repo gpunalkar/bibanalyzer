@@ -48,8 +48,11 @@ public class SpringerStyleCombinerAndMalletFormatExporter {
     // That's where the augmented XML files are located.
     // The raw reference annotated "training data".
     public static final String inputpath = "input/dumps/SPRINGER_dump/raw/";
-
+    
     public static final String EXPORT_TO = "input/dumps/SPRINGER_dump/export/11000/bibbooks/";
+    
+    
+
     
     
     // Possible parameters:
@@ -61,12 +64,12 @@ public class SpringerStyleCombinerAndMalletFormatExporter {
     public static final String BIBTYPE = "bibbook";
     public static final String BIBSTYLE = "all";
 
-    public static final int EXPORT_HOW_MANY_TRAIN = 11;
-    public static final int EXPORT_HOW_MANY_TEST = 11;
+    public static final int EXPORT_HOW_MANY_TRAIN = 15000;
+    public static final int EXPORT_HOW_MANY_TEST = 3000;
     
     // Set this to 0.7 or 0.8 if you want everything annotated.
     // 0.0 means, we allow references to be exported that have no annotations.
-    public static final double ANNOTATION_THRESHOLD = 0.1;
+    public static final double ANNOTATION_THRESHOLD = 0.8;
 
     
     public static boolean shuffle = true;

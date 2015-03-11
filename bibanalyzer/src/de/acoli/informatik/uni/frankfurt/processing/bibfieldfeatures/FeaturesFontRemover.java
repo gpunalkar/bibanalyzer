@@ -44,6 +44,14 @@ public class FeaturesFontRemover {
         String analyze = "1100_" + bibtype + "_TEST.txt";
         
        
+//        
+//        String path = "/media/INTENSO/SpringerDaten/alle/3.filtered/export/";
+//        String bibtype = "bibbook";
+//        
+//        //String analyze = "11000_" + bibtype + "_TRAIN.txt";
+//        String analyze = "3000_" + bibtype + "_TEST.txt";
+//        
+        
         
         PrintWriter w = new PrintWriter(new File(path + analyze + "withoutFont.txt"));
         Scanner s = new Scanner(new File(path + analyze));

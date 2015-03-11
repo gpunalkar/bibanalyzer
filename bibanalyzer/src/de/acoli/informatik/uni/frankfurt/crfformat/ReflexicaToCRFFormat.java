@@ -21,6 +21,7 @@
 
 package de.acoli.informatik.uni.frankfurt.crfformat;
 
+import de.acoli.informatik.uni.frankfurt.processing.ReferenceUtil;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -83,6 +84,7 @@ public class ReflexicaToCRFFormat {
         colorMap.put("CCFF99", "<JournalTitle>");
         colorMap.put("FFD9B3", "<BookTitle>");
         colorMap.put("FFCC66", "<VolumeID>");
+        colorMap.put("FFCC66'", "<VolumeID>");
         colorMap.put("C8BE84", "<IssueID>");
 
         //colorMap.put("D279FF", "<Page>");
@@ -119,6 +121,7 @@ public class ReflexicaToCRFFormat {
     // Replace Reflexica's escape references.
     static {
         replacements.put("&#151;", "—");
+        replacements.put("&#8211;", "–");
         replacements.put("&#150;", "-");
         replacements.put("&#252;", "ü");
         replacements.put("&#236;", "ì");
@@ -202,6 +205,8 @@ public class ReflexicaToCRFFormat {
         replacements.put("&#171;", "«");
         replacements.put("&#263;", "ć");
         replacements.put("&#134;", "′");
+        replacements.put("&#8220;", "“");
+        
 
         replacements.put("&#214;", "Ö");
         replacements.put("&#237;", "í");
@@ -217,6 +222,11 @@ public class ReflexicaToCRFFormat {
         replacements.put("&#173;", ""); // ??
 
     }
+    
+    
+    public static String STYLEINFO = " class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;\n" +
+"margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph;\n" +
+"text-indent:-.25in;line-height:normal;text-autospace:none'";
 
     public static void main(String[] args) throws FileNotFoundException {
         
@@ -229,6 +239,35 @@ public class ReflexicaToCRFFormat {
     
     }
         
+    
+    // Get all references enclosed between <p> </p> attributes.
+    public static ArrayList<String> getPAttributes(String reflexInputFile) throws FileNotFoundException {
+        
+        ArrayList<String> rval = new ArrayList<String>();
+        
+        StringBuilder sb = new StringBuilder();
+        Scanner s = new Scanner(new File(reflexInputFile), "UTF-8");
+        while(s.hasNextLine()) {
+            String aLine = s.nextLine().trim();
+            sb.append(aLine + " ");
+        }
+        s.close();
+
+        
+        // Split between "<p " and "</p>"
+        final Pattern pattern = Pattern.compile("<p (.+?)</p>");
+        final Matcher matcher = pattern.matcher(sb.toString());
+        while(matcher.find()) {
+            String aMatch = matcher.group(0);
+            if(verbose)
+            System.out.println("A reference match in the HTML file: -> " + aMatch);
+            rval.add(aMatch);
+        }
+        System.out.println("Read in : " + rval.size() + " html references.");
+        return rval;
+    }
+    
+    
 
     public static void convertReflexicaHTMLVisualizationToCRFOutput(String reflexInput,
             String crfOutput) throws FileNotFoundException {
@@ -237,9 +276,18 @@ public class ReflexicaToCRFFormat {
         PrintWriter w = new PrintWriter(new File(crfOutput));
 
         // Read in Reflexica visualization.
-        Scanner s = new Scanner(new File(reflexInput));
-        while (s.hasNextLine()) {
-            String aLine = s.nextLine().trim();
+        ArrayList<String> htmlReferences = getPAttributes(reflexInput);
+        
+        for(String anHTMLRef : htmlReferences) {
+            String aLine = anHTMLRef.trim();
+            
+            // Replace some stuff (ReferenceManager second version).
+            aLine = aLine.replace(STYLEINFO, "");
+            aLine = aLine.replace("# ", "#");
+            aLine = aLine.replace(": #", ":#");
+            aLine = aLine.replace("' >", "'>");
+            
+            
             if(verbose) {
                 System.out.println(aLine);
             }
@@ -267,7 +315,7 @@ public class ReflexicaToCRFFormat {
                 }
                 
                 //System.out.println("->" + aLine + "<-");
-                ArrayList<String> tokensForLeftPart = tokenize(aLine);
+                ArrayList<String> tokensForLeftPart = ReferenceUtil.tokenize(aLine, false);
                 w.write("<BOR> BOR\n<&nbsp;> &nbsp;\n");
                 for (String t : tokensForLeftPart) {
                     if(verbose)
@@ -298,7 +346,7 @@ public class ReflexicaToCRFFormat {
                     System.out.println(leftPart);
                     System.exit(0);
                 }
-                ArrayList<String> tokensForLeftPart = tokenize(leftPart);
+                ArrayList<String> tokensForLeftPart = ReferenceUtil.tokenize(leftPart, false);
                 for (String t : tokensForLeftPart) {
                     if(verbose)
                         System.out.println(label + " " + t);
@@ -329,7 +377,7 @@ public class ReflexicaToCRFFormat {
                     }
                 }
 
-                ArrayList<String> aA = tokenize(addAlso);
+                ArrayList<String> aA = ReferenceUtil.tokenize(addAlso, false);
                 for (String t : aA) {
                     if(verbose)
                         System.out.println("<dum>" + " " + t);
@@ -344,9 +392,8 @@ public class ReflexicaToCRFFormat {
             w.write("\n");
         
             }
-            
+        
         }
-        s.close();
 
         w.flush();
         w.close();
@@ -454,7 +501,7 @@ public class ReflexicaToCRFFormat {
             if (colorMap.containsKey(color)) {
                 label = colorMap.get(color);
             } else {
-                System.out.println("No label found for color: " + color);
+                System.out.println("No label found for color: ->" + color + "<-");
                 System.exit(0);
             }
             treemap.put(start, plaintext + "|" + label);
@@ -493,48 +540,5 @@ public class ReflexicaToCRFFormat {
     
     
     
-    /**
-     * Bibanalyzer's custom tokenization.
-     * @param aReference
-     * @return 
-     */
-    public static ArrayList<String> tokenize(String aReference) {
-
-        ArrayList<String> rval = new ArrayList<>(100);
-
-        String[] split = aReference.split(
-                "(?<=\\s)|(?=\\s)|" + // space
-                "(?<=\\.)|(?=\\.)|" + // period
-                "(?<=,)|(?=,)|" + // comma
-                "(?<=\\))|(?=\\))|" + // closing bracket 
-                "(?<=\\()|(?=\\()|" + // opening bracket
-                "(?<=:)|(?=:)|" + // colon
-                "(?<=;)|(?=;)|" + // semicolon
-                "(?<=-)|(?=-)|" + // hyphen
-                "(?<=–)|(?=–)|" + // hyphen
-                "(?<=“)|(?=“)|" + //
-                "(?<=”)|(?=”)|"
-                + "(?<=')|(?=')|"
-                + "(?<=‘)|(?=‘)|"
-                + "(?<=’)|(?=’)|"
-                + "(?<=/)|(?=/)|"
-                + "(?<=„)|(?=„)|"
-                + "(?<=\\[)|(?=\\[)|" + // opening square bracket
-                "(?<=\\])|(?=\\])" // closing square bracket
-        );
-
-        for (String s : split) {
-            if (s.length() > 0) {
-                if (s.equals(" ")) {
-                    s = "&nbsp;"; // Replace whitespace by special tag.
-                }
-                rval.add(s);
-                //System.out.println("token: ->"  + s + "<-");
-            } else {
-                //System.out.println("There is a wrong item here.");
-            }
-        }
-        return rval;
-    }
-
+   
 }
