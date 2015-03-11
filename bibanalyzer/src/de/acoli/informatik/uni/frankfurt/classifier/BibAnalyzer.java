@@ -78,8 +78,9 @@ public class BibAnalyzer {
 
     //public static final String INPUT_FILE_NAME = "2000_article_GOLD_raw.txt";
     
-    public static final String INPUT_FILE_NAME = "References_ganesh.txt";
-    //public static final String INPUT_FILE_NAME = "rest_b.txt";
+    
+    
+    public static final String INPUT_FILE_NAME = "References-out.utf8.htm.oneliners.txt";
     
     //public static final String INPUT_FILE_NAME = "input_plaintext_springer2.txt";
     //public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";

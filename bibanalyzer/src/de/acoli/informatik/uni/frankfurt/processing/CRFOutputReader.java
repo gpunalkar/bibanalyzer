@@ -29,7 +29,7 @@ import java.util.Scanner;
 /**
  * Description:
  *
- * Utility class to obtain a list of tuples (token + lable) for a CRF mallet
+ * Utility class to obtain a list of tuples (token + label) for a CRF mallet
  * format file.
  *
  *

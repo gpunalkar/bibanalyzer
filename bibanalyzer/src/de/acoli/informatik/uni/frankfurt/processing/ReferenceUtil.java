@@ -313,6 +313,47 @@ public class ReferenceUtil {
         }
         return rval;
     }
+    
+    
+    
+    /*
+     * 
+     * @param tokensAndLabels
+     * @return 
+     */
+    private static String helpUntokenize(ArrayList<String[]> tokensAndLabels) {
+        String rval = "";
+        for(String[] tokenLabel : tokensAndLabels) {
+            String token = tokenLabel[1];
+            if(token.equals("&nbsp;")) {
+                token = " ";
+            }
+            rval = rval.concat(token);
+        }
+        return rval;
+    }
+    
+    
+    /**
+     * "Untokenize" one reference.
+     * Untokenize means: append all tokens to form a plaintext reference (one-line!) string.
+     * 
+     * @param crfFormatFile
+     * @return
+     * @throws FileNotFoundException 
+     */
+    public static ArrayList<String> untokenize(String crfFormatFile) throws FileNotFoundException {
+        ArrayList<String> rval = new ArrayList<>();
+        ArrayList<ArrayList<String[]>> allReferences = CRFOutputReader.getPredictedTokensAndTagsForReferences(crfFormatFile, true);
+        for(ArrayList<String[]> oneReference : allReferences) {
+            String plaintextOneliner = helpUntokenize(oneReference);
+            plaintextOneliner = plaintextOneliner.replace("BOR ", "").replace(" EOR", "");
+            rval.add(plaintextOneliner);
+        }
+        return rval;
+    }
+    
+    
 
     /**
      * Tokenization demo.
