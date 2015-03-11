@@ -42,6 +42,8 @@ public class RerankerDemo2 {
     public static String BIBANALYZER_CRF =  DIR + "/Bibanalyzer/References-out-bibanalyzer-tagged_combined.txt";
     
     
+    
+    
     // Accordances of the two analyses.
     public static String ACCORDANCE_DIR =  DIR + "/accordances/";
     // Label matrix.

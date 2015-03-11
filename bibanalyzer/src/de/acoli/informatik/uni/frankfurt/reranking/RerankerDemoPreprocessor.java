@@ -41,6 +41,7 @@ import java.util.ArrayList;
  */
 public class RerankerDemoPreprocessor {
     
+    // Specify path of HTML file here.
     public static String REFLEXICA_HTML = "input/reranker/Reflexica/1082References/Reflexica/References-out.utf8.htm";
     public static String REFLEXICA_CRF = "input/reranker/Reflexica/1082References/Reflexica/References-out.utf8.htm.txt";
     public static String REFLEXICA_ONELINERS = "input/reranker/Reflexica/1082References/Reflexica/References-out.utf8.htm.oneliners.txt";
