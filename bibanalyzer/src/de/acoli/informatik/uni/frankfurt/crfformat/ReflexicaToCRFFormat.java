@@ -94,6 +94,9 @@ public class ReflexicaToCRFFormat {
 
         colorMap.put("FFFF49", "<PublisherName>");
         colorMap.put("00A5E0", "<PublisherLocation>");
+        colorMap.put("C0FFC0", "<PublisherLocation>"); // from Reference Manager!
+        // Maybe ConfEventName ?
+        
         colorMap.put("FF9933", "<ChapterTitle>");
         colorMap.put("9999FF", "<EditionNumber>");
         colorMap.put("BDBAD6", "<InstitutionalAuthorName>");
@@ -101,10 +104,13 @@ public class ReflexicaToCRFFormat {
 
         colorMap.put("FF0099", "<ConfEventName>");
         colorMap.put("FF6666", "<BibComments>");
+        colorMap.put("FFFF0F", "<BibComments>"); // from Reference Manager! (looks like PublisherName).
+        
         colorMap.put("CC0000", "<NumberInSeries>");
         colorMap.put("CC9900", "<ConfEventLocation>");
 
         colorMap.put("04B486", "<Url>");
+        colorMap.put("FF3300", "<Url>"); // from Reference Manager!
         colorMap.put("04B486", "<RefSource>");
 
         colorMap.put("CFBFB1", "<Doi>");
@@ -123,11 +129,14 @@ public class ReflexicaToCRFFormat {
         replacements.put("&#151;", "—");
         replacements.put("&#8211;", "–");
         replacements.put("&#150;", "-");
+        replacements.put("&#8212;", "—");
+        
         replacements.put("&#252;", "ü");
         replacements.put("&#236;", "ì");
         replacements.put("&#246;", "ö");
         replacements.put("&#248;", "ø");
         replacements.put("&#224;", "à");
+        replacements.put("&#194;", "Â");
         replacements.put("&#956;", "μ");
         replacements.put("&#163;", "£");
         replacements.put("&#161;", "¡");
@@ -136,12 +145,14 @@ public class ReflexicaToCRFFormat {
         replacements.put("&#176;", "°");
         replacements.put("&#945;", "α");
         replacements.put("&#946;", "β");
+        replacements.put("&#211;", "Ó");
         replacements.put("&#249;", "ù");
         replacements.put("&#966;", "φ");
         replacements.put("&#250;", "ú");
         replacements.put("&#186;", ""); // ?
         replacements.put("&#189;", ""); // ?
         replacements.put("&#139;", "‹");
+        replacements.put("&#8224;", "†");
         replacements.put("&#234;", "ê");
         replacements.put("&#167;", "§");
         replacements.put("&#207;", "Ï");
@@ -200,6 +211,7 @@ public class ReflexicaToCRFFormat {
         replacements.put("&#337;", "ő");
         replacements.put("&#251;", "û");
         replacements.put("&#242;", "ò");
+        replacements.put("&#350;", "Ş");
         replacements.put("&#193;", "Á");
         replacements.put("&#187;", "»");
         replacements.put("&#171;", "«");
@@ -216,6 +228,7 @@ public class ReflexicaToCRFFormat {
         replacements.put("&#8216;", "‘");
         replacements.put("&#148;", "”");
         replacements.put("&#147;", "“");
+        replacements.put("&#8221;", "”");
 
         replacements.put("&amp;nbsp;", " ");
 
@@ -255,7 +268,7 @@ public class ReflexicaToCRFFormat {
 
         
         // Split between "<p " and "</p>"
-        final Pattern pattern = Pattern.compile("<p (.+?)</p>");
+        final Pattern pattern = Pattern.compile("(<p |<p>)(.+?)</p>");
         final Matcher matcher = pattern.matcher(sb.toString());
         while(matcher.find()) {
             String aMatch = matcher.group(0);
@@ -283,9 +296,12 @@ public class ReflexicaToCRFFormat {
             
             // Replace some stuff (ReferenceManager second version).
             aLine = aLine.replace(STYLEINFO, "");
+            
+            // Remove unnecessary whitespace.
             aLine = aLine.replace("# ", "#");
             aLine = aLine.replace(": #", ":#");
             aLine = aLine.replace("' >", "'>");
+            aLine = aLine.replace("</ ", "</");
             
             
             if(verbose) {

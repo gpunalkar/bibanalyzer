@@ -15,8 +15,11 @@ import java.io.FileNotFoundException;
  */
 public class ReflexicaHTMLtoCRFFormatDemo {
     
-    public static String REFLEXICA_HTML = "input/reranker/Reflexica/115_Refs.utf8.htm";
-    public static String REFLEXICA_CRF = "input/reranker/Reflexica/115_Refs.utf8.htm.txt";
+    //public static String REFLEXICA_HTML = "input/reranker/Reflexica/115_Refs.utf8.htm";
+    //public static String REFLEXICA_CRF = "input/reranker/Reflexica/115_Refs.utf8.htm.txt";
+    
+    public static String REFLEXICA_HTML = "input/reranker/Reflexica/References-out.utf8.htm";
+    public static String REFLEXICA_CRF = "input/reranker/Reflexica/References-out.utf8.htm.txt";
     
     
     public static void main(String[] args) throws FileNotFoundException {
