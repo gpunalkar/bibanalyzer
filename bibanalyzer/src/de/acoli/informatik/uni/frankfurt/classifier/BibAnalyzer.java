@@ -267,7 +267,7 @@ public class BibAnalyzer {
         pathsToBeDeleted.add(realPath + "data/tagged/per_model_visualized/");
         pathsToBeDeleted.add(realPath + "data/tagged/combined/");
         pathsToBeDeleted.add(realPath + "data/tagged/combined_visualized/");
-
+        
         // Careful. Only delete the contents of these two folders.
         // Do not the stylesheet.
         pathsToBeDeleted.add(realPath + "data/a++/per_model/");

@@ -116,9 +116,9 @@ public class DifferentAnalysesIntoOneCRFFormatCombiner {
         // Print first twenty references and see which ones are equal.
         for (int i = 0; i < 20; i++) {
             for (int j = 0; j < cube[i].length; j++) {
-                System.out.printf("%5d ", cube[i][j]);
+           //     System.out.printf("%5d ", cube[i][j]);
             }
-            System.out.println();
+           // System.out.println();
         }
 
         ArrayList<Integer> allSame = new ArrayList<>();
@@ -168,8 +168,8 @@ public class DifferentAnalysesIntoOneCRFFormatCombiner {
         System.out.println("Num tokens = " + numTokens);
 
         // Analysis, sentence, token-label-tuple.
-        System.out.println(allCrfAnalyses.get(0).get(3).get(2)[1]);
-        System.out.println(allCrfAnalyses.get(1).get(3).get(2)[1]);
+    //    System.out.println(allCrfAnalyses.get(0).get(3).get(2)[1]);
+    //    System.out.println(allCrfAnalyses.get(1).get(3).get(2)[1]);
 //        System.out.println(allCrfAnalyses.get(2).get(3).get(2)[1]);
 //        System.out.println(allCrfAnalyses.get(3).get(3).get(2)[1]);
 //        System.out.println(allCrfAnalyses.get(4).get(3).get(2)[1]);
@@ -217,8 +217,8 @@ public class DifferentAnalysesIntoOneCRFFormatCombiner {
 
         
         // Add tokens column to the start of the matrix.
-        System.out.println(tokens.length + " <---");
-        System.out.println(tokens[0]);
+        //System.out.println(tokens.length + " <---");
+        //System.out.println(tokens[0]);
         
         
         

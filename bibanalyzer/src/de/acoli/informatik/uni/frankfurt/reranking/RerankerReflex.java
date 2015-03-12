@@ -168,6 +168,9 @@ public class RerankerReflex {
                                     || reflToken.equals("<FamilyName>")
                                     || reflToken.equals("<Year>")
                                     || reflToken.equals("<JournalTitle>")
+                                    || reflToken.equals("<Particle>")
+                                    || reflToken.equals("<Prefix>")
+                                    
                                     || reflToken.equals("<Initials>")
                                     || reflToken.equals("<PublisherLocation>")
                                     // Bibeditor name.

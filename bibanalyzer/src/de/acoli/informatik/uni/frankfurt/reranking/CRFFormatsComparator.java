@@ -143,13 +143,13 @@ public class CRFFormatsComparator {
                 System.out.println("Length mismatch: sentence(" + i + "):");
                 notComparable++;
                 for (String[] t : toksGOLD) {
-                        System.out.print(t[0] + " ");
+                        //System.out.print(t[0] + " ");
                 }
                 System.out.println();
                 for (String[] t : toksOTHER) {
-                        System.out.print(t[0] + " ");
+                        //System.out.print(t[0] + " ");
                 }
-               System.out.println();
+               //System.out.println();
                 //System.out.println();
                 // System.exit(0);
             } else {
