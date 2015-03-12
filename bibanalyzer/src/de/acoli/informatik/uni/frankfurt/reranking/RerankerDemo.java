@@ -22,62 +22,82 @@
 
 package de.acoli.informatik.uni.frankfurt.reranking;
 
+import de.acoli.informatik.uni.frankfurt.classifier.BibAnalyzer;
 import de.acoli.informatik.uni.frankfurt.crfformat.ReflexicaToCRFFormat;
+import de.acoli.informatik.uni.frankfurt.processing.ReferenceUtil;
 import de.acoli.informatik.uni.frankfurt.visualization.CRFVisualizer;
+import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 
 /**
  *
+ * Idea: Use Reference Manager tokenization
+ * as input to BibAnalyzer pipeline.
+ * 
+ * -> Combine both analyses into one.
+ * 
  * @author niko
  */
 public class RerankerDemo {
     
-    
-    // Reflex analysis.
-    public static String REFLEXICA_HTML = "input/reranker/Reflexica/2000_article_REFLEXICA_raw.txt.utf8.html";
-    public static String REFLEXICA_CRF = "input/reranker/Reflexica/2000_article_REFLEXICA_raw.txt.utf8.html_CRFout.txt";
-    //public static String REFLEXICA_HTML = "input/reranker/Reflexica/restREFLEXICA.html";
-    //public static String REFLEXICA_CRF = "input/reranker/Reflexica/restREFLEXICA.html_CRFout.txt";
+    // Specify path to Reflexica HTML file here.
+    public static String FILE_NAME = "1082_Refs.utf8.htm";
     
     
-    // Bibanalyzer analysis.
-    public static String BIBANALYZER_CRF = "input/reranker/Bibanalyzer/SPRINGER_tagged_combined.txt";
-    public static String BIBANALYZER_HTML = "input/reranker/Bibanalyzer/SPRINGER_tagged_combined.txt_HTMLout.html";
-    //public static String BIBANALYZER_CRF = "input/reranker/Bibanalyzer/restCRF.txt";
-    //public static String BIBANALYZER_HTML = "input/reranker/Bibanalyzer/restCRF.html";
+    
+    
+    public static String DIR = "input/reranker/";
+    
+    public static String REFLEXICA_HTML = DIR + "Reflexica/" + FILE_NAME;
+    public static String REFLEXICA_CRF = DIR + "Reflexica/" + FILE_NAME + ".txt";
+    public static String REFLEXICA_ONELINERS = DIR + "Reflexica/" + FILE_NAME + ".oneliners.txt";
+    
+    // Default location where bibanalyzer analysis is generated.
+    public static String BIBANALYZER_CRF =  "data/tagged/combined/SPRINGER/tagged_combined.txt";
     
     
     // Accordances of the two analyses.
-    public static String ACCORDANCE_DIR = "input/reranker/accordances/";
+    public static String ACCORDANCE_DIR =  DIR + "/accordances/";
     // Label matrix.
-    public static String LABEL_MATRIX = "input/reranker/Reranked/label.matrix";
+    public static String LABEL_MATRIX =  DIR + "/Reranked/label.matrix";
     // New reranked output (Reflexica vs. CRF)
-    public static String RERANKED_OUTPUT = "input/reranker/Reranked/rerankerout.txt";
+    public static String RERANKED_OUTPUT =  DIR + "/Reranked/rerankerout.txt";
     // New reranked output (pretty print HTML visualization)
-    public static String RERANKED_OUTPUT_HTML = "input/reranker/Reranked/rerankerout.txt.html";
+    public static String RERANKED_OUTPUT_HTML =  DIR + "/Reranked/rerankerout.txt.html";
     
     
     
-    /**
-     * 
-     * @param args
-     * @throws FileNotFoundException 
-     */
-    public static void main(String[] args) throws FileNotFoundException {
+    
+    
+    public static void main(String[] args) throws FileNotFoundException, IOException {
         
-        // Convert Reflexica HTML to CRF format.
-        System.out.println("Converting Reflexica HTML to CRF format...");
+        // 1. Convert Reflexica HTML to CRF token format.
         ReflexicaToCRFFormat.convertReflexicaHTMLVisualizationToCRFOutput(REFLEXICA_HTML, REFLEXICA_CRF);
-        System.out.println("... done.");
+    
+        
+        // 2. Generate one-line (plaintext) references from (Reflexica) CRF format.
+        // ("untokenize").
+        ArrayList<String> untokenizedReferences = ReferenceUtil.untokenize(REFLEXICA_CRF);
+        PrintWriter w = new PrintWriter(new File(REFLEXICA_ONELINERS));
+        
+        for(String aOneliner : untokenizedReferences) {
+            w.write(aOneliner + "\n");
+        }
+        w.flush();
+        w.close();
+        
+        // 3. Run Bibanalyzer on these plaintext references.
+        String userDir = System.getProperty("user.dir");
+        String realPath = userDir + "/";
+        String[] inputFile = new String[1];
+        inputFile[0] = REFLEXICA_ONELINERS;
+        BibAnalyzer.analyzeBibliography(inputFile, realPath);
         
         
-        // Convert Bibanalyzer CRF it to HTML (for pretty viewing).
-        System.out.println("Converting Bibanalyzer CRF format to HTML...");
-        CRFVisualizer.visualizeCRFOutput(BIBANALYZER_CRF , BIBANALYZER_HTML);
-        System.out.println("... done.");
-        
-        
+        // 4. Rerank the two analyses.
         // Detect the common subset of references to be analyzed.
         ArrayList<Integer> referencesWithSameNumberOfTokens = CRFFormatsComparator.compareTwoAnalyses(REFLEXICA_CRF, BIBANALYZER_CRF);
         // Write them to accordance dir.
@@ -98,6 +118,8 @@ public class RerankerDemo {
         
         // Convert reranked result back to HTML.
         CRFVisualizer.visualizeCRFOutput(RERANKED_OUTPUT, RERANKED_OUTPUT_HTML);
+        
+        
         
         
     }

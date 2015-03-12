@@ -80,10 +80,10 @@ public class BibAnalyzer {
     
     
     
-    public static final String INPUT_FILE_NAME = "References-out.utf8.htm.oneliners.txt";
+    //public static final String INPUT_FILE_NAME = "1082_Refs.utf8.htm.oneliners.txt";
     
     //public static final String INPUT_FILE_NAME = "input_plaintext_springer2.txt";
-    //public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
+    public static final String INPUT_FILE_NAME = "input_plaintext_dblp.txt";
     
     
     public static final String PATH_TO_PLAINTEXT_INPUT = "input/plaintext_references/";
@@ -94,11 +94,11 @@ public class BibAnalyzer {
     public static final String PLAINTEXT_REFERENCES_INPUT_FILE = PATH_TO_PLAINTEXT_INPUT + INPUT_FILE_NAME;
 
     
-    public static boolean useDBLPModels = true;
+    public static boolean useDBLPModels = false;
     public static boolean useSpringerModels = true;
     
-    public static boolean useDBLPFeatureModels = true;
-    public static boolean useSpringerFeatureModels = true;
+    public static boolean useDBLPFeatureModels = false;
+    public static boolean useSpringerFeatureModels = false;
 
     /**
      * Post-processing output is a rule-based component of the program to fix
@@ -146,10 +146,18 @@ public class BibAnalyzer {
     // TODO: Improve with more data! > 12k references.
     
     // Three Springer specific CRF models (trained only on tokens).
-    public static final String CRF_MODEL_FILE_SPRINGER_A_ONLYTOK = "SPRINGER_BibArticle_onlytokens_2000";
-    public static final String CRF_MODEL_FILE_SPRINGER_B_ONLYTOK = "SPRINGER_BibBook_onlytokens_2000";
-    public static final String CRF_MODEL_FILE_SPRINGER_C_ONLYTOK = "SPRINGER_BibChapter_onlytokens_2000";
+    //public static final String CRF_MODEL_FILE_SPRINGER_A_ONLYTOK = "SPRINGER_BibArticle_onlytokens_2000";
+    //public static final String CRF_MODEL_FILE_SPRINGER_B_ONLYTOK = "SPRINGER_BibBook_onlytokens_2000";
+    //public static final String CRF_MODEL_FILE_SPRINGER_C_ONLYTOK = "SPRINGER_BibChapter_onlytokens_2000";
 
+    public static final String CRF_MODEL_FILE_SPRINGER_A_ONLYTOK = "SPRINGER_BibArticle_onlytokens_15000";
+    public static final String CRF_MODEL_FILE_SPRINGER_B_ONLYTOK = "SPRINGER_BibBook_onlytokens_15000";
+    public static final String CRF_MODEL_FILE_SPRINGER_C_ONLYTOK = "SPRINGER_BibChapter_onlytokens_15000";
+
+    
+    
+    
+    
     // Three Springer models trained on Springer data * with additional features *.
     public static final String CRF_MODEL_FILE_SPRINGER_A_FEAT = "SPRINGER_BibArticle_featured-year-initials-dblpdict-springerjournaltitle_11000";
     public static final String CRF_MODEL_FILE_SPRINGER_B_FEAT = "SPRINGER_BibBook_featured-year-initials-dblpdict-springerpubname_11000";
@@ -185,12 +193,12 @@ public class BibAnalyzer {
             // For articles and books it is okay to have only token level features...
             models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_A_ONLYTOK);
             models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_B_ONLYTOK);
-            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_C_ONLYTOK);
+            models.add(realPath + PATH_TO_SPRINGER_TRAINED_ONLYTOKENS + CRF_MODEL_FILE_SPRINGER_C_ONLYTOK);
 
             // For BibChapters we need more features ...
             //models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_A_FEAT);
             //models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_B_FEAT);
-            models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_C_FEAT);
+            //models.add(realPath + PATH_TO_SPRINGER_TRAINED_FEATURED + CRF_MODEL_FILE_SPRINGER_C_FEAT);
         }
 
         System.out.println("...(" + models.size() + ")");

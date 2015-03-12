@@ -126,6 +126,9 @@ public class ReflexicaToCRFFormat {
 
     // Replace Reflexica's escape references.
     static {
+        
+        // TODO: StringEscapeUtils.unescapeHtml4();
+        
         replacements.put("&#151;", "—");
         replacements.put("&#8211;", "–");
         replacements.put("&#150;", "-");
