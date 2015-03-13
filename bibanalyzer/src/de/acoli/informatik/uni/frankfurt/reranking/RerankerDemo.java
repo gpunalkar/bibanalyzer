@@ -47,8 +47,8 @@ public class RerankerDemo {
     // Specify path to Reflexica HTML file here.
     //public static String FILE_NAME = "1082_Refs.utf8.htm";
     
-    //public static String FILE_NAME = "115_Refs.utf8.htm";
-    public static String FILE_NAME = "Refs.utf8.html";
+    public static String FILE_NAME = "115_Refs.utf8.htm";
+    //public static String FILE_NAME = "Refs.utf8.html";
     
     
     public static String DIR = "input/reranker/";
@@ -119,7 +119,10 @@ public class RerankerDemo {
         // 5. Rerank the two analyses.
         
         // Detect the common subset of references to be analyzed.
-        ArrayList<Integer> referencesWithSameNumberOfTokens = CRFFormatsComparator.compareTwoAnalyses(REFLEXICA_CRF, BIBANALYZER_CRF_WITHOUT_DUMMY);
+        ArrayList<ArrayList<Integer>> sameOrNotSame = CRFFormatsComparator.compareTwoAnalyses(REFLEXICA_CRF, BIBANALYZER_CRF_WITHOUT_DUMMY);
+        ArrayList<Integer> referencesWithSameNumberOfTokens = sameOrNotSame.get(0);
+        ArrayList<Integer> referencesWithInequalNumberOfTokens = sameOrNotSame.get(1);
+
         // Write them to accordance dir.
         CRFFormatsComparator.exportAccordances(referencesWithSameNumberOfTokens, ACCORDANCE_DIR, REFLEXICA_CRF, BIBANALYZER_CRF);
         
@@ -135,6 +138,37 @@ public class RerankerDemo {
         // Combine their analyses into a better one. (Reranking mechanism).
         RerankerReflex.rerankAnalyses(LABEL_MATRIX, RERANKED_OUTPUT);
         // TODO: Postprocess and remove, e.g., <Title> tags within <Initials> and <FamilyName>...
+        
+        
+        // Heuristic:
+        // Get all non-comparable references from Reflexica.
+        ArrayList<ArrayList<String[]>> reflexicaReferences = CRFOutputReader.getPredictedTokensAndTagsForReferences(REFLEXICA_CRF, true);
+        ArrayList<ArrayList<String[]>> rerankedReferences = CRFOutputReader.getPredictedTokensAndTagsForReferences(RERANKED_OUTPUT, true);
+        
+        // Add them to the reranked analyses in the right places.
+        ArrayList<ArrayList<String[]>> newlyRerankedReferences = new ArrayList<>();
+        for(int i = 0; i < reflexicaReferences.size(); i++) {
+            if(referencesWithInequalNumberOfTokens.contains(i)) {
+                ArrayList<String[]> reflexAnalysis = reflexicaReferences.get(i);
+                newlyRerankedReferences.add(reflexAnalysis);
+            }
+            if(i < rerankedReferences.size())
+            newlyRerankedReferences.add(rerankedReferences.get(i));
+        }
+        
+        PrintWriter wFinal = new PrintWriter(new File(RERANKED_OUTPUT));
+        for(ArrayList<String[]> ref : newlyRerankedReferences) {
+            for(String[] tokLab : ref) {
+                wFinal.write(tokLab[0] + " " + tokLab[1] + "\n");
+            }
+            wFinal.write("\n");
+        }
+        wFinal.flush();
+        wFinal.close();
+        
+        
+        
+        
         
         // Convert reranked result back to HTML.
         CRFVisualizer.visualizeCRFOutput(RERANKED_OUTPUT, RERANKED_OUTPUT_HTML);

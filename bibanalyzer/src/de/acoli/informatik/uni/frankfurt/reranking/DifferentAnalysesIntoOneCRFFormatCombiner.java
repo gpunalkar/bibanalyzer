@@ -100,15 +100,13 @@ public class DifferentAnalysesIntoOneCRFFormatCombiner {
 
         for (int i = 0; i < accordances.size(); i++) {
             File file = accordances.get(i);
-            System.out.println("analyzing " + file.getName());
+            //System.out.println("analyzing " + file.getName());
             Scanner s = new Scanner(file);
             while (s.hasNextLine()) {
                 String line = s.nextLine().trim();
-                if (!line.startsWith("not")) {
                     int aReferenceNumber = Integer.parseInt(line);
                     cube[aReferenceNumber][i] = 1;
-                }
-
+                
             }
             s.close();
         }
@@ -165,7 +163,7 @@ public class DifferentAnalysesIntoOneCRFFormatCombiner {
             allCrfAnalyses.add(references);
         }
 
-        System.out.println("Num tokens = " + numTokens);
+        //System.out.println("Num tokens = " + numTokens);
 
         // Analysis, sentence, token-label-tuple.
     //    System.out.println(allCrfAnalyses.get(0).get(3).get(2)[1]);
@@ -186,7 +184,7 @@ public class DifferentAnalysesIntoOneCRFFormatCombiner {
             
             int currentTokenIndex = 0;
             ArrayList<ArrayList<String[]>> aCrfAnalysis = allCrfAnalyses.get(i);
-            System.out.println("Num sentences: " + aCrfAnalysis.size());
+           // System.out.println("Num sentences: " + aCrfAnalysis.size());
 
             // For all sentences.
             for (int s = 0; s < aCrfAnalysis.size(); s++) {

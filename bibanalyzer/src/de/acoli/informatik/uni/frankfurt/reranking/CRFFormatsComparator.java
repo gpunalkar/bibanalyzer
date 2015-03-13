@@ -70,8 +70,22 @@ public class CRFFormatsComparator {
         
     }
         
-    public static ArrayList<Integer> compareTwoAnalyses(String compareOne, String compareWith) throws FileNotFoundException {
+    /**
+     * 
+     * index 0 contains all reference numbers with the same number of tokens.
+     * index 1 contains all reference numbers with unequal number of tokens.
+     * (or with equal number of tokens but where at least one differs in their form.)
+     * 
+     * @param compareOne
+     * @param compareWith
+     * @return
+     * @throws FileNotFoundException 
+     */
+    public static ArrayList<ArrayList<Integer>> compareTwoAnalyses(String compareOne, String compareWith) throws FileNotFoundException {
     
+        ArrayList<ArrayList<Integer>> rval = new ArrayList<ArrayList<Integer>>();
+        
+        ArrayList<Integer> linesWithInequalNumberOfTokens = new ArrayList<>();
         ArrayList<Integer> linesWithSameNumberOfTokens = new ArrayList<>();
         
         Scanner s1 = new Scanner(new File(compareOne));
@@ -140,6 +154,9 @@ public class CRFFormatsComparator {
             ArrayList<String[]> toksOTHER = references2.get(i);
 
             if (toksGOLD.size() != toksOTHER.size()) {
+                
+                linesWithInequalNumberOfTokens.add(i);
+                
                 System.out.println("Length mismatch: sentence(" + i + "):");
                 notComparable++;
                 for (String[] t : toksGOLD) {
@@ -169,15 +186,16 @@ public class CRFFormatsComparator {
                     // - –
                     // − –
                     // ’ '
+                    
                     // Gold annotations have their tokens at the first position.
                     // All the other annotations have their tokens at the second position.
-                    String goldTok = toksGOLD.get(g)[0].replace("-", "–").replace("−", "–").replace("’", "'");
+                    String goldTok = toksGOLD.get(g)[1].replace("-", "–").replace("−", "–").replace("’", "'");
                     String otherTok = toksOTHER.get(g)[1].replace("-", "–").replace("−", "–").replace("’", "'");
 
                     if (!goldTok.equals(otherTok)) {
                         //System.out.println("->" + goldTok + "<-vs.->" + otherTok + "<-");
                         atLeastOneTokenDifferent = true;
-                        //notComparable++;
+                        notComparable++;
                         break;
                     } else {
                         //System.out.print(goldTok + "-" + reflexTok);
@@ -186,7 +204,7 @@ public class CRFFormatsComparator {
                 }
 
                 // Everything alright.
-                if (!atLeastOneTokenDifferent) {
+                if (atLeastOneTokenDifferent) {
                     //System.out.println(i);
                 }
                 
@@ -196,7 +214,11 @@ public class CRFFormatsComparator {
         }
         System.out.println("\n\nnot comparable: " + notComparable);
         
-        return linesWithSameNumberOfTokens;
+        
+        rval.add(linesWithSameNumberOfTokens);
+        rval.add(linesWithInequalNumberOfTokens);
+        
+        return rval;
     }
 
     
